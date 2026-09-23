@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stragentum//Event Scout//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stragentum Prospect Events
+X-WR-TIMEZONE:Pacific/Auckland
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Pacific/Auckland
+BEGIN:STANDARD
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+TZNAME:NZST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700927T020000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+TZNAME:NZDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d37fff877276bc4c@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20260925T073000
+DTEND;TZID=Pacific/Auckland:20260925T090000
+SUMMARY:2026 State of a Thriving Nation Report Launch - Business Breakfast
+LOCATION:MinterEllisonRuddWatts\, PwC Tower\, Level 22\, 15 Customs Street 
+ West\, Auckland CBD
+DESCRIPTION:BOOK / REGISTER: https://www.forum.org.nz/events-and-courses/20
+ 26-state-of-a-thriving-nation-report-launch/\n\nFit: 4/5. Free senior-lead
+ er breakfast in an intimate networking format\, though whether registratio
+ n is open beyond Forum members is unconfirmed.\nOrganiser: Business Leader
+ s' Health & Safety Forum\nTime: 7:30am-9:00am\nVenue: MinterEllisonRuddWat
+ ts\, PwC Tower\, Level 22\, 15 Customs Street West\, Auckland CBD\nCost: T
+ BC (likely free/member-rate\; light breakfast provided)\nRegistration: RSV
+ P via forum.org.nz (email info@forum.org.nz for dietary requirements)\nAud
+ ience: Business leaders and senior executives engaged in workplace health 
+ & safety\, likely incl. CEOs/directors of Forum member organisations\nNetw
+ orking: Small breakfast briefing with networking before/after the report l
+ aunch\nSpeakers: TBC\nAgenda: Launch of the 2026 "State of a Thriving Nati
+ on" report\nUnverified: Organiser page could not be opened this run (netwo
+ rk egress blocked)\; whether this is open to non-member guests\, exact sen
+ iority mix\, cost and agenda details are inferred from search snippets onl
+ y.\nSource: https://www.forum.org.nz/events-and-courses/2026-state-of-a-th
+ riving-nation-report-launch/\n\nStatus: UNCONFIRMED prospect. Found 2026-0
+ 9-23\, last checked 2026-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.forum.o
+ rg.nz/events-and-courses/2026-state-of-a-thriving-nation-report-launch/">B
+ ook / register</a></b></p>BOOK / REGISTER: https://www.forum.org.nz/events
+ -and-courses/2026-state-of-a-thriving-nation-report-launch/<br><br>Fit: 4/
+ 5. Free senior-leader breakfast in an intimate networking format\, though 
+ whether registration is open beyond Forum members is unconfirmed.<br>Organ
+ iser: Business Leaders' Health &amp\; Safety Forum<br>Time: 7:30am-9:00am<
+ br>Venue: MinterEllisonRuddWatts\, PwC Tower\, Level 22\, 15 Customs Stree
+ t West\, Auckland CBD<br>Cost: TBC (likely free/member-rate\; light breakf
+ ast provided)<br>Registration: RSVP via forum.org.nz (email info@forum.org
+ .nz for dietary requirements)<br>Audience: Business leaders and senior exe
+ cutives engaged in workplace health &amp\; safety\, likely incl. CEOs/dire
+ ctors of Forum member organisations<br>Networking: Small breakfast briefin
+ g with networking before/after the report launch<br>Speakers: TBC<br>Agend
+ a: Launch of the 2026 "State of a Thriving Nation" report<br>Unverified: O
+ rganiser page could not be opened this run (network egress blocked)\; whet
+ her this is open to non-member guests\, exact seniority mix\, cost and age
+ nda details are inferred from search snippets only.<br>Source: https://www
+ .forum.org.nz/events-and-courses/2026-state-of-a-thriving-nation-report-la
+ unch/<br><br>Status: UNCONFIRMED prospect. Found 2026-09-23\, last checked
+  2026-09-23.</body></html>
+URL:https://www.forum.org.nz/events-and-courses/2026-state-of-a-thriving-na
+ tion-report-launch/
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:9950d2716e3445cc@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20260929T173000
+DTEND;TZID=Pacific/Auckland:20260929T193000
+SUMMARY:[?] StartupHaus Auckland - Sept 2026
+LOCATION:AWS Office\, Commercial Bay\, Level 13\, 18 Viaduct Harbour Avenue
+ \, Auckland CBD
+DESCRIPTION:BOOK / REGISTER: https://events.humanitix.com/startuphaus-auckl
+ and-sep-2026\n\nFit: 3/5. Brings VC/investor decision-makers together with
+  founders on capital and growth themes\, though many attendees are early-s
+ tage founders rather than established C-suite/PE leaders.\nOrganiser: Star
+ tupHaus (Haus events series)\nTime: Evening event\, exact time TBC (compar
+ able editions run ~5:30-9pm)\nVenue: AWS Office\, Commercial Bay\, Level 1
+ 3\, 18 Viaduct Harbour Avenue\, Auckland CBD\nCost: TBC\nRegistration: Via
+  Humanitix\nAudience: Startup founders\, venture capital investors\, start
+ up operators\nNetworking: Curated after-work networking with a founders pa
+ nel and a VCs panel\nSpeakers: TBC\nAgenda: Founders panel on exporting fr
+ om NZ\; VCs panel on capital allocation in the NZ startup market\nUnverifi
+ ed: No distinct organiser site found beyond the Humanitix listing (used as
+  url in lieu of an organiser page)\; exact time\, cost and speakers are un
+ confirmed as direct page fetch was blocked this run.\nSource: https://even
+ ts.humanitix.com/startuphaus-auckland-sep-2026\n\nStatus: UNCONFIRMED pros
+ pect. Found 2026-09-23\, last checked 2026-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://events.huma
+ nitix.com/startuphaus-auckland-sep-2026">Book / register</a></b></p>BOOK /
+  REGISTER: https://events.humanitix.com/startuphaus-auckland-sep-2026<br><
+ br>Fit: 3/5. Brings VC/investor decision-makers together with founders on 
+ capital and growth themes\, though many attendees are early-stage founders
+  rather than established C-suite/PE leaders.<br>Organiser: StartupHaus (Ha
+ us events series)<br>Time: Evening event\, exact time TBC (comparable edit
+ ions run ~5:30-9pm)<br>Venue: AWS Office\, Commercial Bay\, Level 13\, 18 
+ Viaduct Harbour Avenue\, Auckland CBD<br>Cost: TBC<br>Registration: Via Hu
+ manitix<br>Audience: Startup founders\, venture capital investors\, startu
+ p operators<br>Networking: Curated after-work networking with a founders p
+ anel and a VCs panel<br>Speakers: TBC<br>Agenda: Founders panel on exporti
+ ng from NZ\; VCs panel on capital allocation in the NZ startup market<br>U
+ nverified: No distinct organiser site found beyond the Humanitix listing (
+ used as url in lieu of an organiser page)\; exact time\, cost and speakers
+  are unconfirmed as direct page fetch was blocked this run.<br>Source: htt
+ ps://events.humanitix.com/startuphaus-auckland-sep-2026<br><br>Status: UNC
+ ONFIRMED prospect. Found 2026-09-23\, last checked 2026-09-23.</body></htm
+ l>
+URL:https://events.humanitix.com/startuphaus-auckland-sep-2026
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2a51d42e3ba07ff1@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20261013T183000
+DTEND;TZID=Pacific/Auckland:20261013T230000
+SUMMARY:New Zealand Food Awards Gala Dinner 2026
+LOCATION:Shed 10\, Shed 10\, Queens Wharf\, Auckland
+DESCRIPTION:BOOK / REGISTER: https://www.eventbrite.co.nz/e/new-zealand-foo
+ d-awards-gala-dinner-2026-tickets-1994523316932\n\nFit: 4/5. Strong FMCG/c
+ onsumer-goods theme fit with an industry-leader audience in a networking-f
+ riendly gala dinner format.\nOrganiser: New Zealand Food Awards (exact org
+ anising body TBC)\nTime: 6:30pm-11:00pm\nVenue: Shed 10\, Shed 10\, Queens
+  Wharf\, Auckland\nCost: TBC\nRegistration: Via Eventbrite\nAudience: Food
+  and beverage industry leaders\, finalists\, innovators\, scientists\, ret
+ ailers\, sponsors\nNetworking: Gala dinner with awards ceremony\; strong i
+ ndustry networking\nSpeakers: TBC\nAgenda: Awards ceremony celebrating New
+  Zealand food and beverage industry innovation\nUnverified: No distinct or
+ ganiser booking page found beyond the Eventbrite listing (used as url)\; e
+ xact organiser name\, cost and seniority mix are inferred from search snip
+ pets only\, direct fetch was blocked this run.\nSource: https://www.eventb
+ rite.co.nz/e/new-zealand-food-awards-gala-dinner-2026-tickets-199452331693
+ 2\n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, last checked 2026-09
+ -23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.eventbr
+ ite.co.nz/e/new-zealand-food-awards-gala-dinner-2026-tickets-1994523316932
+ ">Book / register</a></b></p>BOOK / REGISTER: https://www.eventbrite.co.nz
+ /e/new-zealand-food-awards-gala-dinner-2026-tickets-1994523316932<br><br>F
+ it: 4/5. Strong FMCG/consumer-goods theme fit with an industry-leader audi
+ ence in a networking-friendly gala dinner format.<br>Organiser: New Zealan
+ d Food Awards (exact organising body TBC)<br>Time: 6:30pm-11:00pm<br>Venue
+ : Shed 10\, Shed 10\, Queens Wharf\, Auckland<br>Cost: TBC<br>Registration
+ : Via Eventbrite<br>Audience: Food and beverage industry leaders\, finalis
+ ts\, innovators\, scientists\, retailers\, sponsors<br>Networking: Gala di
+ nner with awards ceremony\; strong industry networking<br>Speakers: TBC<br
+ >Agenda: Awards ceremony celebrating New Zealand food and beverage industr
+ y innovation<br>Unverified: No distinct organiser booking page found beyon
+ d the Eventbrite listing (used as url)\; exact organiser name\, cost and s
+ eniority mix are inferred from search snippets only\, direct fetch was blo
+ cked this run.<br>Source: https://www.eventbrite.co.nz/e/new-zealand-food-
+ awards-gala-dinner-2026-tickets-1994523316932<br><br>Status: UNCONFIRMED p
+ rospect. Found 2026-09-23\, last checked 2026-09-23.</body></html>
+URL:https://www.eventbrite.co.nz/e/new-zealand-food-awards-gala-dinner-2026
+ -tickets-1994523316932
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1e926370364528@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20261015T090000
+DTEND;TZID=Pacific/Auckland:20261015T170000
+SUMMARY:[?] Brand Summit 2026
+LOCATION:Grand Millennium Auckland\, Auckland CBD
+DESCRIPTION:BOOK / REGISTER: https://marketing.org.nz/brand-summit-2026\n\n
+ Fit: 3/5. Large in-person Auckland brand/marketing summit with strong cons
+ umer-goods/marketing theme fit\, but audience skews marketing-director rat
+ her than broad C-suite/PE.\nOrganiser: Marketing Association NZ (MANZ)\nTi
+ me: 9:00am-5:00pm\nVenue: Grand Millennium Auckland\, Auckland CBD\nCost: 
+ TBC (paid ticketed conference\; early-bird window closed 30 Jul 2026)\nReg
+ istration: Via marketing.org.nz\; sold-out status not confirmed\nAudience:
+  300+ senior marketing professionals: brand managers\, agency leaders\, ma
+ rketing decision-makers\nNetworking: Full-day summit with breaks between s
+ essions\; extent of dedicated networking not confirmed\nSpeakers: TBC (int
+ ernational and local brand keynotes referenced\, incl. Suncorp Group Austr
+ alia\, Leo Australia)\nAgenda: Keynote and case-study sessions on brand bu
+ ilding\, e.g. "From Purpose to Practice: Building Brands That Truly Matter
+ "\nUnverified: Organiser page could not be opened this run (network egress
+  blocked)\; cost\, full speaker list\, venue address and networking format
+  are inferred from search snippets only.\nSource: https://marketing.org.nz
+ /brand-summit-2026\n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, las
+ t checked 2026-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://marketing.o
+ rg.nz/brand-summit-2026">Book / register</a></b></p>BOOK / REGISTER: https
+ ://marketing.org.nz/brand-summit-2026<br><br>Fit: 3/5. Large in-person Auc
+ kland brand/marketing summit with strong consumer-goods/marketing theme fi
+ t\, but audience skews marketing-director rather than broad C-suite/PE.<br
+ >Organiser: Marketing Association NZ (MANZ)<br>Time: 9:00am-5:00pm<br>Venu
+ e: Grand Millennium Auckland\, Auckland CBD<br>Cost: TBC (paid ticketed co
+ nference\; early-bird window closed 30 Jul 2026)<br>Registration: Via mark
+ eting.org.nz\; sold-out status not confirmed<br>Audience: 300+ senior mark
+ eting professionals: brand managers\, agency leaders\, marketing decision-
+ makers<br>Networking: Full-day summit with breaks between sessions\; exten
+ t of dedicated networking not confirmed<br>Speakers: TBC (international an
+ d local brand keynotes referenced\, incl. Suncorp Group Australia\, Leo Au
+ stralia)<br>Agenda: Keynote and case-study sessions on brand building\, e.
+ g. "From Purpose to Practice: Building Brands That Truly Matter"<br>Unveri
+ fied: Organiser page could not be opened this run (network egress blocked)
+ \; cost\, full speaker list\, venue address and networking format are infe
+ rred from search snippets only.<br>Source: https://marketing.org.nz/brand-
+ summit-2026<br><br>Status: UNCONFIRMED prospect. Found 2026-09-23\, last c
+ hecked 2026-09-23.</body></html>
+URL:https://marketing.org.nz/brand-summit-2026
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:6873c69fe83c6c64@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:IoD & Chapter Zero NZ Climate Forum
+LOCATION:TBC (in-person\, Auckland\; companion webcast held 13 Oct 2026)\, 
+ TBC
+DESCRIPTION:BOOK / REGISTER: https://www.iod.org.nz/all-events/national/iod
+ -and-chapter-zero-nz-climate-forum\n\nFit: 4/5. High-seniority director/bo
+ ard audience in an in-person forum\, though theme is climate governance ra
+ ther than core strategy/M&A.\nOrganiser: Institute of Directors NZ / Chapt
+ er Zero NZ\nTime: TBC\nVenue: TBC (in-person\, Auckland\; companion webcas
+ t held 13 Oct 2026)\, TBC\nCost: TBC\nRegistration: Open via IoD NZ event 
+ page\nAudience: Directors and board members across sectors (climate govern
+ ance focus)\nNetworking: TBC\nSpeakers: TBC\nAgenda: Board's role in clima
+ te and nature governance\; compliance\, strategy and stakeholder engagemen
+ t\nUnverified: Entire listing is unverified: organiser page could not be o
+ pened this run (network egress blocked). Date\, venue\, time\, cost\, regi
+ stration and networking details are all inferred from search snippets only
+ \, not read from the organiser page. Confirm directly on iod.org.nz before
+  relying on this.\nSource: https://www.iod.org.nz/chapter-zero-new-zealand
+ \n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, last checked 2026-09-
+ 23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.iod.org
+ .nz/all-events/national/iod-and-chapter-zero-nz-climate-forum">Book / regi
+ ster</a></b></p>BOOK / REGISTER: https://www.iod.org.nz/all-events/nationa
+ l/iod-and-chapter-zero-nz-climate-forum<br><br>Fit: 4/5. High-seniority di
+ rector/board audience in an in-person forum\, though theme is climate gove
+ rnance rather than core strategy/M&amp\;A.<br>Organiser: Institute of Dire
+ ctors NZ / Chapter Zero NZ<br>Time: TBC<br>Venue: TBC (in-person\, Aucklan
+ d\; companion webcast held 13 Oct 2026)\, TBC<br>Cost: TBC<br>Registration
+ : Open via IoD NZ event page<br>Audience: Directors and board members acro
+ ss sectors (climate governance focus)<br>Networking: TBC<br>Speakers: TBC<
+ br>Agenda: Board's role in climate and nature governance\; compliance\, st
+ rategy and stakeholder engagement<br>Unverified: Entire listing is unverif
+ ied: organiser page could not be opened this run (network egress blocked).
+  Date\, venue\, time\, cost\, registration and networking details are all 
+ inferred from search snippets only\, not read from the organiser page. Con
+ firm directly on iod.org.nz before relying on this.<br>Source: https://www
+ .iod.org.nz/chapter-zero-new-zealand<br><br>Status: UNCONFIRMED prospect. 
+ Found 2026-09-23\, last checked 2026-09-23.</body></html>
+URL:https://www.iod.org.nz/all-events/national/iod-and-chapter-zero-nz-clim
+ ate-forum
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:38198868c943ed78@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20261029T090000
+DTEND;TZID=Pacific/Auckland:20261029T200000
+SUMMARY:[?] Sunrise Aotearoa 2026
+LOCATION:ASB Waterfront Theatre or Shed 10 (sources conflict)\, 138 Halsey 
+ Street\, Auckland CBD (or Shed 10\, Queens Wharf)
+DESCRIPTION:BOOK / REGISTER: https://www.thesunrise.live/\n\nFit: 3/5. Attr
+ acts VC investors and senior tech/startup leaders on innovation and growth
+  themes\, but its large festival scale and mixed early-stage founder audie
+ nce limit senior networking density.\nOrganiser: Blackbird Ventures\nTime:
+  Registration from 8:00am\; event runs 9:00am-8:00pm\nVenue: ASB Waterfron
+ t Theatre or Shed 10 (sources conflict)\, 138 Halsey Street\, Auckland CBD
+  (or Shed 10\, Queens Wharf)\nCost: TBC\nRegistration: Via thesunrise.live
+  or Humanitix\nAudience: Startup founders\, venture capital investors\, te
+ chnology/business leaders\nNetworking: Large-scale festival format with tw
+ o stages\; networking throughout the day\nSpeakers: TBC\, full programme d
+ ue early October 2026\nAgenda: Festival of creativity\, technology and amb
+ ition for founders\, hosted by VC firm Blackbird\nUnverified: Venue confli
+ cts between sources (ASB Waterfront Theatre vs Shed 10) could not be resol
+ ved as direct page fetch was blocked this run\; cost\, seniority mix and f
+ ull speaker list unconfirmed.\nSource: https://events.humanitix.com/sunris
+ e-aotearoa-2026\n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, last c
+ hecked 2026-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.thesunr
+ ise.live/">Book / register</a></b></p>BOOK / REGISTER: https://www.thesunr
+ ise.live/<br><br>Fit: 3/5. Attracts VC investors and senior tech/startup l
+ eaders on innovation and growth themes\, but its large festival scale and 
+ mixed early-stage founder audience limit senior networking density.<br>Org
+ aniser: Blackbird Ventures<br>Time: Registration from 8:00am\; event runs 
+ 9:00am-8:00pm<br>Venue: ASB Waterfront Theatre or Shed 10 (sources conflic
+ t)\, 138 Halsey Street\, Auckland CBD (or Shed 10\, Queens Wharf)<br>Cost:
+  TBC<br>Registration: Via thesunrise.live or Humanitix<br>Audience: Startu
+ p founders\, venture capital investors\, technology/business leaders<br>Ne
+ tworking: Large-scale festival format with two stages\; networking through
+ out the day<br>Speakers: TBC\, full programme due early October 2026<br>Ag
+ enda: Festival of creativity\, technology and ambition for founders\, host
+ ed by VC firm Blackbird<br>Unverified: Venue conflicts between sources (AS
+ B Waterfront Theatre vs Shed 10) could not be resolved as direct page fetc
+ h was blocked this run\; cost\, seniority mix and full speaker list unconf
+ irmed.<br>Source: https://events.humanitix.com/sunrise-aotearoa-2026<br><b
+ r>Status: UNCONFIRMED prospect. Found 2026-09-23\, last checked 2026-09-23
+ .</body></html>
+URL:https://www.thesunrise.live/
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:4640784bb135fc21@stragentum-scout
+DTSTAMP:20260923T035541Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20261104T083000
+DTEND;TZID=Pacific/Auckland:20261104T130000
+SUMMARY:CFA Society New Zealand Investment Summit 2026
+LOCATION:JW Marriott Auckland\, JW Marriott Hotel\, Auckland CBD
+DESCRIPTION:BOOK / REGISTER: https://www.cfasociety.org/newzealand/society-
+ events/nz-investment-conference\n\nFit: 4/5. Strong capital-markets/invest
+ ment theme fit with a senior finance-professional audience.\nOrganiser: CF
+ A Society New Zealand\nTime: 8:30am-1:00pm\nVenue: JW Marriott Auckland\, 
+ JW Marriott Hotel\, Auckland CBD\nCost: TBC (typically member/non-member p
+ aid tiers)\nRegistration: Via CFA Society New Zealand or the Eventbrite li
+ sting\nAudience: Investment professionals\, portfolio managers\, CFA chart
+ erholders\, wealth managers\, senior finance/investment executives\nNetwor
+ king: Half-day summit with panel sessions and networking breaks\nSpeakers:
+  TBC\nAgenda: Investment summit covering capital markets and investment st
+ rategy\nUnverified: Organiser page could not be opened this run (network e
+ gress blocked)\; cost\, exact venue address and speakers are inferred from
+  search snippets/aggregator listing only. Falls on the last day of the win
+ dow (2026-11-04) - confirm it hasn't shifted.\nSource: https://www.eventbr
+ ite.co.nz/e/cfa-society-new-zealand-investment-summit-2026-tickets-1994915
+ 639379\n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, last checked 20
+ 26-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.cfasoci
+ ety.org/newzealand/society-events/nz-investment-conference">Book / registe
+ r</a></b></p>BOOK / REGISTER: https://www.cfasociety.org/newzealand/societ
+ y-events/nz-investment-conference<br><br>Fit: 4/5. Strong capital-markets/
+ investment theme fit with a senior finance-professional audience.<br>Organ
+ iser: CFA Society New Zealand<br>Time: 8:30am-1:00pm<br>Venue: JW Marriott
+  Auckland\, JW Marriott Hotel\, Auckland CBD<br>Cost: TBC (typically membe
+ r/non-member paid tiers)<br>Registration: Via CFA Society New Zealand or t
+ he Eventbrite listing<br>Audience: Investment professionals\, portfolio ma
+ nagers\, CFA charterholders\, wealth managers\, senior finance/investment 
+ executives<br>Networking: Half-day summit with panel sessions and networki
+ ng breaks<br>Speakers: TBC<br>Agenda: Investment summit covering capital m
+ arkets and investment strategy<br>Unverified: Organiser page could not be 
+ opened this run (network egress blocked)\; cost\, exact venue address and 
+ speakers are inferred from search snippets/aggregator listing only. Falls 
+ on the last day of the window (2026-11-04) - confirm it hasn't shifted.<br
+ >Source: https://www.eventbrite.co.nz/e/cfa-society-new-zealand-investment
+ -summit-2026-tickets-1994915639379<br><br>Status: UNCONFIRMED prospect. Fo
+ und 2026-09-23\, last checked 2026-09-23.</body></html>
+URL:https://www.cfasociety.org/newzealand/society-events/nz-investment-conf
+ erence
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
