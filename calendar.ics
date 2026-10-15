@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e970c7940e184c34@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261001T160000
 DTEND;TZID=Pacific/Auckland:20261001T173000
@@ -75,7 +75,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:d73b679e0bd0961a@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261008T160000
 DTEND;TZID=Pacific/Auckland:20261008T173000
@@ -122,7 +122,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:9eaaf17fd23bc54c@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261009T070000
 DTEND;TZID=Pacific/Auckland:20261009T090000
@@ -168,7 +168,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:3dab31783a9729a7@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261012T183000
 DTEND;TZID=Pacific/Auckland:20261012T223000
@@ -219,7 +219,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:2a51d42e3ba07ff1@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261013T183000
 DTEND;TZID=Pacific/Auckland:20261013T230000
@@ -268,7 +268,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ff1e926370364528@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261015T090000
 DTEND;TZID=Pacific/Auckland:20261015T170000
@@ -321,7 +321,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:0583704959b3e920@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261015T123000
 DTEND;TZID=Pacific/Auckland:20261015T143000
@@ -370,7 +370,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:b243036ec8134610@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261015T183000
 DTEND;TZID=Pacific/Auckland:20261015T223000
@@ -421,7 +421,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ebeae38414f77803@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261019T173000
 DTEND;TZID=Pacific/Auckland:20261019T193000
@@ -466,7 +466,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ea380b1a634652c4@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261020T170000
 DTEND;TZID=Pacific/Auckland:20261020T190000
@@ -506,7 +506,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:6d7cf3986df86241@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261021T163000
 DTEND;TZID=Pacific/Auckland:20261021T183000
@@ -549,7 +549,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:03af02e0cc913c30@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261022T083000
 DTEND;TZID=Pacific/Auckland:20261022T133000
@@ -604,7 +604,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:5a5c69799a7733a3@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261022T090000
 DTEND;TZID=Pacific/Auckland:20261022T103000
@@ -653,7 +653,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd6f7840691fd70@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261027T093000
 DTEND;TZID=Pacific/Auckland:20261027T113000
@@ -696,7 +696,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:e79e50592dc0dfd5@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261027T114500
 DTEND;TZID=Pacific/Auckland:20261027T140000
@@ -750,7 +750,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:6873c69fe83c6c64@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -802,7 +802,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:657ea1f62298b596@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261028T070000
 DTEND;TZID=Pacific/Auckland:20261028T090000
@@ -851,7 +851,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:231775d0311d074e@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261029T074500
 DTEND;TZID=Pacific/Auckland:20261029T191500
@@ -913,7 +913,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:38198868c943ed78@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261029T090000
 DTEND;TZID=Pacific/Auckland:20261029T200000
@@ -966,7 +966,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4640784bb135fc21@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261104T083000
 DTEND;TZID=Pacific/Auckland:20261104T130000
@@ -1030,8 +1030,100 @@ X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:4a4cd8cbb0cb5cbf@stragentum-scout
+DTSTAMP:20261015T070914Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20261105T100000
+DTEND;TZID=Pacific/Auckland:20261105T120000
+SUMMARY:[?] Marketing Association: Mark Ritson Live (Auckland)
+LOCATION:SkyCity Theatre\, Cnr Hobson St and Wellesley St West\, Auckland C
+ BD
+DESCRIPTION:BOOK / REGISTER: https://marketing.org.nz/mark-ritson-akl-nov-2
+ 026\n\nFit: 3/5. Large marketing-community draw with consumer brand leader
+ s in the room\, but a seated keynote with little networking.\nOrganiser: M
+ arketing Association NZ\nTime: 10:00am-12:00pm\nVenue: SkyCity Theatre\, C
+ nr Hobson St and Wellesley St West\, Auckland CBD\nCost: Members NZD 275 +
+  GST\, non-members NZD 375 + GST\nRegistration: iTICKET link on organiser 
+ page\; deadline TBC\nAudience: Marketers and brand leaders\; size TBC\nNet
+ working: Audience Q&A only\; no networking stated\nSpeakers: Mark Ritson\n
+ Agenda: AI and synthetic data\, brand vs performance video\, short vs long
+ -term marketing\, brand case studies\, Q&A\nUnverified: Audience seniority
+  and size\nSource: https://marketing.org.nz/up-coming-events\n\nStatus: UN
+ CONFIRMED prospect. Found 2026-10-15\, last checked 2026-10-15.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://marketing.o
+ rg.nz/mark-ritson-akl-nov-2026">Book / register</a></b></p>BOOK / REGISTER
+ : https://marketing.org.nz/mark-ritson-akl-nov-2026<br><br>Fit: 3/5. Large
+  marketing-community draw with consumer brand leaders in the room\, but a 
+ seated keynote with little networking.<br>Organiser: Marketing Association
+  NZ<br>Time: 10:00am-12:00pm<br>Venue: SkyCity Theatre\, Cnr Hobson St and
+  Wellesley St West\, Auckland CBD<br>Cost: Members NZD 275 + GST\, non-mem
+ bers NZD 375 + GST<br>Registration: iTICKET link on organiser page\; deadl
+ ine TBC<br>Audience: Marketers and brand leaders\; size TBC<br>Networking:
+  Audience Q&amp\;A only\; no networking stated<br>Speakers: Mark Ritson<br
+ >Agenda: AI and synthetic data\, brand vs performance video\, short vs lon
+ g-term marketing\, brand case studies\, Q&amp\;A<br>Unverified: Audience s
+ eniority and size<br>Source: https://marketing.org.nz/up-coming-events<br>
+ <br>Status: UNCONFIRMED prospect. Found 2026-10-15\, last checked 2026-10-
+ 15.</body></html>
+URL:https://marketing.org.nz/mark-ritson-akl-nov-2026
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:98c5a58856501711@stragentum-scout
+DTSTAMP:20261015T070914Z
+SEQUENCE:0
+DTSTART;TZID=Pacific/Auckland:20261117T120000
+DTEND;TZID=Pacific/Auckland:20261117T140000
+SUMMARY:Marketing Association: Think Again 2026 - The Outsider CMO
+LOCATION:The Northern Club\, 19 Princes Street\, Auckland
+DESCRIPTION:BOOK / REGISTER: https://marketing.org.nz/think-again-akl-novem
+ ber-2026\n\nFit: 4/5. Senior consumer-brand and retail marketing leaders i
+ n a lunchtime panel at a premium venue\, at a modest price.\nOrganiser: Ma
+ rketing Association NZ\nTime: 12:00pm-2:00pm\nVenue: The Northern Club\, 1
+ 9 Princes Street\, Auckland\nCost: Members NZD 129 + GST\, non-members NZD
+  169 + GST\nRegistration: Online via organiser page\; deadline TBC\nAudien
+ ce: CMOs and senior marketers\; size TBC\nNetworking: TBC\nSpeakers: Carol
+ ine Rainsford (Google NZ\, moderator)\; Nikki Goodman (CCO\, Sky)\; Franki
+ e Coulter (CMO\, The Warehouse Group)\; Heather Gadonniex (CMO\, Auror)\; 
+ Rob Bowring (GM Brand and Marketing Ops\, Skyline)\nAgenda: Panel on earni
+ ng a mandate as a new CMO: first 90 days\, trust with CEO and board\, agen
+ cy relationships\nUnverified: Page showed the date as 17/11/4026 (typo)\; 
+ 17 Nov 2026 inferred from the URL. Audience size and networking format.\nS
+ ource: https://marketing.org.nz/up-coming-events\n\nStatus: UNCONFIRMED pr
+ ospect. Found 2026-10-15\, last checked 2026-10-15.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://marketing.o
+ rg.nz/think-again-akl-november-2026">Book / register</a></b></p>BOOK / REG
+ ISTER: https://marketing.org.nz/think-again-akl-november-2026<br><br>Fit: 
+ 4/5. Senior consumer-brand and retail marketing leaders in a lunchtime pan
+ el at a premium venue\, at a modest price.<br>Organiser: Marketing Associa
+ tion NZ<br>Time: 12:00pm-2:00pm<br>Venue: The Northern Club\, 19 Princes S
+ treet\, Auckland<br>Cost: Members NZD 129 + GST\, non-members NZD 169 + GS
+ T<br>Registration: Online via organiser page\; deadline TBC<br>Audience: C
+ MOs and senior marketers\; size TBC<br>Networking: TBC<br>Speakers: Caroli
+ ne Rainsford (Google NZ\, moderator)\; Nikki Goodman (CCO\, Sky)\; Frankie
+  Coulter (CMO\, The Warehouse Group)\; Heather Gadonniex (CMO\, Auror)\; R
+ ob Bowring (GM Brand and Marketing Ops\, Skyline)<br>Agenda: Panel on earn
+ ing a mandate as a new CMO: first 90 days\, trust with CEO and board\, age
+ ncy relationships<br>Unverified: Page showed the date as 17/11/4026 (typo)
+ \; 17 Nov 2026 inferred from the URL. Audience size and networking format.
+ <br>Source: https://marketing.org.nz/up-coming-events<br><br>Status: UNCON
+ FIRMED prospect. Found 2026-10-15\, last checked 2026-10-15.</body></html>
+URL:https://marketing.org.nz/think-again-akl-november-2026
+CATEGORIES:Stragentum: Prospect Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:0ae1a7bd3763da61@stragentum-scout
-DTSTAMP:20261015T070506Z
+DTSTAMP:20261015T070914Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261119T160000
 DTEND;TZID=Pacific/Auckland:20261119T180000

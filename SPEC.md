@@ -23,6 +23,18 @@ Tier C, aggregators and news (supplementary, to catch what A and B miss):
 - Eventbrite and Humanitix (Auckland, business / networking / leadership)
 - NZ Herald Business, BusinessDesk, NBR (incl. NBR and Herald events), Idealog, Stuff Business
 
+### Verified source URLs (confirmed by search 2026-10-15; use these, do not guess domains)
+- AmCham NZ: https://www.amcham.co.nz/events
+- Auckland Business Chamber: https://www.aucklandchamber.co.nz/events-training/events/ (may return 403 to fetch; fall back to search)
+- Institute of Directors: https://www.iod.org.nz/all-events/ (Auckland branch: /membership/branches/auckland-branch; Chapter Zero: /all-events/chapter-zero-events/). List shows only the first 12 events; search for later ones
+- EMA / ExportNZ: https://learn.ema.co.nz/w/upcoming/cat-29-/ (ema.co.nz/events returned 503; exportnz.org.nz/events returned 403; ExportNZ events are co-listed on the EMA site)
+- Marketing Association NZ: https://marketing.org.nz/up-coming-events
+- NZ Food & Grocery Council: https://www.fgc.org.nz/events
+- NZ China Council: https://nzchinacouncil.org.nz/events/
+- NZ Private Capital: https://www.nzvca.co.nz (UNCONFIRMED, verify before relying)
+- BritCham NZ: domain not yet found; search for the correct one and record it here
+- Wrong guesses that do not resolve: businesschamber.co.nz, britcham.org.nz, nzchina.org.nz, marketingassociation.co.nz, nzpcva.co.nz
+
 Always follow through to the organiser's own booking page. Never use an aggregator URL as `url` when an organiser page exists.
 
 ## 3. Filter
