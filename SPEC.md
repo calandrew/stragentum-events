@@ -13,7 +13,7 @@ Tier A, anchor chambers (always open the events page directly, never rely on sea
 Tier B, industry and trade associations with Auckland events (locate each official events page):
 - Governance and capital: Institute of Directors (Auckland branch), NZ Private Capital, Chapter Zero NZ
 - Employers and exporters: EMA (Employers and Manufacturers Association), ExportNZ, BusinessNZ
-- Bilateral chambers: British Chamber (BritCham NZ), Europe NZ / EU chambers, Australia NZ business councils, NZ China Council, Asia NZ Foundation, NZ India business bodies
+- Bilateral chambers: British New Zealand Business Association (BNZBA), Europe NZ / EU chambers, Australia NZ business councils, NZ China Council, Asia NZ Foundation, NZ India business bodies
 - Consumer goods and marketing: NZ Food & Grocery Council, Retail NZ, FoodHQ / NZ Food Innovation network, Marketing Association NZ, Brands / Advertising bodies
 - Innovation and growth: Tātaki Auckland Unlimited, The Icehouse, NZTech / Techweek, NZ Growth Capital Partners, Sustainable Business Network
 - Professional bodies: CA ANZ, CPA Australia, Global Women, Deloitte / PwC / KPMG / EY / Bell Gully / Chapman Tripp / Russell McVeagh public client events
@@ -32,7 +32,7 @@ Tier C, aggregators and news (supplementary, to catch what A and B miss):
 - NZ Food & Grocery Council: https://www.fgc.org.nz/events
 - NZ China Council: https://nzchinacouncil.org.nz/events/
 - NZ Private Capital: https://www.nzvca.co.nz (UNCONFIRMED, verify before relying)
-- BritCham NZ: domain not yet found; search for the correct one and record it here
+- British New Zealand Business Association (BNZBA): https://www.bnzba.co.nz/bnzba-events (UK-NZ trade body; confirmed 2026-10-15; tickets via Humanitix but use the BNZBA event page as `url`)
 - Wrong guesses that do not resolve: businesschamber.co.nz, britcham.org.nz, nzchina.org.nz, marketingassociation.co.nz, nzpcva.co.nz
 
 Always follow through to the organiser's own booking page. Never use an aggregator URL as `url` when an organiser page exists.
