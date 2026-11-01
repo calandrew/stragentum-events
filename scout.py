@@ -163,7 +163,7 @@ def render(events):
     out = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Stragentum//Event Scout//EN",
            "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
            f"X-WR-CALNAME:{CAL_NAME}", f"X-WR-TIMEZONE:{TZID}",
-           "REFRESH-INTERVAL;VALUE=DURATION:PT12H", "X-PUBLISHED-TTL:PT12H",
+           "REFRESH-INTERVAL;VALUE=DURATION:PT1H", "X-PUBLISHED-TTL:PT1H",
            *VTIMEZONE.splitlines()]
     for ev in sorted(events, key=lambda e: e["start"]):
         out += vevent(ev, stamp)
