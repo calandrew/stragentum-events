@@ -49,6 +49,7 @@ Always follow through to the organiser's own booking page. Never use an aggregat
 
 ## 3. Filter
 Include only: in-person (or hybrid with in-person option) in the Auckland region; open to external registration (or member events Callum could attend as a guest/member); inside the window.
+Callum's memberships (confirmed 2026-11-02): Institute of Directors (IoD), AmCham NZ, BNZBA, GNZCC, Auckland Business Chamber. Member-only events from these bodies are eligible (except tier-restricted ones such as Chartered Member only or new-member sessions); score access economics on the member rate and list it first in `cost`.
 Exclude: online-only webinars, multi-day paid training courses, student/career events, purely technical/product events, events already sold out with no waitlist.
 
 ## 4. Score (1 to 5), include if score >= 3
