@@ -185,18 +185,18 @@ def main():
     today = datetime.now(timezone(timedelta(hours=12))).date()
 
     if a.cmd == "render":
-        evs = json.loads(Path(a.events).read_text())
-        Path(a.out).write_text(render(evs), newline="")
+        evs = json.loads(Path(a.events).read_text(encoding="utf-8"))
+        Path(a.out).write_text(render(evs), encoding="utf-8", newline="")
         print(f"wrote {a.out} ({len(evs)} events)")
         return
 
     repo = Path(a.repo)
     store = repo / "events.json"
-    existing = json.loads(store.read_text()) if store.exists() else []
-    new = json.loads(Path(a.new).read_text())
+    existing = json.loads(store.read_text(encoding="utf-8")) if store.exists() else []
+    new = json.loads(Path(a.new).read_text(encoding="utf-8-sig"))
     kept, added, updated, pruned = merge(existing, new, today)
-    store.write_text(json.dumps(sorted(kept, key=lambda e: e["start"]), indent=1, ensure_ascii=False))
-    (repo / "calendar.ics").write_text(render(kept), newline="")
+    store.write_text(json.dumps(sorted(kept, key=lambda e: e["start"]), indent=1, ensure_ascii=False), encoding="utf-8")
+    (repo / "calendar.ics").write_text(render(kept), encoding="utf-8", newline="")
     print(json.dumps({"added": added, "updated": updated, "pruned": pruned,
                       "total_in_feed": len(kept)}, indent=2, ensure_ascii=False))
 
