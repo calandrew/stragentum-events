@@ -1,0 +1,2 @@
+# iCalendar requires CRLF; store .ics byte-for-byte so Windows autocrlf never rewrites it
+*.ics -text
