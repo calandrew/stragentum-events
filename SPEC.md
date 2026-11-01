@@ -33,6 +33,15 @@ Tier C, aggregators and news (supplementary, to catch what A and B miss):
 - NZ China Council: https://nzchinacouncil.org.nz/events/
 - NZ Private Capital: https://www.nzvca.co.nz (UNCONFIRMED, verify before relying)
 - British New Zealand Business Association (BNZBA): https://www.bnzba.co.nz/bnzba-events (UK-NZ trade body; confirmed 2026-10-15; tickets via Humanitix but use the BNZBA event page as `url`)
+- IoD Auckland branch list (shows venue-less listing of all Auckland events; best IoD source): https://www.iod.org.nz/all-events/auckland-branch-event
+- Chapter Zero NZ: https://www.iod.org.nz/chapter-zero-new-zealand
+- NZ Private Capital (corrected, replaces nzvca guess): https://nzprivatecapital.co.nz/events/
+- Global Women: https://www.globalwomen.org.nz/events/ (many Champions for Change or members-only; check eligibility)
+- NZ Business Magazine events (Ready to Rise etc.): https://nzbusiness.co.nz/events
+- Auckland Business Chamber: events page returns 403 to fetch; use the Meetup group https://www.meetup.com/auckland-business-chamber-events-networking/events/ , the supported-events page https://aucklandchamber.co.nz/supported-events-and-training/ , or the AmCham event page which links chamber booking pages
+- Asia NZ Foundation: https://events.humanitix.com/host/asia-new-zealand-foundation-te-whitau-tuhono (Asia After Five series; mostly Wellington)
+- ExportNZ Auckland: https://exportnz.org.nz/home/auckland (403 to fetch); EMA list pages https://learn.ema.co.nz/w/upcoming/cat-29-events/page-1 (fetch returns empty; use web search)
+- Not found / no official events page located: Retail NZ, NZTech (try technewzealand.org.nz), Icehouse, CA ANZ, CPA Australia, Tataki Auckland Unlimited (aucklandunlimited.com is cultural, not business)
 - Wrong guesses that do not resolve: businesschamber.co.nz, britcham.org.nz, nzchina.org.nz, marketingassociation.co.nz, nzpcva.co.nz
 
 Always follow through to the organiser's own booking page. Never use an aggregator URL as `url` when an organiser page exists.
