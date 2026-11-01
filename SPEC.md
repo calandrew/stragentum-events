@@ -13,7 +13,7 @@ Tier A, anchor chambers (always open the events page directly, never rely on sea
 Tier B, industry and trade associations with Auckland events (locate each official events page):
 - Governance and capital: Institute of Directors (Auckland branch), NZ Private Capital, Chapter Zero NZ
 - Employers and exporters: EMA (Employers and Manufacturers Association), ExportNZ, BusinessNZ
-- Bilateral chambers: British New Zealand Business Association (BNZBA), Europe NZ / EU chambers, Australia NZ business councils, NZ China Council, Asia NZ Foundation, NZ India business bodies
+- Bilateral chambers: British New Zealand Business Association (BNZBA), German-New Zealand Chamber of Commerce (GNZCC), Europe NZ / EU chambers, Australia NZ business councils, NZ China Council, Asia NZ Foundation, NZ India business bodies
 - Consumer goods and marketing: NZ Food & Grocery Council, Retail NZ, FoodHQ / NZ Food Innovation network, Marketing Association NZ, Brands / Advertising bodies
 - Innovation and growth: Tātaki Auckland Unlimited, The Icehouse, NZTech / Techweek, NZ Growth Capital Partners, Sustainable Business Network
 - Professional bodies: CA ANZ, CPA Australia, Global Women, Deloitte / PwC / KPMG / EY / Bell Gully / Chapman Tripp / Russell McVeagh public client events
@@ -33,6 +33,7 @@ Tier C, aggregators and news (supplementary, to catch what A and B miss):
 - NZ China Council: https://nzchinacouncil.org.nz/events/
 - NZ Private Capital: https://www.nzvca.co.nz (UNCONFIRMED, verify before relying)
 - British New Zealand Business Association (BNZBA): https://www.bnzba.co.nz/bnzba-events (UK-NZ trade body; confirmed 2026-10-15; tickets via Humanitix but use the BNZBA event page as `url`)
+- German-New Zealand Chamber of Commerce (GNZCC): https://neuseeland.ahk.de/en/events2 (confirmed 2026-11-02; two result pages, check both; monthly Auckland Stammtisch networking drinks, often marked member event; skip Christchurch/Wellington listings)
 - IoD Auckland branch list (shows venue-less listing of all Auckland events; best IoD source): https://www.iod.org.nz/all-events/auckland-branch-event
 - Chapter Zero NZ: https://www.iod.org.nz/chapter-zero-new-zealand
 - NZ Private Capital (corrected, replaces nzvca guess): https://nzprivatecapital.co.nz/events/
