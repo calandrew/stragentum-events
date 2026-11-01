@@ -26,41 +26,55 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ebeae38414f77803@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261019T173000
 DTEND;TZID=Pacific/Auckland:20261019T193000
 SUMMARY:[?] Launch of AmCham NextGen Chapter
 LOCATION:DLA Piper's offices\, PwC Tower\, Level 15\, 15 Customs Street Wes
  t\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://www.amcham.co.nz/event-6785567\n\nFit:
-  3/5. Low-cost networking reception\, but skewed toward emerging/NextGen l
- eaders rather than C-suite/board decision-makers.\nOrganiser: American Cha
- mber of Commerce in NZ (AmCham)\nTime: 5:30pm-7:30pm\nVenue: DLA Piper's o
- ffices\, PwC Tower\, Level 15\, 15 Customs Street West\, Auckland\nCost: F
- ree for members\; NZD 25 incl GST non-members\nRegistration: Online via or
- ganiser page\; no deadline stated\nAudience: Emerging/next-generation busi
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.amcham.co.nz/event-6
+ 785567\n\nKEY DETAILS\nWhen: Mon 19 Oct 2026\, 5:30pm-7:30pm\nWhere: DLA P
+ iper's offices\, PwC Tower\, Level 15\, 15 Customs Street West\, Auckland\
+ nCost: Free for members\; NZD 25 incl GST non-members\nRegistration: Onlin
+ e via organiser page\; no deadline stated\n\nWHY GO (FIT 3/5)\nLow-cost ne
+ tworking reception\, but skewed toward emerging/NextGen leaders rather tha
+ n C-suite/board decision-makers.\n\nABOUT THE EVENT\nOrganiser: American C
+ hamber of Commerce in NZ (AmCham)\nAudience: Emerging/next-generation busi
  ness leaders (mixed seniority)\, AmCham members\nNetworking: Panel discuss
  ion followed by networking and refreshments\nSpeakers: Baqir Hussain\, Fou
  nder of Finex Chartered Certified Accountants\nAgenda: Panel launch of AmC
- ham's NextGen chapter plus networking\nSource: https://www.amcham.co.nz/ev
- ents\n\nStatus: UNCONFIRMED prospect. Found 2026-09-24\, last checked 2026
- -09-24.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.amcham.
- co.nz/event-6785567">Book / register</a></b></p>BOOK / REGISTER: https://w
- ww.amcham.co.nz/event-6785567<br><br>Fit: 3/5. Low-cost networking recepti
- on\, but skewed toward emerging/NextGen leaders rather than C-suite/board 
- decision-makers.<br>Organiser: American Chamber of Commerce in NZ (AmCham)
- <br>Time: 5:30pm-7:30pm<br>Venue: DLA Piper's offices\, PwC Tower\, Level 
- 15\, 15 Customs Street West\, Auckland<br>Cost: Free for members\; NZD 25 
- incl GST non-members<br>Registration: Online via organiser page\; no deadl
- ine stated<br>Audience: Emerging/next-generation business leaders (mixed s
- eniority)\, AmCham members<br>Networking: Panel discussion followed by net
- working and refreshments<br>Speakers: Baqir Hussain\, Founder of Finex Cha
- rtered Certified Accountants<br>Agenda: Panel launch of AmCham's NextGen c
- hapter plus networking<br>Source: https://www.amcham.co.nz/events<br><br>S
- tatus: UNCONFIRMED prospect. Found 2026-09-24\, last checked 2026-09-24.</
- body></html>
+ ham's NextGen chapter plus networking\n\nSCOUT NOTES\nFound via: https://w
+ ww.amcham.co.nz/events\nStatus: UNCONFIRMED prospect until registered. Fir
+ st found 2026-09-24\, last checked 2026-09-24.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.amcham.co.nz/event-6785567">Open event page / register &ra
+ quo\;</a></b></p><h3>Key details</h3><table><tr><td style="vertical-align:
+ top\;padding-right:12px"><b>When</b></td><td>Mon 19 Oct 2026\, 5:30pm-7:30
+ pm</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Wher
+ e</b></td><td>DLA Piper's offices\, PwC Tower\, Level 15\, 15 Customs Stre
+ et West\, Auckland</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Cost</b></td><td>Free for members\; NZD 25 incl GST non-member
+ s</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Regis
+ tration</b></td><td>Online via organiser page\; no deadline stated</td></t
+ r></table><h3>Why go (fit 3/5)</h3><p>Low-cost networking reception\, but 
+ skewed toward emerging/NextGen leaders rather than C-suite/board decision-
+ makers.</p><h3>About the event</h3><table><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Organiser</b></td><td>American Chamber of Commer
+ ce in NZ (AmCham)</td></tr><tr><td style="vertical-align:top\;padding-righ
+ t:12px"><b>Audience</b></td><td>Emerging/next-generation business leaders 
+ (mixed seniority)\, AmCham members</td></tr><tr><td style="vertical-align:
+ top\;padding-right:12px"><b>Networking</b></td><td>Panel discussion follow
+ ed by networking and refreshments</td></tr><tr><td style="vertical-align:t
+ op\;padding-right:12px"><b>Speakers</b></td><td>Baqir Hussain\, Founder of
+  Finex Chartered Certified Accountants</td></tr><tr><td style="vertical-al
+ ign:top\;padding-right:12px"><b>Agenda</b></td><td>Panel launch of AmCham'
+ s NextGen chapter plus networking</td></tr></table><h3>Scout notes</h3><ta
+ ble><tr><td style="vertical-align:top\;padding-right:12px"><b>Found via</b
+ ></td><td><a href="https://www.amcham.co.nz/events">https://www.amcham.co.
+ nz/events</a></td></tr><tr><td style="vertical-align:top\;padding-right:12
+ px"><b>Status</b></td><td>UNCONFIRMED prospect until registered. First fou
+ nd 2026-09-24\, last checked 2026-09-24.</td></tr></table></body></html>
 URL:https://www.amcham.co.nz/event-6785567
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -71,36 +85,52 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ea380b1a634652c4@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261020T170000
 DTEND;TZID=Pacific/Auckland:20261020T190000
 SUMMARY:[?] AmCham Women in Business Event
 LOCATION:HSBC offices\, 188 Quay Street\, Auckland CBD
-DESCRIPTION:BOOK / REGISTER: https://www.amcham.co.nz/event-6792732/Registr
- ation\n\nFit: 3/5. Low-cost AmCham evening with a senior business communit
- y\, though theme is only loosely strategy-related.\nOrganiser: AmCham NZ\n
- Time: 5:00pm to 7:00pm\nVenue: HSBC offices\, 188 Quay Street\, Auckland C
- BD\nCost: Members NZD 40\, non-members NZD 65 (inc GST)\nRegistration: Onl
- ine via AmCham page\; deadline TBC\nAudience: AmCham members and guests\; 
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.amcham.co.nz/event-6
+ 792732/Registration\n\nKEY DETAILS\nWhen: Tue 20 Oct 2026\, 5:00pm to 7:00
+ pm\nWhere: HSBC offices\, 188 Quay Street\, Auckland CBD\nCost: Members NZ
+ D 40\, non-members NZD 65 (inc GST)\nRegistration: Online via AmCham page\
+ ; deadline TBC\n\nWHY GO (FIT 3/5)\nLow-cost AmCham evening with a senior 
+ business community\, though theme is only loosely strategy-related.\n\nABO
+ UT THE EVENT\nOrganiser: AmCham NZ\nAudience: AmCham members and guests\; 
  size TBC\nNetworking: Evening event\; networking format TBC\nSpeakers: Emm
- a McLean\, founder\, Works for Everyone\nAgenda: TBC\nUnverified: audience
-  size\, networking format\, agenda\, registration deadline\nSource: https:
- //www.amcham.co.nz/events\n\nStatus: UNCONFIRMED prospect. Found 2026-10-0
- 1\, last checked 2026-10-01.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.amcham.
- co.nz/event-6792732/Registration">Book / register</a></b></p>BOOK / REGIST
- ER: https://www.amcham.co.nz/event-6792732/Registration<br><br>Fit: 3/5. L
- ow-cost AmCham evening with a senior business community\, though theme is 
- only loosely strategy-related.<br>Organiser: AmCham NZ<br>Time: 5:00pm to 
- 7:00pm<br>Venue: HSBC offices\, 188 Quay Street\, Auckland CBD<br>Cost: Me
- mbers NZD 40\, non-members NZD 65 (inc GST)<br>Registration: Online via Am
- Cham page\; deadline TBC<br>Audience: AmCham members and guests\; size TBC
- <br>Networking: Evening event\; networking format TBC<br>Speakers: Emma Mc
- Lean\, founder\, Works for Everyone<br>Agenda: TBC<br>Unverified: audience
-  size\, networking format\, agenda\, registration deadline<br>Source: http
- s://www.amcham.co.nz/events<br><br>Status: UNCONFIRMED prospect. Found 202
- 6-10-01\, last checked 2026-10-01.</body></html>
+ a McLean\, founder\, Works for Everyone\nAgenda: TBC\n\nSCOUT NOTES\nUnver
+ ified: audience size\, networking format\, agenda\, registration deadline\
+ nFound via: https://www.amcham.co.nz/events\nStatus: UNCONFIRMED prospect 
+ until registered. First found 2026-10-01\, last checked 2026-10-01.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.amcham.co.nz/event-6792732/Registration">Open event page /
+  register &raquo\;</a></b></p><h3>Key details</h3><table><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>When</b></td><td>Tue 20 Oct 2026\
+ , 5:00pm to 7:00pm</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Where</b></td><td>HSBC offices\, 188 Quay Street\, Auckland CB
+ D</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Cost<
+ /b></td><td>Members NZD 40\, non-members NZD 65 (inc GST)</td></tr><tr><td
+  style="vertical-align:top\;padding-right:12px"><b>Registration</b></td><t
+ d>Online via AmCham page\; deadline TBC</td></tr></table><h3>Why go (fit 3
+ /5)</h3><p>Low-cost AmCham evening with a senior business community\, thou
+ gh theme is only loosely strategy-related.</p><h3>About the event</h3><tab
+ le><tr><td style="vertical-align:top\;padding-right:12px"><b>Organiser</b>
+ </td><td>AmCham NZ</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Audience</b></td><td>AmCham members and guests\; size TBC</td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Networking<
+ /b></td><td>Evening event\; networking format TBC</td></tr><tr><td style="
+ vertical-align:top\;padding-right:12px"><b>Speakers</b></td><td>Emma McLea
+ n\, founder\, Works for Everyone</td></tr><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Agenda</b></td><td>TBC</td></tr></table><h3>Scou
+ t notes</h3><table><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>Unverified</b></td><td>audience size\, networking format\, agenda\, reg
+ istration deadline</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Found via</b></td><td><a href="https://www.amcham.co.nz/events
+ ">https://www.amcham.co.nz/events</a></td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED prospect unt
+ il registered. First found 2026-10-01\, last checked 2026-10-01.</td></tr>
+ </table></body></html>
 URL:https://www.amcham.co.nz/event-6792732/Registration
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -111,39 +141,55 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:6d7cf3986df86241@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261021T163000
 DTEND;TZID=Pacific/Auckland:20261021T183000
 SUMMARY:[?] NZFGC Future Leaders Networking Series: Think like a GM
 LOCATION:Goodman Fielder\, 2/8 Nelson Street\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://www.fgc.org.nz/events-1/future-leaders
- -networking-series\n\nFit: 3/5. Cheap FMCG room with panellists who are se
- nior\, though attendees skew emerging leaders rather than decision-makers.
- \nOrganiser: NZ Food & Grocery Council\nTime: 4:30pm-6:30pm\nVenue: Goodma
- n Fielder\, 2/8 Nelson Street\, Auckland\nCost: NZD 25 inc GST\nRegistrati
- on: Register button on organiser page\; no deadline stated\nAudience: Emer
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.fgc.org.nz/events-1/
+ future-leaders-networking-series\n\nKEY DETAILS\nWhen: Wed 21 Oct 2026\, 4
+ :30pm-6:30pm\nWhere: Goodman Fielder\, 2/8 Nelson Street\, Auckland\nCost:
+  NZD 25 inc GST\nRegistration: Register button on organiser page\; no dead
+ line stated\n\nWHY GO (FIT 3/5)\nCheap FMCG room with panellists who are s
+ enior\, though attendees skew emerging leaders rather than decision-makers
+ .\n\nABOUT THE EVENT\nOrganiser: NZ Food & Grocery Council\nAudience: Emer
  ging leaders in NZ food and grocery: manufacturers\, suppliers\, retailers
  \nNetworking: Panel plus networking\; format TBC\nSpeakers: Facilitator Ma
  tthew Clews\, GM and CFO of HOOP\; panel TBC\nAgenda: Panel on building fi
- nancial and commercial acumen in FMCG\nUnverified: Panellists\; audience s
- ize\nSource: https://www.fgc.org.nz/events\n\nStatus: UNCONFIRMED prospect
- . Found 2026-10-15\, last checked 2026-10-15.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.fgc.org
- .nz/events-1/future-leaders-networking-series">Book / register</a></b></p>
- BOOK / REGISTER: https://www.fgc.org.nz/events-1/future-leaders-networking
- -series<br><br>Fit: 3/5. Cheap FMCG room with panellists who are senior\, 
- though attendees skew emerging leaders rather than decision-makers.<br>Org
- aniser: NZ Food &amp\; Grocery Council<br>Time: 4:30pm-6:30pm<br>Venue: Go
- odman Fielder\, 2/8 Nelson Street\, Auckland<br>Cost: NZD 25 inc GST<br>Re
- gistration: Register button on organiser page\; no deadline stated<br>Audi
- ence: Emerging leaders in NZ food and grocery: manufacturers\, suppliers\,
-  retailers<br>Networking: Panel plus networking\; format TBC<br>Speakers: 
- Facilitator Matthew Clews\, GM and CFO of HOOP\; panel TBC<br>Agenda: Pane
- l on building financial and commercial acumen in FMCG<br>Unverified: Panel
- lists\; audience size<br>Source: https://www.fgc.org.nz/events<br><br>Stat
- us: UNCONFIRMED prospect. Found 2026-10-15\, last checked 2026-10-15.</bod
- y></html>
+ nancial and commercial acumen in FMCG\n\nSCOUT NOTES\nUnverified: Panellis
+ ts\; audience size\nFound via: https://www.fgc.org.nz/events\nStatus: UNCO
+ NFIRMED prospect until registered. First found 2026-10-15\, last checked 2
+ 026-10-15.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.fgc.org.nz/events-1/future-leaders-networking-series">Open
+  event page / register &raquo\;</a></b></p><h3>Key details</h3><table><tr>
+ <td style="vertical-align:top\;padding-right:12px"><b>When</b></td><td>Wed
+  21 Oct 2026\, 4:30pm-6:30pm</td></tr><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>Where</b></td><td>Goodman Fielder\, 2/8 Nelson Stree
+ t\, Auckland</td></tr><tr><td style="vertical-align:top\;padding-right:12p
+ x"><b>Cost</b></td><td>NZD 25 inc GST</td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Registration</b></td><td>Register button on
+  organiser page\; no deadline stated</td></tr></table><h3>Why go (fit 3/5)
+ </h3><p>Cheap FMCG room with panellists who are senior\, though attendees 
+ skew emerging leaders rather than decision-makers.</p><h3>About the event<
+ /h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>Organ
+ iser</b></td><td>NZ Food &amp\; Grocery Council</td></tr><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>Audience</b></td><td>Emerging lea
+ ders in NZ food and grocery: manufacturers\, suppliers\, retailers</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Networking</b>
+ </td><td>Panel plus networking\; format TBC</td></tr><tr><td style="vertic
+ al-align:top\;padding-right:12px"><b>Speakers</b></td><td>Facilitator Matt
+ hew Clews\, GM and CFO of HOOP\; panel TBC</td></tr><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Agenda</b></td><td>Panel on building f
+ inancial and commercial acumen in FMCG</td></tr></table><h3>Scout notes</h
+ 3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>Unverif
+ ied</b></td><td>Panellists\; audience size</td></tr><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Found via</b></td><td><a href="https:/
+ /www.fgc.org.nz/events">https://www.fgc.org.nz/events</a></td></tr><tr><td
+  style="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCO
+ NFIRMED prospect until registered. First found 2026-10-15\, last checked 2
+ 026-10-15.</td></tr></table></body></html>
 URL:https://www.fgc.org.nz/events-1/future-leaders-networking-series
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -154,51 +200,65 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:03af02e0cc913c30@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261022T083000
 DTEND;TZID=Pacific/Auckland:20261022T133000
 SUMMARY:Korea New Zealand Smart Cooperation Forum 2026
 LOCATION:Grand Millennium Auckland\, Ballroom\, 71 Mayoral Drive (corner Vi
  ncent Street)\, Auckland CBD
-DESCRIPTION:BOOK / REGISTER: https://knzbc.co.nz/knzf2026\n\nFit: 4/5. Seni
- or bilateral trade/innovation forum with strong government and business le
- adership presence\, directly relevant to growth\, trade and strategy theme
- s.\nOrganiser: Korea New Zealand Business Council (KNZBC)\, with Embassy o
- f the Republic of Korea\, MFAT\, NZTE and Asia New Zealand Foundation\nTim
- e: 8:30am-1:30pm\nVenue: Grand Millennium Auckland\, Ballroom\, 71 Mayoral
-  Drive (corner Vincent Street)\, Auckland CBD\nCost: TBC (not published on
-  registration page)\nRegistration: Register via Humanitix link on organise
- r page (events.humanitix.com/knzforum2026)\; payment plans offered\, no re
- funds\nAudience: Business leaders\, exporters\, government officials and t
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://knzbc.co.nz/knzf2026\n\n
+ KEY DETAILS\nWhen: Thu 22 Oct 2026\, 8:30am-1:30pm\nWhere: Grand Millenniu
+ m Auckland\, Ballroom\, 71 Mayoral Drive (corner Vincent Street)\, Aucklan
+ d CBD\nCost: TBC (not published on registration page)\nRegistration: Regis
+ ter via Humanitix link on organiser page (events.humanitix.com/knzforum202
+ 6)\; payment plans offered\, no refunds\n\nWHY GO (FIT 4/5)\nSenior bilate
+ ral trade/innovation forum with strong government and business leadership 
+ presence\, directly relevant to growth\, trade and strategy themes.\n\nABO
+ UT THE EVENT\nOrganiser: Korea New Zealand Business Council (KNZBC)\, with
+  Embassy of the Republic of Korea\, MFAT\, NZTE and Asia New Zealand Found
+ ation\nAudience: Business leaders\, exporters\, government officials and t
  rade professionals\; ballroom venue suggests ~150-300\nNetworking: Half-da
  y forum with panels\, keynotes and breaks\nSpeakers: Gareth Coleman\; Amba
  ssador Byung-ha Chung\; Simon Bridges (Auckland Business Chamber CEO\, clo
  sing remarks)\; full lineup at knzbc.co.nz/knzf2026\nAgenda: 4th annual fo
  rum\, 'Smarter Together': AI/innovation\, energy and infrastructure\, Kore
- a-NZ trade outlook\, Korean Women in Leadership panel\nUnverified: Cost\; 
- exact audience size\nSource: https://knzbc.co.nz/knzf2026\n\nStatus: UNCON
- FIRMED prospect. Found 2026-09-24\, last checked 2026-09-24.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://knzbc.co.nz
- /knzf2026">Book / register</a></b></p>BOOK / REGISTER: https://knzbc.co.nz
- /knzf2026<br><br>Fit: 4/5. Senior bilateral trade/innovation forum with st
- rong government and business leadership presence\, directly relevant to gr
- owth\, trade and strategy themes.<br>Organiser: Korea New Zealand Business
-  Council (KNZBC)\, with Embassy of the Republic of Korea\, MFAT\, NZTE and
-  Asia New Zealand Foundation<br>Time: 8:30am-1:30pm<br>Venue: Grand Millen
- nium Auckland\, Ballroom\, 71 Mayoral Drive (corner Vincent Street)\, Auck
- land CBD<br>Cost: TBC (not published on registration page)<br>Registration
- : Register via Humanitix link on organiser page (events.humanitix.com/knzf
- orum2026)\; payment plans offered\, no refunds<br>Audience: Business leade
- rs\, exporters\, government officials and trade professionals\; ballroom v
- enue suggests ~150-300<br>Networking: Half-day forum with panels\, keynote
- s and breaks<br>Speakers: Gareth Coleman\; Ambassador Byung-ha Chung\; Sim
- on Bridges (Auckland Business Chamber CEO\, closing remarks)\; full lineup
-  at knzbc.co.nz/knzf2026<br>Agenda: 4th annual forum\, 'Smarter Together':
-  AI/innovation\, energy and infrastructure\, Korea-NZ trade outlook\, Kore
- an Women in Leadership panel<br>Unverified: Cost\; exact audience size<br>
- Source: https://knzbc.co.nz/knzf2026<br><br>Status: UNCONFIRMED prospect. 
- Found 2026-09-24\, last checked 2026-09-24.</body></html>
+ a-NZ trade outlook\, Korean Women in Leadership panel\n\nSCOUT NOTES\nUnve
+ rified: Cost\; exact audience size\nStatus: UNCONFIRMED prospect until reg
+ istered. First found 2026-09-24\, last checked 2026-09-24.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://knzbc.co.nz/knzf2026">Open event page / register &raquo\;</a><
+ /b></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;paddi
+ ng-right:12px"><b>When</b></td><td>Thu 22 Oct 2026\, 8:30am-1:30pm</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b></td>
+ <td>Grand Millennium Auckland\, Ballroom\, 71 Mayoral Drive (corner Vincen
+ t Street)\, Auckland CBD</td></tr><tr><td style="vertical-align:top\;paddi
+ ng-right:12px"><b>Cost</b></td><td>TBC (not published on registration page
+ )</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Regis
+ tration</b></td><td>Register via Humanitix link on organiser page (events.
+ humanitix.com/knzforum2026)\; payment plans offered\, no refunds</td></tr>
+ </table><h3>Why go (fit 4/5)</h3><p>Senior bilateral trade/innovation foru
+ m with strong government and business leadership presence\, directly relev
+ ant to growth\, trade and strategy themes.</p><h3>About the event</h3><tab
+ le><tr><td style="vertical-align:top\;padding-right:12px"><b>Organiser</b>
+ </td><td>Korea New Zealand Business Council (KNZBC)\, with Embassy of the 
+ Republic of Korea\, MFAT\, NZTE and Asia New Zealand Foundation</td></tr><
+ tr><td style="vertical-align:top\;padding-right:12px"><b>Audience</b></td>
+ <td>Business leaders\, exporters\, government officials and trade professi
+ onals\; ballroom venue suggests ~150-300</td></tr><tr><td style="vertical-
+ align:top\;padding-right:12px"><b>Networking</b></td><td>Half-day forum wi
+ th panels\, keynotes and breaks</td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Speakers</b></td><td>Gareth Coleman\; Ambassador 
+ Byung-ha Chung\; Simon Bridges (Auckland Business Chamber CEO\, closing re
+ marks)\; full lineup at knzbc.co.nz/knzf2026</td></tr><tr><td style="verti
+ cal-align:top\;padding-right:12px"><b>Agenda</b></td><td>4th annual forum\
+ , 'Smarter Together': AI/innovation\, energy and infrastructure\, Korea-NZ
+  trade outlook\, Korean Women in Leadership panel</td></tr></table><h3>Sco
+ ut notes</h3><table><tr><td style="vertical-align:top\;padding-right:12px"
+ ><b>Unverified</b></td><td>Cost\; exact audience size</td></tr><tr><td sty
+ le="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIR
+ MED prospect until registered. First found 2026-09-24\, last checked 2026-
+ 09-24.</td></tr></table></body></html>
 URL:https://knzbc.co.nz/knzf2026
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -209,44 +269,59 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:5a5c69799a7733a3@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261022T090000
 DTEND;TZID=Pacific/Auckland:20261022T103000
 SUMMARY:EMA Member Forum: Port of Tauranga Chief Executive Officer\, Leonar
  d Sampson
 LOCATION:EMA Business Hub\, 145 Khyber Pass Road\, Grafton\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://learn.ema.co.nz/courses/728-ema-member
- -forum-port-of-tauranga-chief-executive-officer-leonard-sampson\n\nFit: 4/
- 5. A sitting CEO speaking on supply-chain/export strategy to a senior memb
- er audience is a strong theme and seniority fit\, at no cost.\nOrganiser: 
- EMA (Employers and Manufacturers Association)\nTime: 9:00am-10:30am\nVenue
- : EMA Business Hub\, 145 Khyber Pass Road\, Grafton\, Auckland\nCost: Free
- \nRegistration: Online via organiser page\; exclusive EMA member forum\, g
- uest access unconfirmed\nAudience: EMA member business owners/executives (
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://learn.ema.co.nz/courses/
+ 728-ema-member-forum-port-of-tauranga-chief-executive-officer-leonard-samp
+ son\n\nKEY DETAILS\nWhen: Thu 22 Oct 2026\, 9:00am-10:30am\nWhere: EMA Bus
+ iness Hub\, 145 Khyber Pass Road\, Grafton\, Auckland\nCost: Free\nRegistr
+ ation: Online via organiser page\; exclusive EMA member forum\, guest acce
+ ss unconfirmed\n\nWHY GO (FIT 4/5)\nA sitting CEO speaking on supply-chain
+ /export strategy to a senior member audience is a strong theme and seniori
+ ty fit\, at no cost.\n\nABOUT THE EVENT\nOrganiser: EMA (Employers and Man
+ ufacturers Association)\nAudience: EMA member business owners/executives (
  exclusive member forum)\nNetworking: Morning session with member Q&A\nSpea
  kers: Leonard Sampson\, CEO\, Port of Tauranga\nAgenda: CEO session on por
- t/export logistics leadership and strategy\nUnverified: Whether non-EMA-me
- mbers can attend as guests\; detailed agenda\nSource: https://www.ema.co.n
- z/events\n\nStatus: UNCONFIRMED prospect. Found 2026-09-24\, last checked 
- 2026-09-24.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://learn.ema.c
- o.nz/courses/728-ema-member-forum-port-of-tauranga-chief-executive-officer
- -leonard-sampson">Book / register</a></b></p>BOOK / REGISTER: https://lear
- n.ema.co.nz/courses/728-ema-member-forum-port-of-tauranga-chief-executive-
- officer-leonard-sampson<br><br>Fit: 4/5. A sitting CEO speaking on supply-
- chain/export strategy to a senior member audience is a strong theme and se
- niority fit\, at no cost.<br>Organiser: EMA (Employers and Manufacturers A
- ssociation)<br>Time: 9:00am-10:30am<br>Venue: EMA Business Hub\, 145 Khybe
- r Pass Road\, Grafton\, Auckland<br>Cost: Free<br>Registration: Online via
-  organiser page\; exclusive EMA member forum\, guest access unconfirmed<br
- >Audience: EMA member business owners/executives (exclusive member forum)<
- br>Networking: Morning session with member Q&amp\;A<br>Speakers: Leonard S
- ampson\, CEO\, Port of Tauranga<br>Agenda: CEO session on port/export logi
- stics leadership and strategy<br>Unverified: Whether non-EMA-members can a
- ttend as guests\; detailed agenda<br>Source: https://www.ema.co.nz/events<
- br><br>Status: UNCONFIRMED prospect. Found 2026-09-24\, last checked 2026-
- 09-24.</body></html>
+ t/export logistics leadership and strategy\n\nSCOUT NOTES\nUnverified: Whe
+ ther non-EMA-members can attend as guests\; detailed agenda\nFound via: ht
+ tps://www.ema.co.nz/events\nStatus: UNCONFIRMED prospect until registered.
+  First found 2026-09-24\, last checked 2026-09-24.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://learn.ema.co.nz/courses/728-ema-member-forum-port-of-tauranga-
+ chief-executive-officer-leonard-sampson">Open event page / register &raquo
+ \;</a></b></p><h3>Key details</h3><table><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>When</b></td><td>Thu 22 Oct 2026\, 9:00am-10:30am
+ </td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Where<
+ /b></td><td>EMA Business Hub\, 145 Khyber Pass Road\, Grafton\, Auckland</
+ td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Cost</b>
+ </td><td>Free</td></tr><tr><td style="vertical-align:top\;padding-right:12
+ px"><b>Registration</b></td><td>Online via organiser page\; exclusive EMA 
+ member forum\, guest access unconfirmed</td></tr></table><h3>Why go (fit 4
+ /5)</h3><p>A sitting CEO speaking on supply-chain/export strategy to a sen
+ ior member audience is a strong theme and seniority fit\, at no cost.</p><
+ h3>About the event</h3><table><tr><td style="vertical-align:top\;padding-r
+ ight:12px"><b>Organiser</b></td><td>EMA (Employers and Manufacturers Assoc
+ iation)</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b
+ >Audience</b></td><td>EMA member business owners/executives (exclusive mem
+ ber forum)</td></tr><tr><td style="vertical-align:top\;padding-right:12px"
+ ><b>Networking</b></td><td>Morning session with member Q&amp\;A</td></tr><
+ tr><td style="vertical-align:top\;padding-right:12px"><b>Speakers</b></td>
+ <td>Leonard Sampson\, CEO\, Port of Tauranga</td></tr><tr><td style="verti
+ cal-align:top\;padding-right:12px"><b>Agenda</b></td><td>CEO session on po
+ rt/export logistics leadership and strategy</td></tr></table><h3>Scout not
+ es</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>Un
+ verified</b></td><td>Whether non-EMA-members can attend as guests\; detail
+ ed agenda</td></tr><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>Found via</b></td><td><a href="https://www.ema.co.nz/events">https://ww
+ w.ema.co.nz/events</a></td></tr><tr><td style="vertical-align:top\;padding
+ -right:12px"><b>Status</b></td><td>UNCONFIRMED prospect until registered. 
+ First found 2026-09-24\, last checked 2026-09-24.</td></tr></table></body>
+ </html>
 URL:https://learn.ema.co.nz/courses/728-ema-member-forum-port-of-tauranga-c
  hief-executive-officer-leonard-sampson
 CATEGORIES:Stragentum: Prospect Event
@@ -258,39 +333,55 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd6f7840691fd70@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261027T093000
 DTEND;TZID=Pacific/Auckland:20261027T113000
 SUMMARY:EMA Connect Auckland (October 2026)
 LOCATION:EMA Business Hub\, 145 Khyber Pass Road\, Grafton\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://learn.ema.co.nz/courses/685-ema-connec
- t-auckland-october-2026\n\nFit: 4/5. Free\, dedicated networking event wit
- h an EMA member business base\, though audience seniority is likely mixed 
- rather than predominantly C-suite.\nOrganiser: EMA (Employers and Manufact
- urers Association)\nTime: 9:30am-11:30am\nVenue: EMA Business Hub\, 145 Kh
- yber Pass Road\, Grafton\, Auckland\nCost: Free\nRegistration: Online via 
- organiser page\; no deadline stated\nAudience: EMA member businesses\, gen
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://learn.ema.co.nz/courses/
+ 685-ema-connect-auckland-october-2026\n\nKEY DETAILS\nWhen: Tue 27 Oct 202
+ 6\, 9:30am-11:30am\nWhere: EMA Business Hub\, 145 Khyber Pass Road\, Graft
+ on\, Auckland\nCost: Free\nRegistration: Online via organiser page\; no de
+ adline stated\n\nWHY GO (FIT 4/5)\nFree\, dedicated networking event with 
+ an EMA member business base\, though audience seniority is likely mixed ra
+ ther than predominantly C-suite.\n\nABOUT THE EVENT\nOrganiser: EMA (Emplo
+ yers and Manufacturers Association)\nAudience: EMA member businesses\, gen
  eral Auckland members (mixed seniority)\nNetworking: Dedicated general bus
  iness networking event ('Connect' format)\nSpeakers: TBC\nAgenda: General 
- EMA member networking morning\nUnverified: Speakers\; attendee seniority m
- ix\; attendee numbers\nSource: https://www.ema.co.nz/events\n\nStatus: UNC
- ONFIRMED prospect. Found 2026-09-24\, last checked 2026-09-24.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://learn.ema.c
- o.nz/courses/685-ema-connect-auckland-october-2026">Book / register</a></b
- ></p>BOOK / REGISTER: https://learn.ema.co.nz/courses/685-ema-connect-auck
- land-october-2026<br><br>Fit: 4/5. Free\, dedicated networking event with 
- an EMA member business base\, though audience seniority is likely mixed ra
- ther than predominantly C-suite.<br>Organiser: EMA (Employers and Manufact
- urers Association)<br>Time: 9:30am-11:30am<br>Venue: EMA Business Hub\, 14
- 5 Khyber Pass Road\, Grafton\, Auckland<br>Cost: Free<br>Registration: Onl
- ine via organiser page\; no deadline stated<br>Audience: EMA member busine
- sses\, general Auckland members (mixed seniority)<br>Networking: Dedicated
-  general business networking event ('Connect' format)<br>Speakers: TBC<br>
- Agenda: General EMA member networking morning<br>Unverified: Speakers\; at
- tendee seniority mix\; attendee numbers<br>Source: https://www.ema.co.nz/e
- vents<br><br>Status: UNCONFIRMED prospect. Found 2026-09-24\, last checked
-  2026-09-24.</body></html>
+ EMA member networking morning\n\nSCOUT NOTES\nUnverified: Speakers\; atten
+ dee seniority mix\; attendee numbers\nFound via: https://www.ema.co.nz/eve
+ nts\nStatus: UNCONFIRMED prospect until registered. First found 2026-09-24
+ \, last checked 2026-09-24.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://learn.ema.co.nz/courses/685-ema-connect-auckland-october-2026"
+ >Open event page / register &raquo\;</a></b></p><h3>Key details</h3><table
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>When</b></td><t
+ d>Tue 27 Oct 2026\, 9:30am-11:30am</td></tr><tr><td style="vertical-align:
+ top\;padding-right:12px"><b>Where</b></td><td>EMA Business Hub\, 145 Khybe
+ r Pass Road\, Grafton\, Auckland</td></tr><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Cost</b></td><td>Free</td></tr><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>Registration</b></td><td>Online v
+ ia organiser page\; no deadline stated</td></tr></table><h3>Why go (fit 4/
+ 5)</h3><p>Free\, dedicated networking event with an EMA member business ba
+ se\, though audience seniority is likely mixed rather than predominantly C
+ -suite.</p><h3>About the event</h3><table><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Organiser</b></td><td>EMA (Employers and Manufac
+ turers Association)</td></tr><tr><td style="vertical-align:top\;padding-ri
+ ght:12px"><b>Audience</b></td><td>EMA member businesses\, general Auckland
+  members (mixed seniority)</td></tr><tr><td style="vertical-align:top\;pad
+ ding-right:12px"><b>Networking</b></td><td>Dedicated general business netw
+ orking event ('Connect' format)</td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Speakers</b></td><td>TBC</td></tr><tr><td style="
+ vertical-align:top\;padding-right:12px"><b>Agenda</b></td><td>General EMA 
+ member networking morning</td></tr></table><h3>Scout notes</h3><table><tr>
+ <td style="vertical-align:top\;padding-right:12px"><b>Unverified</b></td><
+ td>Speakers\; attendee seniority mix\; attendee numbers</td></tr><tr><td s
+ tyle="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td><a 
+ href="https://www.ema.co.nz/events">https://www.ema.co.nz/events</a></td><
+ /tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b></
+ td><td>UNCONFIRMED prospect until registered. First found 2026-09-24\, las
+ t checked 2026-09-24.</td></tr></table></body></html>
 URL:https://learn.ema.co.nz/courses/685-ema-connect-auckland-october-2026
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -301,7 +392,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:e79e50592dc0dfd5@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261027T114500
 DTEND;TZID=Pacific/Auckland:20261027T140000
@@ -309,95 +400,57 @@ SUMMARY:[?] From Purpose Statements to Real Decisions: Building a Wellbeing
   Economy
 LOCATION:AUT Te Iringa Wave Room WG308\, Sir Paul Reeves Building\, Governo
  r Fitzroy Place\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://www.bnzba.co.nz/event/from-purpose-sta
- tements-to-real-decisions-building-a-wellbeing-economy\n\nFit: 3/5. Direct
- ly touches corporate strategy/ESG decision-making relevant to consumer goo
- ds and board clients\, but lecture format limits networking density and au
- dience seniority is unverified.\nOrganiser: British New Zealand Business A
- ssociation (BNZBA)\nTime: 11:45am-2:00pm\nVenue: AUT Te Iringa Wave Room W
- G308\, Sir Paul Reeves Building\, Governor Fitzroy Place\, Auckland\nCost:
-  TBC\nRegistration: Book via event page\; waitlist function present\, may 
- be near capacity\nAudience: BNZBA members plus business/academic guests\nN
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.bnzba.co.nz/event/fr
+ om-purpose-statements-to-real-decisions-building-a-wellbeing-economy\n\nKE
+ Y DETAILS\nWhen: Tue 27 Oct 2026\, 11:45am-2:00pm\nWhere: AUT Te Iringa Wa
+ ve Room WG308\, Sir Paul Reeves Building\, Governor Fitzroy Place\, Auckla
+ nd\nCost: TBC\nRegistration: Book via event page\; waitlist function prese
+ nt\, may be near capacity\n\nWHY GO (FIT 3/5)\nDirectly touches corporate 
+ strategy/ESG decision-making relevant to consumer goods and board clients\
+ , but lecture format limits networking density and audience seniority is u
+ nverified.\n\nABOUT THE EVENT\nOrganiser: British New Zealand Business Ass
+ ociation (BNZBA)\nAudience: BNZBA members plus business/academic guests\nN
  etworking: Includes lunch\; seminar/panel format with Q&A rather than a de
  dicated mingling segment\nSpeakers: Dr Victoria Hurth (advises executives 
  globally on purpose\, ESG\, sustainability and business transformation)\nA
  genda: Seminar and lunch on moving from ESG purpose statements to real str
- ategic decisions in a wellbeing economy\nUnverified: Cost\; audience size/
- seniority mix\nSource: https://www.bnzba.co.nz/bnzba-events\n\nStatus: UNC
- ONFIRMED prospect. Found 2026-09-24\, last checked 2026-09-24.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.bnzba.c
- o.nz/event/from-purpose-statements-to-real-decisions-building-a-wellbeing-
- economy">Book / register</a></b></p>BOOK / REGISTER: https://www.bnzba.co.
- nz/event/from-purpose-statements-to-real-decisions-building-a-wellbeing-ec
- onomy<br><br>Fit: 3/5. Directly touches corporate strategy/ESG decision-ma
- king relevant to consumer goods and board clients\, but lecture format lim
- its networking density and audience seniority is unverified.<br>Organiser:
-  British New Zealand Business Association (BNZBA)<br>Time: 11:45am-2:00pm<
- br>Venue: AUT Te Iringa Wave Room WG308\, Sir Paul Reeves Building\, Gover
- nor Fitzroy Place\, Auckland<br>Cost: TBC<br>Registration: Book via event 
- page\; waitlist function present\, may be near capacity<br>Audience: BNZBA
-  members plus business/academic guests<br>Networking: Includes lunch\; sem
- inar/panel format with Q&amp\;A rather than a dedicated mingling segment<b
- r>Speakers: Dr Victoria Hurth (advises executives globally on purpose\, ES
- G\, sustainability and business transformation)<br>Agenda: Seminar and lun
- ch on moving from ESG purpose statements to real strategic decisions in a 
- wellbeing economy<br>Unverified: Cost\; audience size/seniority mix<br>Sou
- rce: https://www.bnzba.co.nz/bnzba-events<br><br>Status: UNCONFIRMED prosp
- ect. Found 2026-09-24\, last checked 2026-09-24.</body></html>
-URL:https://www.bnzba.co.nz/event/from-purpose-statements-to-real-decisions
- -building-a-wellbeing-economy
-CATEGORIES:Stragentum: Prospect Event
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:69ee409d497d9c40@stragentum-scout
-DTSTAMP:20261101T205648Z
-SEQUENCE:0
-DTSTART;TZID=Pacific/Auckland:20261027T114500
-DTEND;TZID=Pacific/Auckland:20261027T140000
-SUMMARY:[?] BNZBA: From Purpose Statements to Real Decisions - Building a W
- ellbeing Economy
-LOCATION:AUT Te Iringa Wave Room WG308\, Sir Paul Reeves Building\, Governo
- r Fitzroy Place\, Auckland 1010
-DESCRIPTION:BOOK / REGISTER: https://www.bnzba.co.nz/event/from-purpose-sta
- tements-to-real-decisions-building-a-wellbeing-economy\n\nFit: 3/5. UK-NZ 
- business network with a strategy-and-purpose theme close to Stragentum's b
- oard work\, though audience seniority is unknown.\nOrganiser: British New 
- Zealand Business Association (BNZBA)\nTime: 11:45am-2:00pm\nVenue: AUT Te 
- Iringa Wave Room WG308\, Sir Paul Reeves Building\, Governor Fitzroy Place
- \, Auckland 1010\nCost: TBC\nRegistration: Humanitix via organiser page\; 
- waitlist form shown\; deadline TBC\nAudience: TBC\nNetworking: TBC (midday
-  slot suggests lunch)\nSpeakers: Dr Victoria Hurth (keynote)\; panel: Neil
-  Gaught (Founder\, Neil Gaught & Associates)\, Andrew Baker (Founder\, Tik
- a Learning)\; moderator Dr Victoria Hatton (Founder\, Be.Deliberate\; BNZB
- A Vice President)\nAgenda: Keynote then panel on turning corporate purpose
-  into real strategic decisions\nUnverified: Cost\, audience\, networking f
- ormat\; a waitlist form suggests it may be sold out\nSource: https://www.b
- nzba.co.nz/bnzba-events\n\nStatus: UNCONFIRMED prospect. Found 2026-10-15\
- , last checked 2026-10-15.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.bnzba.c
- o.nz/event/from-purpose-statements-to-real-decisions-building-a-wellbeing-
- economy">Book / register</a></b></p>BOOK / REGISTER: https://www.bnzba.co.
- nz/event/from-purpose-statements-to-real-decisions-building-a-wellbeing-ec
- onomy<br><br>Fit: 3/5. UK-NZ business network with a strategy-and-purpose 
- theme close to Stragentum's board work\, though audience seniority is unkn
- own.<br>Organiser: British New Zealand Business Association (BNZBA)<br>Tim
- e: 11:45am-2:00pm<br>Venue: AUT Te Iringa Wave Room WG308\, Sir Paul Reeve
- s Building\, Governor Fitzroy Place\, Auckland 1010<br>Cost: TBC<br>Regist
- ration: Humanitix via organiser page\; waitlist form shown\; deadline TBC<
- br>Audience: TBC<br>Networking: TBC (midday slot suggests lunch)<br>Speake
- rs: Dr Victoria Hurth (keynote)\; panel: Neil Gaught (Founder\, Neil Gaugh
- t &amp\; Associates)\, Andrew Baker (Founder\, Tika Learning)\; moderator 
- Dr Victoria Hatton (Founder\, Be.Deliberate\; BNZBA Vice President)<br>Age
- nda: Keynote then panel on turning corporate purpose into real strategic d
- ecisions<br>Unverified: Cost\, audience\, networking format\; a waitlist f
- orm suggests it may be sold out<br>Source: https://www.bnzba.co.nz/bnzba-e
- vents<br><br>Status: UNCONFIRMED prospect. Found 2026-10-15\, last checked
-  2026-10-15.</body></html>
+ ategic decisions in a wellbeing economy\n\nSCOUT NOTES\nUnverified: Cost\;
+  audience size/seniority mix\nFound via: https://www.bnzba.co.nz/bnzba-eve
+ nts\nStatus: UNCONFIRMED prospect until registered. First found 2026-09-24
+ \, last checked 2026-09-24.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.bnzba.co.nz/event/from-purpose-statements-to-real-decision
+ s-building-a-wellbeing-economy">Open event page / register &raquo\;</a></b
+ ></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;padding
+ -right:12px"><b>When</b></td><td>Tue 27 Oct 2026\, 11:45am-2:00pm</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b></td><
+ td>AUT Te Iringa Wave Room WG308\, Sir Paul Reeves Building\, Governor Fit
+ zroy Place\, Auckland</td></tr><tr><td style="vertical-align:top\;padding-
+ right:12px"><b>Cost</b></td><td>TBC</td></tr><tr><td style="vertical-align
+ :top\;padding-right:12px"><b>Registration</b></td><td>Book via event page\
+ ; waitlist function present\, may be near capacity</td></tr></table><h3>Wh
+ y go (fit 3/5)</h3><p>Directly touches corporate strategy/ESG decision-mak
+ ing relevant to consumer goods and board clients\, but lecture format limi
+ ts networking density and audience seniority is unverified.</p><h3>About t
+ he event</h3><table><tr><td style="vertical-align:top\;padding-right:12px"
+ ><b>Organiser</b></td><td>British New Zealand Business Association (BNZBA)
+ </td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Audien
+ ce</b></td><td>BNZBA members plus business/academic guests</td></tr><tr><t
+ d style="vertical-align:top\;padding-right:12px"><b>Networking</b></td><td
+ >Includes lunch\; seminar/panel format with Q&amp\;A rather than a dedicat
+ ed mingling segment</td></tr><tr><td style="vertical-align:top\;padding-ri
+ ght:12px"><b>Speakers</b></td><td>Dr Victoria Hurth (advises executives gl
+ obally on purpose\, ESG\, sustainability and business transformation)</td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b><
+ /td><td>Seminar and lunch on moving from ESG purpose statements to real st
+ rategic decisions in a wellbeing economy</td></tr></table><h3>Scout notes<
+ /h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>Unver
+ ified</b></td><td>Cost\; audience size/seniority mix</td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td><a hre
+ f="https://www.bnzba.co.nz/bnzba-events">https://www.bnzba.co.nz/bnzba-eve
+ nts</a></td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b
+ >Status</b></td><td>UNCONFIRMED prospect until registered. First found 202
+ 6-09-24\, last checked 2026-09-24.</td></tr></table></body></html>
 URL:https://www.bnzba.co.nz/event/from-purpose-statements-to-real-decisions
  -building-a-wellbeing-economy
 CATEGORIES:Stragentum: Prospect Event
@@ -409,47 +462,63 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:6873c69fe83c6c64@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:IoD & Chapter Zero NZ Climate Forum
 LOCATION:TBC (in-person\, Auckland\; companion webcast held 13 Oct 2026)\, 
  TBC
-DESCRIPTION:BOOK / REGISTER: https://www.iod.org.nz/all-events/national/iod
- -and-chapter-zero-nz-climate-forum\n\nFit: 4/5. High-seniority director/bo
- ard audience in an in-person forum\, though theme is climate governance ra
- ther than core strategy/M&A.\nOrganiser: Institute of Directors NZ / Chapt
- er Zero NZ\nTime: TBC\nVenue: TBC (in-person\, Auckland\; companion webcas
- t held 13 Oct 2026)\, TBC\nCost: TBC\nRegistration: Open via IoD NZ event 
- page\nAudience: Directors and board members across sectors (climate govern
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.iod.org.nz/all-event
+ s/national/iod-and-chapter-zero-nz-climate-forum\n\nKEY DETAILS\nWhen: Wed
+  28 Oct 2026\, TBC\nWhere: TBC (in-person\, Auckland\; companion webcast h
+ eld 13 Oct 2026)\, TBC\nCost: TBC\nRegistration: Open via IoD NZ event pag
+ e\n\nWHY GO (FIT 4/5)\nHigh-seniority director/board audience in an in-per
+ son forum\, though theme is climate governance rather than core strategy/M
+ &A.\n\nABOUT THE EVENT\nOrganiser: Institute of Directors NZ / Chapter Zer
+ o NZ\nAudience: Directors and board members across sectors (climate govern
  ance focus)\nNetworking: TBC\nSpeakers: TBC\nAgenda: Board's role in clima
  te and nature governance\; compliance\, strategy and stakeholder engagemen
- t\nUnverified: Entire listing is unverified: organiser page could not be o
- pened this run (network egress blocked). Date\, venue\, time\, cost\, regi
- stration and networking details are all inferred from search snippets only
- \, not read from the organiser page. Confirm directly on iod.org.nz before
-  relying on this.\nSource: https://www.iod.org.nz/chapter-zero-new-zealand
- \n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, last checked 2026-09-
- 23.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.iod.org
- .nz/all-events/national/iod-and-chapter-zero-nz-climate-forum">Book / regi
- ster</a></b></p>BOOK / REGISTER: https://www.iod.org.nz/all-events/nationa
- l/iod-and-chapter-zero-nz-climate-forum<br><br>Fit: 4/5. High-seniority di
- rector/board audience in an in-person forum\, though theme is climate gove
- rnance rather than core strategy/M&amp\;A.<br>Organiser: Institute of Dire
- ctors NZ / Chapter Zero NZ<br>Time: TBC<br>Venue: TBC (in-person\, Aucklan
- d\; companion webcast held 13 Oct 2026)\, TBC<br>Cost: TBC<br>Registration
- : Open via IoD NZ event page<br>Audience: Directors and board members acro
- ss sectors (climate governance focus)<br>Networking: TBC<br>Speakers: TBC<
- br>Agenda: Board's role in climate and nature governance\; compliance\, st
- rategy and stakeholder engagement<br>Unverified: Entire listing is unverif
- ied: organiser page could not be opened this run (network egress blocked).
-  Date\, venue\, time\, cost\, registration and networking details are all 
- inferred from search snippets only\, not read from the organiser page. Con
- firm directly on iod.org.nz before relying on this.<br>Source: https://www
- .iod.org.nz/chapter-zero-new-zealand<br><br>Status: UNCONFIRMED prospect. 
- Found 2026-09-23\, last checked 2026-09-23.</body></html>
+ t\n\nSCOUT NOTES\nUnverified: Entire listing is unverified: organiser page
+  could not be opened this run (network egress blocked). Date\, venue\, tim
+ e\, cost\, registration and networking details are all inferred from searc
+ h snippets only\, not read from the organiser page. Confirm directly on io
+ d.org.nz before relying on this.\nFound via: https://www.iod.org.nz/chapte
+ r-zero-new-zealand\nStatus: UNCONFIRMED prospect until registered. First f
+ ound 2026-09-23\, last checked 2026-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.iod.org.nz/all-events/national/iod-and-chapter-zero-nz-cli
+ mate-forum">Open event page / register &raquo\;</a></b></p><h3>Key details
+ </h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>When
+ </b></td><td>Wed 28 Oct 2026\, TBC</td></tr><tr><td style="vertical-align:
+ top\;padding-right:12px"><b>Where</b></td><td>TBC (in-person\, Auckland\; 
+ companion webcast held 13 Oct 2026)\, TBC</td></tr><tr><td style="vertical
+ -align:top\;padding-right:12px"><b>Cost</b></td><td>TBC</td></tr><tr><td s
+ tyle="vertical-align:top\;padding-right:12px"><b>Registration</b></td><td>
+ Open via IoD NZ event page</td></tr></table><h3>Why go (fit 4/5)</h3><p>Hi
+ gh-seniority director/board audience in an in-person forum\, though theme 
+ is climate governance rather than core strategy/M&amp\;A.</p><h3>About the
+  event</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><
+ b>Organiser</b></td><td>Institute of Directors NZ / Chapter Zero NZ</td></
+ tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Audience</b><
+ /td><td>Directors and board members across sectors (climate governance foc
+ us)</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Net
+ working</b></td><td>TBC</td></tr><tr><td style="vertical-align:top\;paddin
+ g-right:12px"><b>Speakers</b></td><td>TBC</td></tr><tr><td style="vertical
+ -align:top\;padding-right:12px"><b>Agenda</b></td><td>Board's role in clim
+ ate and nature governance\; compliance\, strategy and stakeholder engageme
+ nt</td></tr></table><h3>Scout notes</h3><table><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Unverified</b></td><td>Entire listing is un
+ verified: organiser page could not be opened this run (network egress bloc
+ ked). Date\, venue\, time\, cost\, registration and networking details are
+  all inferred from search snippets only\, not read from the organiser page
+ . Confirm directly on iod.org.nz before relying on this.</td></tr><tr><td 
+ style="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td><a
+  href="https://www.iod.org.nz/chapter-zero-new-zealand">https://www.iod.or
+ g.nz/chapter-zero-new-zealand</a></td></tr><tr><td style="vertical-align:t
+ op\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED prospect until r
+ egistered. First found 2026-09-23\, last checked 2026-09-23.</td></tr></ta
+ ble></body></html>
 URL:https://www.iod.org.nz/all-events/national/iod-and-chapter-zero-nz-clim
  ate-forum
 CATEGORIES:Stragentum: Prospect Event
@@ -461,44 +530,55 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:657ea1f62298b596@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261028T070000
 DTEND;TZID=Pacific/Auckland:20261028T090000
 SUMMARY:[?] Chapter Zero NZ Breakfast: Four Sectors\, Four Stories - Climat
  e Action in Practice
 LOCATION:Grand Millennium Auckland\, TBC
-DESCRIPTION:BOOK / REGISTER: https://www.iod.org.nz/all-events/chapter-zero
- -events/four-sectors-four-stories-climate-action-in-practice\n\nFit: 3/5. 
- Board-level audience for governance clients\, though climate theme is only
-  adjacent to Callum's core focus.\nOrganiser: Chapter Zero NZ / Institute 
- of Directors\nTime: 7:00am-9:00am\nVenue: Grand Millennium Auckland\, TBC\
- nCost: TBC (Chapter Zero supporters 20% discount)\nRegistration: Via IoD e
- vent page\; deadline TBC\nAudience: Company directors and board members\; 
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.iod.org.nz/all-event
+ s/chapter-zero-events/four-sectors-four-stories-climate-action-in-practice
+ \n\nKEY DETAILS\nWhen: Wed 28 Oct 2026\, 7:00am-9:00am\nWhere: Grand Mille
+ nnium Auckland\, TBC\nCost: TBC (Chapter Zero supporters 20% discount)\nRe
+ gistration: Via IoD event page\; deadline TBC\n\nWHY GO (FIT 3/5)\nBoard-l
+ evel audience for governance clients\, though climate theme is only adjace
+ nt to Callum's core focus.\n\nABOUT THE EVENT\nOrganiser: Chapter Zero NZ 
+ / Institute of Directors\nAudience: Company directors and board members\; 
  size TBC\nNetworking: Breakfast format\; TBC\nSpeakers: TBC\nAgenda: Four 
  organisations from different sectors present climate action case studies\n
- Unverified: Organiser page returned 404 on fetch\; all details came from a
-  search summary. Address\, cost\, speakers\, audience size\, networking.\n
- Source: https://www.iod.org.nz/all-events/chapter-zero-events/four-sectors
- -four-stories-climate-action-in-practice\n\nStatus: UNCONFIRMED prospect. 
- Found 2026-10-15\, last checked 2026-10-15.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.iod.org
- .nz/all-events/chapter-zero-events/four-sectors-four-stories-climate-actio
- n-in-practice">Book / register</a></b></p>BOOK / REGISTER: https://www.iod
- .org.nz/all-events/chapter-zero-events/four-sectors-four-stories-climate-a
- ction-in-practice<br><br>Fit: 3/5. Board-level audience for governance cli
- ents\, though climate theme is only adjacent to Callum's core focus.<br>Or
- ganiser: Chapter Zero NZ / Institute of Directors<br>Time: 7:00am-9:00am<b
- r>Venue: Grand Millennium Auckland\, TBC<br>Cost: TBC (Chapter Zero suppor
- ters 20% discount)<br>Registration: Via IoD event page\; deadline TBC<br>A
- udience: Company directors and board members\; size TBC<br>Networking: Bre
- akfast format\; TBC<br>Speakers: TBC<br>Agenda: Four organisations from di
- fferent sectors present climate action case studies<br>Unverified: Organis
- er page returned 404 on fetch\; all details came from a search summary. Ad
- dress\, cost\, speakers\, audience size\, networking.<br>Source: https://w
- ww.iod.org.nz/all-events/chapter-zero-events/four-sectors-four-stories-cli
- mate-action-in-practice<br><br>Status: UNCONFIRMED prospect. Found 2026-10
- -15\, last checked 2026-10-15.</body></html>
+ \nSCOUT NOTES\nUnverified: Organiser page returned 404 on fetch\; all deta
+ ils came from a search summary. Address\, cost\, speakers\, audience size\
+ , networking.\nStatus: UNCONFIRMED prospect until registered. First found 
+ 2026-10-15\, last checked 2026-10-15.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.iod.org.nz/all-events/chapter-zero-events/four-sectors-fou
+ r-stories-climate-action-in-practice">Open event page / register &raquo\;<
+ /a></b></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>When</b></td><td>Wed 28 Oct 2026\, 7:00am-9:00am</td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b><
+ /td><td>Grand Millennium Auckland\, TBC</td></tr><tr><td style="vertical-a
+ lign:top\;padding-right:12px"><b>Cost</b></td><td>TBC (Chapter Zero suppor
+ ters 20% discount)</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Registration</b></td><td>Via IoD event page\; deadline TBC</td
+ ></tr></table><h3>Why go (fit 3/5)</h3><p>Board-level audience for governa
+ nce clients\, though climate theme is only adjacent to Callum's core focus
+ .</p><h3>About the event</h3><table><tr><td style="vertical-align:top\;pad
+ ding-right:12px"><b>Organiser</b></td><td>Chapter Zero NZ / Institute of D
+ irectors</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><
+ b>Audience</b></td><td>Company directors and board members\; size TBC</td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Networking<
+ /b></td><td>Breakfast format\; TBC</td></tr><tr><td style="vertical-align:
+ top\;padding-right:12px"><b>Speakers</b></td><td>TBC</td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Agenda</b></td><td>Four orga
+ nisations from different sectors present climate action case studies</td><
+ /tr></table><h3>Scout notes</h3><table><tr><td style="vertical-align:top\;
+ padding-right:12px"><b>Unverified</b></td><td>Organiser page returned 404 
+ on fetch\; all details came from a search summary. Address\, cost\, speake
+ rs\, audience size\, networking.</td></tr><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED prospect until re
+ gistered. First found 2026-10-15\, last checked 2026-10-15.</td></tr></tab
+ le></body></html>
 URL:https://www.iod.org.nz/all-events/chapter-zero-events/four-sectors-four
  -stories-climate-action-in-practice
 CATEGORIES:Stragentum: Prospect Event
@@ -510,24 +590,25 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:231775d0311d074e@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261029T074500
 DTEND;TZID=Pacific/Auckland:20261029T191500
 SUMMARY:[?] RECON26 – Retail Conference 2026
 LOCATION:New Zealand International Convention Centre (NZICC)\, Te Paepae Th
  eatre\, 8 Federal Street\, Auckland CBD
-DESCRIPTION:BOOK / REGISTER: https://www.propertynz.co.nz/event/recon26-ret
- ail-conference-2026\n\nFit: 3/5. Good retail/consumer-goods theme fit with
-  genuine CEO/founder speakers\, but core audience is retail property profe
- ssionals rather than PE/board\, and non-member cost approaches NZD 1\,000.
- \nOrganiser: Property Council New Zealand (Retail Conference)\nTime: Main 
- conference day 7:45am-7:15pm (optional site tours 1:00-5:30pm previous day
- )\nVenue: New Zealand International Convention Centre (NZICC)\, Te Paepae 
- Theatre\, 8 Federal Street\, Auckland CBD\nCost: Member NZD 665 incl GST s
- tandard / Non-member NZD 920 incl GST standard (early bird closed 12 Aug 2
- 026)\nRegistration: Standard pricing now in effect\; register via property
- nz.co.nz\nAudience: Retail property professionals\, retail brand leaders/C
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.propertynz.co.nz/eve
+ nt/recon26-retail-conference-2026\n\nKEY DETAILS\nWhen: Thu 29 Oct 2026\, 
+ Main conference day 7:45am-7:15pm (optional site tours 1:00-5:30pm previou
+ s day)\nWhere: New Zealand International Convention Centre (NZICC)\, Te Pa
+ epae Theatre\, 8 Federal Street\, Auckland CBD\nCost: Member NZD 665 incl 
+ GST standard / Non-member NZD 920 incl GST standard (early bird closed 12 
+ Aug 2026)\nRegistration: Standard pricing now in effect\; register via pro
+ pertynz.co.nz\n\nWHY GO (FIT 3/5)\nGood retail/consumer-goods theme fit wi
+ th genuine CEO/founder speakers\, but core audience is retail property pro
+ fessionals rather than PE/board\, and non-member cost approaches NZD 1\,00
+ 0.\n\nABOUT THE EVENT\nOrganiser: Property Council New Zealand (Retail Con
+ ference)\nAudience: Retail property professionals\, retail brand leaders/C
  EOs\, investors and city-makers\nNetworking: Two-day format: exclusive sit
  e tours plus full conference programme running into early evening\nSpeaker
  s: Juanita Neville-Te Rito (Founder\, RX Group)\; Shamubeel Eaqub (economi
@@ -535,33 +616,48 @@ DESCRIPTION:BOOK / REGISTER: https://www.propertynz.co.nz/event/recon26-ret
  CEO\, Baby Bunting)\; Justin Northrop\; Tim Bateman (Founder\, O-Studio)\n
  Agenda: "Progress under pressure": retail forecasting/economics\, founder 
  case studies\, retail CEO perspective\, hospitality/rooftop retail design\
- nUnverified: Dedicated networking/drinks segment\; attendee count\nSource:
-  https://www.propertynz.co.nz/retail-conference\n\nStatus: UNCONFIRMED pro
- spect. Found 2026-09-24\, last checked 2026-09-24.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.propert
- ynz.co.nz/event/recon26-retail-conference-2026">Book / register</a></b></p
- >BOOK / REGISTER: https://www.propertynz.co.nz/event/recon26-retail-confer
- ence-2026<br><br>Fit: 3/5. Good retail/consumer-goods theme fit with genui
- ne CEO/founder speakers\, but core audience is retail property professiona
- ls rather than PE/board\, and non-member cost approaches NZD 1\,000.<br>Or
- ganiser: Property Council New Zealand (Retail Conference)<br>Time: Main co
- nference day 7:45am-7:15pm (optional site tours 1:00-5:30pm previous day)<
- br>Venue: New Zealand International Convention Centre (NZICC)\, Te Paepae 
- Theatre\, 8 Federal Street\, Auckland CBD<br>Cost: Member NZD 665 incl GST
-  standard / Non-member NZD 920 incl GST standard (early bird closed 12 Aug
-  2026)<br>Registration: Standard pricing now in effect\; register via prop
- ertynz.co.nz<br>Audience: Retail property professionals\, retail brand lea
- ders/CEOs\, investors and city-makers<br>Networking: Two-day format: exclu
- sive site tours plus full conference programme running into early evening<
- br>Speakers: Juanita Neville-Te Rito (Founder\, RX Group)\; Shamubeel Eaqu
- b (economist)\; Kathryn Wilson (Founder\, Kathryn Wilson Footwear)\; Mark 
- Teperson (CEO\, Baby Bunting)\; Justin Northrop\; Tim Bateman (Founder\, O
- -Studio)<br>Agenda: "Progress under pressure": retail forecasting/economic
- s\, founder case studies\, retail CEO perspective\, hospitality/rooftop re
- tail design<br>Unverified: Dedicated networking/drinks segment\; attendee 
- count<br>Source: https://www.propertynz.co.nz/retail-conference<br><br>Sta
- tus: UNCONFIRMED prospect. Found 2026-09-24\, last checked 2026-09-24.</bo
- dy></html>
+ n\nSCOUT NOTES\nUnverified: Dedicated networking/drinks segment\; attendee
+  count\nFound via: https://www.propertynz.co.nz/retail-conference\nStatus:
+  UNCONFIRMED prospect until registered. First found 2026-09-24\, last chec
+ ked 2026-09-24.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.propertynz.co.nz/event/recon26-retail-conference-2026">Ope
+ n event page / register &raquo\;</a></b></p><h3>Key details</h3><table><tr
+ ><td style="vertical-align:top\;padding-right:12px"><b>When</b></td><td>Th
+ u 29 Oct 2026\, Main conference day 7:45am-7:15pm (optional site tours 1:0
+ 0-5:30pm previous day)</td></tr><tr><td style="vertical-align:top\;padding
+ -right:12px"><b>Where</b></td><td>New Zealand International Convention Cen
+ tre (NZICC)\, Te Paepae Theatre\, 8 Federal Street\, Auckland CBD</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Cost</b></td><t
+ d>Member NZD 665 incl GST standard / Non-member NZD 920 incl GST standard 
+ (early bird closed 12 Aug 2026)</td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Registration</b></td><td>Standard pricing now in 
+ effect\; register via propertynz.co.nz</td></tr></table><h3>Why go (fit 3/
+ 5)</h3><p>Good retail/consumer-goods theme fit with genuine CEO/founder sp
+ eakers\, but core audience is retail property professionals rather than PE
+ /board\, and non-member cost approaches NZD 1\,000.</p><h3>About the event
+ </h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>Orga
+ niser</b></td><td>Property Council New Zealand (Retail Conference)</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Audience</b></
+ td><td>Retail property professionals\, retail brand leaders/CEOs\, investo
+ rs and city-makers</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Networking</b></td><td>Two-day format: exclusive site tours pl
+ us full conference programme running into early evening</td></tr><tr><td s
+ tyle="vertical-align:top\;padding-right:12px"><b>Speakers</b></td><td>Juan
+ ita Neville-Te Rito (Founder\, RX Group)\; Shamubeel Eaqub (economist)\; K
+ athryn Wilson (Founder\, Kathryn Wilson Footwear)\; Mark Teperson (CEO\, B
+ aby Bunting)\; Justin Northrop\; Tim Bateman (Founder\, O-Studio)</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b></td>
+ <td>"Progress under pressure": retail forecasting/economics\, founder case
+  studies\, retail CEO perspective\, hospitality/rooftop retail design</td>
+ </tr></table><h3>Scout notes</h3><table><tr><td style="vertical-align:top\
+ ;padding-right:12px"><b>Unverified</b></td><td>Dedicated networking/drinks
+  segment\; attendee count</td></tr><tr><td style="vertical-align:top\;padd
+ ing-right:12px"><b>Found via</b></td><td><a href="https://www.propertynz.c
+ o.nz/retail-conference">https://www.propertynz.co.nz/retail-conference</a>
+ </td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status
+ </b></td><td>UNCONFIRMED prospect until registered. First found 2026-09-24
+ \, last checked 2026-09-24.</td></tr></table></body></html>
 URL:https://www.propertynz.co.nz/event/recon26-retail-conference-2026
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -572,49 +668,65 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:38198868c943ed78@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261029T090000
 DTEND;TZID=Pacific/Auckland:20261029T200000
 SUMMARY:[?] Sunrise Aotearoa 2026
 LOCATION:ASB Waterfront Theatre or Shed 10 (sources conflict)\, 138 Halsey 
  Street\, Auckland CBD (or Shed 10\, Queens Wharf)
-DESCRIPTION:BOOK / REGISTER: https://www.thesunrise.live/\n\nFit: 3/5. Attr
- acts VC investors and senior tech/startup leaders on innovation and growth
-  themes\, but its large festival scale and mixed early-stage founder audie
- nce limit senior networking density.\nOrganiser: Blackbird Ventures\nTime:
-  Registration from 8:00am\; event runs 9:00am-8:00pm\nVenue: ASB Waterfron
- t Theatre or Shed 10 (sources conflict)\, 138 Halsey Street\, Auckland CBD
-  (or Shed 10\, Queens Wharf)\nCost: TBC\nRegistration: Via thesunrise.live
-  or Humanitix\nAudience: Startup founders\, venture capital investors\, te
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.thesunrise.live/\n\n
+ KEY DETAILS\nWhen: Thu 29 Oct 2026\, Registration from 8:00am\; event runs
+  9:00am-8:00pm\nWhere: ASB Waterfront Theatre or Shed 10 (sources conflict
+ )\, 138 Halsey Street\, Auckland CBD (or Shed 10\, Queens Wharf)\nCost: TB
+ C\nRegistration: Via thesunrise.live or Humanitix\n\nWHY GO (FIT 3/5)\nAtt
+ racts VC investors and senior tech/startup leaders on innovation and growt
+ h themes\, but its large festival scale and mixed early-stage founder audi
+ ence limit senior networking density.\n\nABOUT THE EVENT\nOrganiser: Black
+ bird Ventures\nAudience: Startup founders\, venture capital investors\, te
  chnology/business leaders\nNetworking: Large-scale festival format with tw
  o stages\; networking throughout the day\nSpeakers: TBC\, full programme d
  ue early October 2026\nAgenda: Festival of creativity\, technology and amb
- ition for founders\, hosted by VC firm Blackbird\nUnverified: Venue confli
- cts between sources (ASB Waterfront Theatre vs Shed 10) could not be resol
- ved as direct page fetch was blocked this run\; cost\, seniority mix and f
- ull speaker list unconfirmed.\nSource: https://events.humanitix.com/sunris
- e-aotearoa-2026\n\nStatus: UNCONFIRMED prospect. Found 2026-09-23\, last c
- hecked 2026-09-23.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.thesunr
- ise.live/">Book / register</a></b></p>BOOK / REGISTER: https://www.thesunr
- ise.live/<br><br>Fit: 3/5. Attracts VC investors and senior tech/startup l
- eaders on innovation and growth themes\, but its large festival scale and 
- mixed early-stage founder audience limit senior networking density.<br>Org
- aniser: Blackbird Ventures<br>Time: Registration from 8:00am\; event runs 
- 9:00am-8:00pm<br>Venue: ASB Waterfront Theatre or Shed 10 (sources conflic
- t)\, 138 Halsey Street\, Auckland CBD (or Shed 10\, Queens Wharf)<br>Cost:
-  TBC<br>Registration: Via thesunrise.live or Humanitix<br>Audience: Startu
- p founders\, venture capital investors\, technology/business leaders<br>Ne
- tworking: Large-scale festival format with two stages\; networking through
- out the day<br>Speakers: TBC\, full programme due early October 2026<br>Ag
- enda: Festival of creativity\, technology and ambition for founders\, host
- ed by VC firm Blackbird<br>Unverified: Venue conflicts between sources (AS
- B Waterfront Theatre vs Shed 10) could not be resolved as direct page fetc
- h was blocked this run\; cost\, seniority mix and full speaker list unconf
- irmed.<br>Source: https://events.humanitix.com/sunrise-aotearoa-2026<br><b
- r>Status: UNCONFIRMED prospect. Found 2026-09-23\, last checked 2026-09-23
- .</body></html>
+ ition for founders\, hosted by VC firm Blackbird\n\nSCOUT NOTES\nUnverifie
+ d: Venue conflicts between sources (ASB Waterfront Theatre vs Shed 10) cou
+ ld not be resolved as direct page fetch was blocked this run\; cost\, seni
+ ority mix and full speaker list unconfirmed.\nFound via: https://events.hu
+ manitix.com/sunrise-aotearoa-2026\nStatus: UNCONFIRMED prospect until regi
+ stered. First found 2026-09-23\, last checked 2026-09-23.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.thesunrise.live/">Open event page / register &raquo\;</a><
+ /b></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;paddi
+ ng-right:12px"><b>When</b></td><td>Thu 29 Oct 2026\, Registration from 8:0
+ 0am\; event runs 9:00am-8:00pm</td></tr><tr><td style="vertical-align:top\
+ ;padding-right:12px"><b>Where</b></td><td>ASB Waterfront Theatre or Shed 1
+ 0 (sources conflict)\, 138 Halsey Street\, Auckland CBD (or Shed 10\, Quee
+ ns Wharf)</td></tr><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>Cost</b></td><td>TBC</td></tr><tr><td style="vertical-align:top\;paddin
+ g-right:12px"><b>Registration</b></td><td>Via thesunrise.live or Humanitix
+ </td></tr></table><h3>Why go (fit 3/5)</h3><p>Attracts VC investors and se
+ nior tech/startup leaders on innovation and growth themes\, but its large 
+ festival scale and mixed early-stage founder audience limit senior network
+ ing density.</p><h3>About the event</h3><table><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Organiser</b></td><td>Blackbird Ventures</t
+ d></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Audience<
+ /b></td><td>Startup founders\, venture capital investors\, technology/busi
+ ness leaders</td></tr><tr><td style="vertical-align:top\;padding-right:12p
+ x"><b>Networking</b></td><td>Large-scale festival format with two stages\;
+  networking throughout the day</td></tr><tr><td style="vertical-align:top\
+ ;padding-right:12px"><b>Speakers</b></td><td>TBC\, full programme due earl
+ y October 2026</td></tr><tr><td style="vertical-align:top\;padding-right:1
+ 2px"><b>Agenda</b></td><td>Festival of creativity\, technology and ambitio
+ n for founders\, hosted by VC firm Blackbird</td></tr></table><h3>Scout no
+ tes</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>U
+ nverified</b></td><td>Venue conflicts between sources (ASB Waterfront Thea
+ tre vs Shed 10) could not be resolved as direct page fetch was blocked thi
+ s run\; cost\, seniority mix and full speaker list unconfirmed.</td></tr><
+ tr><td style="vertical-align:top\;padding-right:12px"><b>Found via</b></td
+ ><td><a href="https://events.humanitix.com/sunrise-aotearoa-2026">https://
+ events.humanitix.com/sunrise-aotearoa-2026</a></td></tr><tr><td style="ver
+ tical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED pro
+ spect until registered. First found 2026-09-23\, last checked 2026-09-23.<
+ /td></tr></table></body></html>
 URL:https://www.thesunrise.live/
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -625,46 +737,62 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:230a4e325e8128f9@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261102T150000
 DTEND;TZID=Pacific/Auckland:20261102T160000
 SUMMARY:[?] NZ China Council: China & the World Economy (Dr Xianbai Ji)
 LOCATION:University of Auckland\, Arts & Education Building 201\, Room 311\
  , Level 3\, 10 Symonds Street\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://nzchinacouncil.org.nz/events/china-wor
- ld-economy-integrationindustrialisationinnovation-and-insts/\n\nFit: 3/5. 
- Trade-relevant China briefing with NZ China Council members\, but an acade
- mic lecture format with no stated networking\; same-day notice.\nOrganiser
- : NZ China Council with China Studies Centre\, NZ Asia Institute (Universi
- ty of Auckland)\nTime: 3:00pm-4:00pm\nVenue: University of Auckland\, Arts
-  & Education Building 201\, Room 311\, Level 3\, 10 Symonds Street\, Auckl
- and\nCost: TBC\nRegistration: Eventbrite link on organiser page\; deadline
-  not stated\nAudience: China-engaged business\, policy and academic audien
- ce\; size TBC\nNetworking: TBC\nSpeakers: Dr Xianbai Ji\, Director\, Insti
- tute for South and Southeast Asian Studies\, Renmin University of China\nA
- genda: Talk and discussion on seven decades of China's economic developmen
- t\nUnverified: Cost\, audience and networking not stated on organiser page
- .\nSource: https://nzchinacouncil.org.nz/events/\n\nStatus: UNCONFIRMED pr
- ospect. Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://nzchinacoun
- cil.org.nz/events/china-world-economy-integrationindustrialisationinnovati
- on-and-insts/">Book / register</a></b></p>BOOK / REGISTER: https://nzchina
- council.org.nz/events/china-world-economy-integrationindustrialisationinno
- vation-and-insts/<br><br>Fit: 3/5. Trade-relevant China briefing with NZ C
- hina Council members\, but an academic lecture format with no stated netwo
- rking\; same-day notice.<br>Organiser: NZ China Council with China Studies
-  Centre\, NZ Asia Institute (University of Auckland)<br>Time: 3:00pm-4:00p
- m<br>Venue: University of Auckland\, Arts &amp\; Education Building 201\, 
- Room 311\, Level 3\, 10 Symonds Street\, Auckland<br>Cost: TBC<br>Registra
- tion: Eventbrite link on organiser page\; deadline not stated<br>Audience:
-  China-engaged business\, policy and academic audience\; size TBC<br>Netwo
- rking: TBC<br>Speakers: Dr Xianbai Ji\, Director\, Institute for South and
-  Southeast Asian Studies\, Renmin University of China<br>Agenda: Talk and 
- discussion on seven decades of China's economic development<br>Unverified:
-  Cost\, audience and networking not stated on organiser page.<br>Source: h
- ttps://nzchinacouncil.org.nz/events/<br><br>Status: UNCONFIRMED prospect. 
- Found 2026-11-02\, last checked 2026-11-02.</body></html>
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://nzchinacouncil.org.nz/ev
+ ents/china-world-economy-integrationindustrialisationinnovation-and-insts/
+ \n\nKEY DETAILS\nWhen: Mon 2 Nov 2026\, 3:00pm-4:00pm\nWhere: University o
+ f Auckland\, Arts & Education Building 201\, Room 311\, Level 3\, 10 Symon
+ ds Street\, Auckland\nCost: TBC\nRegistration: Eventbrite link on organise
+ r page\; deadline not stated\n\nWHY GO (FIT 3/5)\nTrade-relevant China bri
+ efing with NZ China Council members\, but an academic lecture format with 
+ no stated networking\; same-day notice.\n\nABOUT THE EVENT\nOrganiser: NZ 
+ China Council with China Studies Centre\, NZ Asia Institute (University of
+  Auckland)\nAudience: China-engaged business\, policy and academic audienc
+ e\; size TBC\nNetworking: TBC\nSpeakers: Dr Xianbai Ji\, Director\, Instit
+ ute for South and Southeast Asian Studies\, Renmin University of China\nAg
+ enda: Talk and discussion on seven decades of China's economic development
+ \n\nSCOUT NOTES\nUnverified: Cost\, audience and networking not stated on 
+ organiser page.\nFound via: https://nzchinacouncil.org.nz/events/\nStatus:
+  UNCONFIRMED prospect until registered. First found 2026-11-02\, last chec
+ ked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://nzchinacouncil.org.nz/events/china-world-economy-integrationin
+ dustrialisationinnovation-and-insts/">Open event page / register &raquo\;<
+ /a></b></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>When</b></td><td>Mon 2 Nov 2026\, 3:00pm-4:00pm</td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b></
+ td><td>University of Auckland\, Arts &amp\; Education Building 201\, Room 
+ 311\, Level 3\, 10 Symonds Street\, Auckland</td></tr><tr><td style="verti
+ cal-align:top\;padding-right:12px"><b>Cost</b></td><td>TBC</td></tr><tr><t
+ d style="vertical-align:top\;padding-right:12px"><b>Registration</b></td><
+ td>Eventbrite link on organiser page\; deadline not stated</td></tr></tabl
+ e><h3>Why go (fit 3/5)</h3><p>Trade-relevant China briefing with NZ China 
+ Council members\, but an academic lecture format with no stated networking
+ \; same-day notice.</p><h3>About the event</h3><table><tr><td style="verti
+ cal-align:top\;padding-right:12px"><b>Organiser</b></td><td>NZ China Counc
+ il with China Studies Centre\, NZ Asia Institute (University of Auckland)<
+ /td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Audienc
+ e</b></td><td>China-engaged business\, policy and academic audience\; size
+  TBC</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Ne
+ tworking</b></td><td>TBC</td></tr><tr><td style="vertical-align:top\;paddi
+ ng-right:12px"><b>Speakers</b></td><td>Dr Xianbai Ji\, Director\, Institut
+ e for South and Southeast Asian Studies\, Renmin University of China</td><
+ /tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b></
+ td><td>Talk and discussion on seven decades of China's economic developmen
+ t</td></tr></table><h3>Scout notes</h3><table><tr><td style="vertical-alig
+ n:top\;padding-right:12px"><b>Unverified</b></td><td>Cost\, audience and n
+ etworking not stated on organiser page.</td></tr><tr><td style="vertical-a
+ lign:top\;padding-right:12px"><b>Found via</b></td><td><a href="https://nz
+ chinacouncil.org.nz/events/">https://nzchinacouncil.org.nz/events/</a></td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b>
+ </td><td>UNCONFIRMED prospect until registered. First found 2026-11-02\, l
+ ast checked 2026-11-02.</td></tr></table></body></html>
 URL:https://nzchinacouncil.org.nz/events/china-world-economy-integrationind
  ustrialisationinnovation-and-insts/
 CATEGORIES:Stragentum: Prospect Event
@@ -676,62 +804,80 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4640784bb135fc21@stragentum-scout
-DTSTAMP:20261101T205648Z
-SEQUENCE:1
+DTSTAMP:20261101T210029Z
+SEQUENCE:2
 DTSTART;TZID=Pacific/Auckland:20261104T083000
 DTEND;TZID=Pacific/Auckland:20261104T130000
 SUMMARY:CFA Society New Zealand Investment Summit 2026
 LOCATION:JW Marriott Auckland\, 26 Albert Street\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://www.cfasociety.org/newzealand/society-
- events/upcoming-events\n\nFit: 4/5. Capital-markets theme and senior named
-  speakers/host draw institutional investors and business leaders\, with re
- al networking segments\, at an accessible price for the seniority level.\n
- Organiser: CFA Society New Zealand\nTime: 8:30am-1:00pm\nVenue: JW Marriot
- t Auckland\, 26 Albert Street\, Auckland\nCost: Early bird (to 25 Sep 2026
- ): NZD 175 members / NZD 225 general admission\; corporate tables NZD 2\,0
- 25 (incl GST + fees). Price rises after early-bird deadline.\nRegistration
- : Book via Eventbrite link from CFA Society NZ's events page. Early-bird P
- RICE deadline Fri 25 Sep 2026 (2 days from this run)\; no refunds. Previou
- sly tracked static event page (nz-investment-conference) is now a dead lin
- k showing the 2025 event.\nAudience: Investment professionals\, institutio
- nal investors and business leaders\nNetworking: Arrival networking and mor
- ning tea\, plus closing Investment Leaders Lunch with speakers\nSpeakers: 
- Hagai M. Segal (keynote\, geopolitical strategist)\; Liam Dann (host\, NZ 
- Herald Business Editor-at-Large)\; Zoe Wallis CFA\, Qing Ding CFA CIPM\, J
- oran Laird CFA\, Rousseau Lotter (panellists)\nAgenda: Keynote on geopolit
- ics & global markets\; NZ Investment Leaders panel\; Global Investment Per
- spectives session\; Investment Leaders Lunch\nUnverified: Cost and venue c
- onfirmed via CFA Society's own Eventbrite ticketing rather than a static o
- rganiser page\nSource: https://www.eventbrite.co.nz/e/cfa-society-new-zeal
- and-investment-summit-2026-tickets-1994915639379\n\nStatus: UNCONFIRMED pr
- ospect. Found 2026-09-23\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.cfasoci
- ety.org/newzealand/society-events/upcoming-events">Book / register</a></b>
- </p>BOOK / REGISTER: https://www.cfasociety.org/newzealand/society-events/
- upcoming-events<br><br>Fit: 4/5. Capital-markets theme and senior named sp
- eakers/host draw institutional investors and business leaders\, with real 
- networking segments\, at an accessible price for the seniority level.<br>O
- rganiser: CFA Society New Zealand<br>Time: 8:30am-1:00pm<br>Venue: JW Marr
- iott Auckland\, 26 Albert Street\, Auckland<br>Cost: Early bird (to 25 Sep
-  2026): NZD 175 members / NZD 225 general admission\; corporate tables NZD
-  2\,025 (incl GST + fees). Price rises after early-bird deadline.<br>Regis
- tration: Book via Eventbrite link from CFA Society NZ's events page. Early
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.cfasociety.org/newze
+ aland/society-events/society-events-investment-summit-2026\n\nKEY DETAILS\
+ nWhen: Wed 4 Nov 2026\, 8:30am-1:00pm\nWhere: JW Marriott Auckland\, 26 Al
+ bert Street\, Auckland\nCost: Early bird (to 25 Sep 2026): NZD 175 members
+  / NZD 225 general admission\; corporate tables NZD 2\,025 (incl GST + fee
+ s). Price rises after early-bird deadline.\nRegistration: Book via Eventbr
+ ite link from CFA Society NZ's events page. Early-bird PRICE deadline Fri 
+ 25 Sep 2026 (2 days from this run)\; no refunds. Previously tracked static
+  event page (nz-investment-conference) is now a dead link showing the 2025
+  event.\n\nWHY GO (FIT 4/5)\nCapital-markets theme and senior named speake
+ rs/host draw institutional investors and business leaders\, with real netw
+ orking segments\, at an accessible price for the seniority level.\n\nABOUT
+  THE EVENT\nOrganiser: CFA Society New Zealand\nAudience: Investment profe
+ ssionals\, institutional investors and business leaders\nNetworking: Arriv
+ al networking and morning tea\, plus closing Investment Leaders Lunch with
+  speakers\nSpeakers: Hagai M. Segal (keynote\, geopolitical strategist)\; 
+ Liam Dann (host\, NZ Herald Business Editor-at-Large)\; Zoe Wallis CFA\, Q
+ ing Ding CFA CIPM\, Joran Laird CFA\, Rousseau Lotter (panellists)\nAgenda
+ : Keynote on geopolitics & global markets\; NZ Investment Leaders panel\; 
+ Global Investment Perspectives session\; Investment Leaders Lunch\n\nSCOUT
+  NOTES\nUnverified: Cost and venue confirmed via CFA Society's own Eventbr
+ ite ticketing rather than a static organiser page\nFound via: https://www.
+ cfasociety.org/newzealand/society-events/upcoming-events\nStatus: UNCONFIR
+ MED prospect until registered. First found 2026-09-23\, last checked 2026-
+ 11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.cfasociety.org/newzealand/society-events/society-events-in
+ vestment-summit-2026">Open event page / register &raquo\;</a></b></p><h3>K
+ ey details</h3><table><tr><td style="vertical-align:top\;padding-right:12p
+ x"><b>When</b></td><td>Wed 4 Nov 2026\, 8:30am-1:00pm</td></tr><tr><td sty
+ le="vertical-align:top\;padding-right:12px"><b>Where</b></td><td>JW Marrio
+ tt Auckland\, 26 Albert Street\, Auckland</td></tr><tr><td style="vertical
+ -align:top\;padding-right:12px"><b>Cost</b></td><td>Early bird (to 25 Sep 
+ 2026): NZD 175 members / NZD 225 general admission\; corporate tables NZD 
+ 2\,025 (incl GST + fees). Price rises after early-bird deadline.</td></tr>
+ <tr><td style="vertical-align:top\;padding-right:12px"><b>Registration</b>
+ </td><td>Book via Eventbrite link from CFA Society NZ's events page. Early
  -bird PRICE deadline Fri 25 Sep 2026 (2 days from this run)\; no refunds. 
  Previously tracked static event page (nz-investment-conference) is now a d
- ead link showing the 2025 event.<br>Audience: Investment professionals\, i
- nstitutional investors and business leaders<br>Networking: Arrival network
+ ead link showing the 2025 event.</td></tr></table><h3>Why go (fit 4/5)</h3
+ ><p>Capital-markets theme and senior named speakers/host draw institutiona
+ l investors and business leaders\, with real networking segments\, at an a
+ ccessible price for the seniority level.</p><h3>About the event</h3><table
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Organiser</b></
+ td><td>CFA Society New Zealand</td></tr><tr><td style="vertical-align:top\
+ ;padding-right:12px"><b>Audience</b></td><td>Investment professionals\, in
+ stitutional investors and business leaders</td></tr><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Networking</b></td><td>Arrival network
  ing and morning tea\, plus closing Investment Leaders Lunch with speakers<
- br>Speakers: Hagai M. Segal (keynote\, geopolitical strategist)\; Liam Dan
- n (host\, NZ Herald Business Editor-at-Large)\; Zoe Wallis CFA\, Qing Ding
-  CFA CIPM\, Joran Laird CFA\, Rousseau Lotter (panellists)<br>Agenda: Keyn
- ote on geopolitics &amp\; global markets\; NZ Investment Leaders panel\; G
- lobal Investment Perspectives session\; Investment Leaders Lunch<br>Unveri
- fied: Cost and venue confirmed via CFA Society's own Eventbrite ticketing 
- rather than a static organiser page<br>Source: https://www.eventbrite.co.n
- z/e/cfa-society-new-zealand-investment-summit-2026-tickets-1994915639379<b
- r><br>Status: UNCONFIRMED prospect. Found 2026-09-23\, last checked 2026-1
- 1-02.</body></html>
-URL:https://www.cfasociety.org/newzealand/society-events/upcoming-events
+ /td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Speaker
+ s</b></td><td>Hagai M. Segal (keynote\, geopolitical strategist)\; Liam Da
+ nn (host\, NZ Herald Business Editor-at-Large)\; Zoe Wallis CFA\, Qing Din
+ g CFA CIPM\, Joran Laird CFA\, Rousseau Lotter (panellists)</td></tr><tr><
+ td style="vertical-align:top\;padding-right:12px"><b>Agenda</b></td><td>Ke
+ ynote on geopolitics &amp\; global markets\; NZ Investment Leaders panel\;
+  Global Investment Perspectives session\; Investment Leaders Lunch</td></t
+ r></table><h3>Scout notes</h3><table><tr><td style="vertical-align:top\;pa
+ dding-right:12px"><b>Unverified</b></td><td>Cost and venue confirmed via C
+ FA Society's own Eventbrite ticketing rather than a static organiser page<
+ /td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Found v
+ ia</b></td><td><a href="https://www.cfasociety.org/newzealand/society-even
+ ts/upcoming-events">https://www.cfasociety.org/newzealand/society-events/u
+ pcoming-events</a></td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Status</b></td><td>UNCONFIRMED prospect until registered. Firs
+ t found 2026-09-23\, last checked 2026-11-02.</td></tr></table></body></ht
+ ml>
+URL:https://www.cfasociety.org/newzealand/society-events/society-events-inv
+ estment-summit-2026
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -741,40 +887,57 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:4a4cd8cbb0cb5cbf@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261105T100000
 DTEND;TZID=Pacific/Auckland:20261105T120000
 SUMMARY:[?] Marketing Association: Mark Ritson Live (Auckland)
 LOCATION:SkyCity Theatre\, Cnr Hobson St and Wellesley St West\, Auckland C
  BD
-DESCRIPTION:BOOK / REGISTER: https://marketing.org.nz/mark-ritson-akl-nov-2
- 026\n\nFit: 3/5. Large marketing-community draw with consumer brand leader
- s in the room\, but a seated keynote with little networking.\nOrganiser: M
- arketing Association NZ\nTime: 10:00am-12:00pm\nVenue: SkyCity Theatre\, C
- nr Hobson St and Wellesley St West\, Auckland CBD\nCost: Members NZD 275 +
-  GST\, non-members NZD 375 + GST\nRegistration: iTICKET link on organiser 
- page\; deadline TBC\nAudience: Marketers and brand leaders\; size TBC\nNet
- working: Audience Q&A only\; no networking stated\nSpeakers: Mark Ritson\n
- Agenda: AI and synthetic data\, brand vs performance video\, short vs long
- -term marketing\, brand case studies\, Q&A\nUnverified: Audience seniority
-  and size\nSource: https://marketing.org.nz/up-coming-events\n\nStatus: UN
- CONFIRMED prospect. Found 2026-10-15\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://marketing.o
- rg.nz/mark-ritson-akl-nov-2026">Book / register</a></b></p>BOOK / REGISTER
- : https://marketing.org.nz/mark-ritson-akl-nov-2026<br><br>Fit: 3/5. Large
-  marketing-community draw with consumer brand leaders in the room\, but a 
- seated keynote with little networking.<br>Organiser: Marketing Association
-  NZ<br>Time: 10:00am-12:00pm<br>Venue: SkyCity Theatre\, Cnr Hobson St and
-  Wellesley St West\, Auckland CBD<br>Cost: Members NZD 275 + GST\, non-mem
- bers NZD 375 + GST<br>Registration: iTICKET link on organiser page\; deadl
- ine TBC<br>Audience: Marketers and brand leaders\; size TBC<br>Networking:
-  Audience Q&amp\;A only\; no networking stated<br>Speakers: Mark Ritson<br
- >Agenda: AI and synthetic data\, brand vs performance video\, short vs lon
- g-term marketing\, brand case studies\, Q&amp\;A<br>Unverified: Audience s
- eniority and size<br>Source: https://marketing.org.nz/up-coming-events<br>
- <br>Status: UNCONFIRMED prospect. Found 2026-10-15\, last checked 2026-11-
- 02.</body></html>
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://marketing.org.nz/mark-ri
+ tson-akl-nov-2026\n\nKEY DETAILS\nWhen: Thu 5 Nov 2026\, 10:00am-12:00pm\n
+ Where: SkyCity Theatre\, Cnr Hobson St and Wellesley St West\, Auckland CB
+ D\nCost: Members NZD 275 + GST\, non-members NZD 375 + GST\nRegistration: 
+ iTICKET link on organiser page\; deadline TBC\n\nWHY GO (FIT 3/5)\nLarge m
+ arketing-community draw with consumer brand leaders in the room\, but a se
+ ated keynote with little networking.\n\nABOUT THE EVENT\nOrganiser: Market
+ ing Association NZ\nAudience: Marketers and brand leaders\; size TBC\nNetw
+ orking: Audience Q&A only\; no networking stated\nSpeakers: Mark Ritson\nA
+ genda: AI and synthetic data\, brand vs performance video\, short vs long-
+ term marketing\, brand case studies\, Q&A\n\nSCOUT NOTES\nUnverified: Audi
+ ence seniority and size\nFound via: https://marketing.org.nz/up-coming-eve
+ nts\nStatus: UNCONFIRMED prospect until registered. First found 2026-10-15
+ \, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://marketing.org.nz/mark-ritson-akl-nov-2026">Open event page / r
+ egister &raquo\;</a></b></p><h3>Key details</h3><table><tr><td style="vert
+ ical-align:top\;padding-right:12px"><b>When</b></td><td>Thu 5 Nov 2026\, 1
+ 0:00am-12:00pm</td></tr><tr><td style="vertical-align:top\;padding-right:1
+ 2px"><b>Where</b></td><td>SkyCity Theatre\, Cnr Hobson St and Wellesley St
+  West\, Auckland CBD</td></tr><tr><td style="vertical-align:top\;padding-r
+ ight:12px"><b>Cost</b></td><td>Members NZD 275 + GST\, non-members NZD 375
+  + GST</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>
+ Registration</b></td><td>iTICKET link on organiser page\; deadline TBC</td
+ ></tr></table><h3>Why go (fit 3/5)</h3><p>Large marketing-community draw w
+ ith consumer brand leaders in the room\, but a seated keynote with little 
+ networking.</p><h3>About the event</h3><table><tr><td style="vertical-alig
+ n:top\;padding-right:12px"><b>Organiser</b></td><td>Marketing Association 
+ NZ</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Audi
+ ence</b></td><td>Marketers and brand leaders\; size TBC</td></tr><tr><td s
+ tyle="vertical-align:top\;padding-right:12px"><b>Networking</b></td><td>Au
+ dience Q&amp\;A only\; no networking stated</td></tr><tr><td style="vertic
+ al-align:top\;padding-right:12px"><b>Speakers</b></td><td>Mark Ritson</td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b><
+ /td><td>AI and synthetic data\, brand vs performance video\, short vs long
+ -term marketing\, brand case studies\, Q&amp\;A</td></tr></table><h3>Scout
+  notes</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><
+ b>Unverified</b></td><td>Audience seniority and size</td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td><a hre
+ f="https://marketing.org.nz/up-coming-events">https://marketing.org.nz/up-
+ coming-events</a></td></tr><tr><td style="vertical-align:top\;padding-righ
+ t:12px"><b>Status</b></td><td>UNCONFIRMED prospect until registered. First
+  found 2026-10-15\, last checked 2026-11-02.</td></tr></table></body></htm
+ l>
 URL:https://marketing.org.nz/mark-ritson-akl-nov-2026
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -785,43 +948,59 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:7548a626a7257d85@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261110T170000
 DTEND;TZID=Pacific/Auckland:20261110T190000
 SUMMARY:[?] Ba5 with ChamberWorks at Eden Park's Changing Room
 LOCATION:Eden Park\, 42 Reimers Avenue\, Kingsland\, Auckland 1024
-DESCRIPTION:BOOK / REGISTER: https://aucklandchamber.co.nz/event/ba5-with-c
- hamberworks-at-eden-parks-locker-room/\n\nFit: 3/5. Cheap\, genuine networ
- king with Chamber members in a memorable venue\, though the theme is hirin
- g and the room skews SME.\nOrganiser: Auckland Business Chamber\nTime: 5:0
- 0pm-7:00pm\nVenue: Eden Park\, 42 Reimers Avenue\, Kingsland\, Auckland 10
- 24\nCost: Members NZD 25 +GST\, non-members NZD 35 +GST\nRegistration: Onl
- ine via Chamber page\; 22 tickets left on 2 Nov\nAudience: Auckland employ
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://aucklandchamber.co.nz/ev
+ ent/ba5-with-chamberworks-at-eden-parks-locker-room/\n\nKEY DETAILS\nWhen:
+  Tue 10 Nov 2026\, 5:00pm-7:00pm\nWhere: Eden Park\, 42 Reimers Avenue\, K
+ ingsland\, Auckland 1024\nCost: Members NZD 25 +GST\, non-members NZD 35 +
+ GST\nRegistration: Online via Chamber page\; 22 tickets left on 2 Nov\n\nW
+ HY GO (FIT 3/5)\nCheap\, genuine networking with Chamber members in a memo
+ rable venue\, though the theme is hiring and the room skews SME.\n\nABOUT 
+ THE EVENT\nOrganiser: Auckland Business Chamber\nAudience: Auckland employ
  ers and SME owners\; size TBC\nNetworking: Business After 5 networking dri
  nks\, four 2-minute business spotlights\, prize draw\nSpeakers: Employers 
  and MSD on the ChamberWorks platform\nAgenda: ChamberWorks hiring and upsk
  illing pitch\, business spotlights\, tunnel and changing-room walk-through
- \nUnverified: Audience seniority and size inferred from Ba5 format.\nSourc
- e: https://aucklandchamber.co.nz/events/\n\nStatus: UNCONFIRMED prospect. 
- Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://aucklandcha
- mber.co.nz/event/ba5-with-chamberworks-at-eden-parks-locker-room/">Book / 
- register</a></b></p>BOOK / REGISTER: https://aucklandchamber.co.nz/event/b
- a5-with-chamberworks-at-eden-parks-locker-room/<br><br>Fit: 3/5. Cheap\, g
- enuine networking with Chamber members in a memorable venue\, though the t
- heme is hiring and the room skews SME.<br>Organiser: Auckland Business Cha
- mber<br>Time: 5:00pm-7:00pm<br>Venue: Eden Park\, 42 Reimers Avenue\, King
- sland\, Auckland 1024<br>Cost: Members NZD 25 +GST\, non-members NZD 35 +G
- ST<br>Registration: Online via Chamber page\; 22 tickets left on 2 Nov<br>
- Audience: Auckland employers and SME owners\; size TBC<br>Networking: Busi
- ness After 5 networking drinks\, four 2-minute business spotlights\, prize
-  draw<br>Speakers: Employers and MSD on the ChamberWorks platform<br>Agend
- a: ChamberWorks hiring and upskilling pitch\, business spotlights\, tunnel
-  and changing-room walk-through<br>Unverified: Audience seniority and size
-  inferred from Ba5 format.<br>Source: https://aucklandchamber.co.nz/events
- /<br><br>Status: UNCONFIRMED prospect. Found 2026-11-02\, last checked 202
- 6-11-02.</body></html>
+ \n\nSCOUT NOTES\nUnverified: Audience seniority and size inferred from Ba5
+  format.\nFound via: https://aucklandchamber.co.nz/events/\nStatus: UNCONF
+ IRMED prospect until registered. First found 2026-11-02\, last checked 202
+ 6-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://aucklandchamber.co.nz/event/ba5-with-chamberworks-at-eden-park
+ s-locker-room/">Open event page / register &raquo\;</a></b></p><h3>Key det
+ ails</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>
+ When</b></td><td>Tue 10 Nov 2026\, 5:00pm-7:00pm</td></tr><tr><td style="v
+ ertical-align:top\;padding-right:12px"><b>Where</b></td><td>Eden Park\, 42
+  Reimers Avenue\, Kingsland\, Auckland 1024</td></tr><tr><td style="vertic
+ al-align:top\;padding-right:12px"><b>Cost</b></td><td>Members NZD 25 +GST\
+ , non-members NZD 35 +GST</td></tr><tr><td style="vertical-align:top\;padd
+ ing-right:12px"><b>Registration</b></td><td>Online via Chamber page\; 22 t
+ ickets left on 2 Nov</td></tr></table><h3>Why go (fit 3/5)</h3><p>Cheap\, 
+ genuine networking with Chamber members in a memorable venue\, though the 
+ theme is hiring and the room skews SME.</p><h3>About the event</h3><table>
+ <tr><td style="vertical-align:top\;padding-right:12px"><b>Organiser</b></t
+ d><td>Auckland Business Chamber</td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Audience</b></td><td>Auckland employers and SME o
+ wners\; size TBC</td></tr><tr><td style="vertical-align:top\;padding-right
+ :12px"><b>Networking</b></td><td>Business After 5 networking drinks\, four
+  2-minute business spotlights\, prize draw</td></tr><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Speakers</b></td><td>Employers and MSD
+  on the ChamberWorks platform</td></tr><tr><td style="vertical-align:top\;
+ padding-right:12px"><b>Agenda</b></td><td>ChamberWorks hiring and upskilli
+ ng pitch\, business spotlights\, tunnel and changing-room walk-through</td
+ ></tr></table><h3>Scout notes</h3><table><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Unverified</b></td><td>Audience seniority and siz
+ e inferred from Ba5 format.</td></tr><tr><td style="vertical-align:top\;pa
+ dding-right:12px"><b>Found via</b></td><td><a href="https://aucklandchambe
+ r.co.nz/events/">https://aucklandchamber.co.nz/events/</a></td></tr><tr><t
+ d style="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNC
+ ONFIRMED prospect until registered. First found 2026-11-02\, last checked 
+ 2026-11-02.</td></tr></table></body></html>
 URL:https://aucklandchamber.co.nz/event/ba5-with-chamberworks-at-eden-parks
  -locker-room/
 CATEGORIES:Stragentum: Prospect Event
@@ -833,46 +1012,62 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:92b5e2e8a8abde41@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261111T070000
 DTEND;TZID=Pacific/Auckland:20261111T093000
 SUMMARY:[?] Ready to Rise Business Breakfast: November 2026
 LOCATION:New Zealand International Convention Centre\, 101 Hobson Street\, 
  Auckland
-DESCRIPTION:BOOK / REGISTER: https://nzbusiness.co.nz/event/ready-to-rise-b
- usiness-breakfast-november-2026\n\nFit: 3/5. Owner-operator SME audience w
- ith consumer-brand founders on stage\; cheap and good for FMCG founder con
- tacts.\nOrganiser: NZ Business Magazine (Pure 360)\nTime: 7:00am to 9:30am
- \nVenue: New Zealand International Convention Centre\, 101 Hobson Street\,
-  Auckland\nCost: NZD 89 incl GST\nRegistration: Online via organiser page\
- ; deadline not stated\nAudience: SME owners and business leaders\; size TB
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://nzbusiness.co.nz/event/r
+ eady-to-rise-business-breakfast-november-2026\n\nKEY DETAILS\nWhen: Wed 11
+  Nov 2026\, 7:00am to 9:30am\nWhere: New Zealand International Convention 
+ Centre\, 101 Hobson Street\, Auckland\nCost: NZD 89 incl GST\nRegistration
+ : Online via organiser page\; deadline not stated\n\nWHY GO (FIT 3/5)\nOwn
+ er-operator SME audience with consumer-brand founders on stage\; cheap and
+  good for FMCG founder contacts.\n\nABOUT THE EVENT\nOrganiser: NZ Busines
+ s Magazine (Pure 360)\nAudience: SME owners and business leaders\; size TB
  C\nNetworking: Breakfast networking\; room of SME owners\nSpeakers: Grant 
  Taylor (Co-CEO\, MOXX Brands)\; Angus Brown (founder\, Ārepa)\; panel: Ke
  lly Eckhold (Chief Economist\, Westpac)\, Paula Bennett (Bayleys)\, Andrew
   Fairgray (CBO\, 2degrees)\, Trish Sherson (Co-Founder\, Sherson Willis)\n
  Agenda: Founder keynotes and panel: After the Result: What's next for Kiwi
-  business\nUnverified: Audience size and seniority inferred from SME owner
-  framing.\nSource: https://nzbusiness.co.nz/events\n\nStatus: UNCONFIRMED 
- prospect. Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://nzbusiness.
- co.nz/event/ready-to-rise-business-breakfast-november-2026">Book / registe
- r</a></b></p>BOOK / REGISTER: https://nzbusiness.co.nz/event/ready-to-rise
- -business-breakfast-november-2026<br><br>Fit: 3/5. Owner-operator SME audi
- ence with consumer-brand founders on stage\; cheap and good for FMCG found
- er contacts.<br>Organiser: NZ Business Magazine (Pure 360)<br>Time: 7:00am
-  to 9:30am<br>Venue: New Zealand International Convention Centre\, 101 Hob
- son Street\, Auckland<br>Cost: NZD 89 incl GST<br>Registration: Online via
-  organiser page\; deadline not stated<br>Audience: SME owners and business
-  leaders\; size TBC<br>Networking: Breakfast networking\; room of SME owne
- rs<br>Speakers: Grant Taylor (Co-CEO\, MOXX Brands)\; Angus Brown (founder
- \, Ārepa)\; panel: Kelly Eckhold (Chief Economist\, Westpac)\, Paula Benn
- ett (Bayleys)\, Andrew Fairgray (CBO\, 2degrees)\, Trish Sherson (Co-Found
- er\, Sherson Willis)<br>Agenda: Founder keynotes and panel: After the Resu
- lt: What's next for Kiwi business<br>Unverified: Audience size and seniori
- ty inferred from SME owner framing.<br>Source: https://nzbusiness.co.nz/ev
- ents<br><br>Status: UNCONFIRMED prospect. Found 2026-11-02\, last checked 
- 2026-11-02.</body></html>
+  business\n\nSCOUT NOTES\nUnverified: Audience size and seniority inferred
+  from SME owner framing.\nFound via: https://nzbusiness.co.nz/events\nStat
+ us: UNCONFIRMED prospect until registered. First found 2026-11-02\, last c
+ hecked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://nzbusiness.co.nz/event/ready-to-rise-business-breakfast-novemb
+ er-2026">Open event page / register &raquo\;</a></b></p><h3>Key details</h
+ 3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>When</b
+ ></td><td>Wed 11 Nov 2026\, 7:00am to 9:30am</td></tr><tr><td style="verti
+ cal-align:top\;padding-right:12px"><b>Where</b></td><td>New Zealand Intern
+ ational Convention Centre\, 101 Hobson Street\, Auckland</td></tr><tr><td 
+ style="vertical-align:top\;padding-right:12px"><b>Cost</b></td><td>NZD 89 
+ incl GST</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><
+ b>Registration</b></td><td>Online via organiser page\; deadline not stated
+ </td></tr></table><h3>Why go (fit 3/5)</h3><p>Owner-operator SME audience 
+ with consumer-brand founders on stage\; cheap and good for FMCG founder co
+ ntacts.</p><h3>About the event</h3><table><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Organiser</b></td><td>NZ Business Magazine (Pure
+  360)</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>A
+ udience</b></td><td>SME owners and business leaders\; size TBC</td></tr><t
+ r><td style="vertical-align:top\;padding-right:12px"><b>Networking</b></td
+ ><td>Breakfast networking\; room of SME owners</td></tr><tr><td style="ver
+ tical-align:top\;padding-right:12px"><b>Speakers</b></td><td>Grant Taylor 
+ (Co-CEO\, MOXX Brands)\; Angus Brown (founder\, Ārepa)\; panel: Kelly Eck
+ hold (Chief Economist\, Westpac)\, Paula Bennett (Bayleys)\, Andrew Fairgr
+ ay (CBO\, 2degrees)\, Trish Sherson (Co-Founder\, Sherson Willis)</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b></td>
+ <td>Founder keynotes and panel: After the Result: What's next for Kiwi bus
+ iness</td></tr></table><h3>Scout notes</h3><table><tr><td style="vertical-
+ align:top\;padding-right:12px"><b>Unverified</b></td><td>Audience size and
+  seniority inferred from SME owner framing.</td></tr><tr><td style="vertic
+ al-align:top\;padding-right:12px"><b>Found via</b></td><td><a href="https:
+ //nzbusiness.co.nz/events">https://nzbusiness.co.nz/events</a></td></tr><t
+ r><td style="vertical-align:top\;padding-right:12px"><b>Status</b></td><td
+ >UNCONFIRMED prospect until registered. First found 2026-11-02\, last chec
+ ked 2026-11-02.</td></tr></table></body></html>
 URL:https://nzbusiness.co.nz/event/ready-to-rise-business-breakfast-novembe
  r-2026
 CATEGORIES:Stragentum: Prospect Event
@@ -884,49 +1079,67 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:a96049898d064d09@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
 SUMMARY:New Zealand–India Business\, Sport and Innovation Summit
 LOCATION:Day 1: AUT\; Day 2: New Zealand International Convention Centre\, 
  55 Wellesley Street East (AUT) and 101 Hobson Street (NZICC)\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://www.nzindiasummit.com/\n\nFit: 4/5. Se
- nior bilateral trade room aligned with the new NZ-India agreement\, at a m
- id-range price\; may already be sold out.\nOrganiser: NZ-India Summit (The
-  Conference Company)\, listed by Auckland Business Chamber\nTime: Two days
- \; times TBC (agenda not yet published)\nVenue: Day 1: AUT\; Day 2: New Ze
- aland International Convention Centre\, 55 Wellesley Street East (AUT) and
-  101 Hobson Street (NZICC)\, Auckland\nCost: Standard registration NZD 517
- .50\nRegistration: Online at tcc.eventsair.com/nz-india-summit\; Standard 
- registration marked FULL on 2 Nov\nAudience: Leaders from business\, sport
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.nzindiasummit.com/\n
+ \nKEY DETAILS\nWhen: Thu 12 Nov 2026\, Two days\; times TBC (agenda not ye
+ t published)\nWhere: Day 1: AUT\; Day 2: New Zealand International Convent
+ ion Centre\, 55 Wellesley Street East (AUT) and 101 Hobson Street (NZICC)\
+ , Auckland\nCost: Standard registration NZD 517.50\nRegistration: Online a
+ t tcc.eventsair.com/nz-india-summit\; Standard registration marked FULL on
+  2 Nov\n\nWHY GO (FIT 4/5)\nSenior bilateral trade room aligned with the n
+ ew NZ-India agreement\, at a mid-range price\; may already be sold out.\n\
+ nABOUT THE EVENT\nOrganiser: NZ-India Summit (The Conference Company)\, li
+ sted by Auckland Business Chamber\nAudience: Leaders from business\, sport
  \, innovation\, education and government\; size TBC\nNetworking: Programme
   lists senior leader conversations plus networking and relationship-buildi
  ng\nSpeakers: TBC\nAgenda: Business and market development\, sport and lea
- dership\, innovation at scale\, NZ-India partnership\nUnverified: Times an
- d speakers not published. Standard registration showed FULL\, so it may be
-  sold out\; no waitlist stated.\nSource: https://aucklandchamber.co.nz/eve
- nt/new-zealand-india-business-sport-and-innovation-summit/\n\nStatus: UNCO
- NFIRMED prospect. Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.nzindia
- summit.com/">Book / register</a></b></p>BOOK / REGISTER: https://www.nzind
- iasummit.com/<br><br>Fit: 4/5. Senior bilateral trade room aligned with th
- e new NZ-India agreement\, at a mid-range price\; may already be sold out.
- <br>Organiser: NZ-India Summit (The Conference Company)\, listed by Auckla
- nd Business Chamber<br>Time: Two days\; times TBC (agenda not yet publishe
- d)<br>Venue: Day 1: AUT\; Day 2: New Zealand International Convention Cent
- re\, 55 Wellesley Street East (AUT) and 101 Hobson Street (NZICC)\, Auckla
- nd<br>Cost: Standard registration NZD 517.50<br>Registration: Online at tc
- c.eventsair.com/nz-india-summit\; Standard registration marked FULL on 2 N
- ov<br>Audience: Leaders from business\, sport\, innovation\, education and
-  government\; size TBC<br>Networking: Programme lists senior leader conver
- sations plus networking and relationship-building<br>Speakers: TBC<br>Agen
- da: Business and market development\, sport and leadership\, innovation at
-  scale\, NZ-India partnership<br>Unverified: Times and speakers not publis
- hed. Standard registration showed FULL\, so it may be sold out\; no waitli
- st stated.<br>Source: https://aucklandchamber.co.nz/event/new-zealand-indi
- a-business-sport-and-innovation-summit/<br><br>Status: UNCONFIRMED prospec
- t. Found 2026-11-02\, last checked 2026-11-02.</body></html>
+ dership\, innovation at scale\, NZ-India partnership\n\nSCOUT NOTES\nUnver
+ ified: Times and speakers not published. Standard registration showed FULL
+ \, so it may be sold out\; no waitlist stated.\nFound via: https://aucklan
+ dchamber.co.nz/event/new-zealand-india-business-sport-and-innovation-summi
+ t/\nStatus: UNCONFIRMED prospect until registered. First found 2026-11-02\
+ , last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.nzindiasummit.com/">Open event page / register &raquo\;</a
+ ></b></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;pad
+ ding-right:12px"><b>When</b></td><td>Thu 12 Nov 2026\, Two days\; times TB
+ C (agenda not yet published)</td></tr><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>Where</b></td><td>Day 1: AUT\; Day 2: New Zealand In
+ ternational Convention Centre\, 55 Wellesley Street East (AUT) and 101 Hob
+ son Street (NZICC)\, Auckland</td></tr><tr><td style="vertical-align:top\;
+ padding-right:12px"><b>Cost</b></td><td>Standard registration NZD 517.50</
+ td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Registra
+ tion</b></td><td>Online at tcc.eventsair.com/nz-india-summit\; Standard re
+ gistration marked FULL on 2 Nov</td></tr></table><h3>Why go (fit 4/5)</h3>
+ <p>Senior bilateral trade room aligned with the new NZ-India agreement\, a
+ t a mid-range price\; may already be sold out.</p><h3>About the event</h3>
+ <table><tr><td style="vertical-align:top\;padding-right:12px"><b>Organiser
+ </b></td><td>NZ-India Summit (The Conference Company)\, listed by Auckland
+  Business Chamber</td></tr><tr><td style="vertical-align:top\;padding-righ
+ t:12px"><b>Audience</b></td><td>Leaders from business\, sport\, innovation
+ \, education and government\; size TBC</td></tr><tr><td style="vertical-al
+ ign:top\;padding-right:12px"><b>Networking</b></td><td>Programme lists sen
+ ior leader conversations plus networking and relationship-building</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Speakers</b></
+ td><td>TBC</td></tr><tr><td style="vertical-align:top\;padding-right:12px"
+ ><b>Agenda</b></td><td>Business and market development\, sport and leaders
+ hip\, innovation at scale\, NZ-India partnership</td></tr></table><h3>Scou
+ t notes</h3><table><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>Unverified</b></td><td>Times and speakers not published. Standard regis
+ tration showed FULL\, so it may be sold out\; no waitlist stated.</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Found via</b></
+ td><td><a href="https://aucklandchamber.co.nz/event/new-zealand-india-busi
+ ness-sport-and-innovation-summit/">https://aucklandchamber.co.nz/event/new
+ -zealand-india-business-sport-and-innovation-summit/</a></td></tr><tr><td 
+ style="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCON
+ FIRMED prospect until registered. First found 2026-11-02\, last checked 20
+ 26-11-02.</td></tr></table></body></html>
 URL:https://www.nzindiasummit.com/
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -937,46 +1150,62 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:80ce572f6aa59332@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261112T160000
 DTEND;TZID=Pacific/Auckland:20261112T180000
 SUMMARY:GNZCC Stammtisch Auckland (November 2026)
 LOCATION:JW Marriott Hotel Auckland\, 22/26 Albert Street\, Auckland Centra
  l
-DESCRIPTION:BOOK / REGISTER: https://neuseeland.ahk.de/en/events/2026/nov-2
- 026/stammtisch-auckland-november-2026\n\nFit: 4/5. Free member networking 
- room with German-NZ trade and export businesses\; pure networking\, but a 
- broad audience with no strategy theme.\nOrganiser: German-New Zealand Cham
- ber of Commerce (GNZCC)\nTime: 4:00pm to 6:00pm\nVenue: JW Marriott Hotel 
- Auckland\, 22/26 Albert Street\, Auckland Central\nCost: Members free (Cal
- lum is a member)\; non-members NZD 60\; own food and drinks\nRegistration:
-  Humanitix via organiser page (events.humanitix.com/stammtisch-auckland-no
- vember-2026)\; no deadline stated\nAudience: GNZCC members\, colleagues an
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://neuseeland.ahk.de/en/eve
+ nts/2026/nov-2026/stammtisch-auckland-november-2026\n\nKEY DETAILS\nWhen: 
+ Thu 12 Nov 2026\, 4:00pm to 6:00pm\nWhere: JW Marriott Hotel Auckland\, 22
+ /26 Albert Street\, Auckland Central\nCost: Members free (Callum is a memb
+ er)\; non-members NZD 60\; own food and drinks\nRegistration: Humanitix vi
+ a organiser page (events.humanitix.com/stammtisch-auckland-november-2026)\
+ ; no deadline stated\n\nWHY GO (FIT 4/5)\nFree member networking room with
+  German-NZ trade and export businesses\; pure networking\, but a broad aud
+ ience with no strategy theme.\n\nABOUT THE EVENT\nOrganiser: German-New Ze
+ aland Chamber of Commerce (GNZCC)\nAudience: GNZCC members\, colleagues an
  d VIP clients\; cross-industry German-NZ trade and professional services\;
   size TBC\nNetworking: Informal networking drinks for the full two hours\n
  Speakers: None (networking only)\nAgenda: Monthly member Stammtisch networ
- king drinks\nUnverified: Audience size and seniority not stated\nSource: h
- ttps://neuseeland.ahk.de/en/events2\n\nStatus: UNCONFIRMED prospect. Found
-  2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://neuseeland.
- ahk.de/en/events/2026/nov-2026/stammtisch-auckland-november-2026">Book / r
- egister</a></b></p>BOOK / REGISTER: https://neuseeland.ahk.de/en/events/20
- 26/nov-2026/stammtisch-auckland-november-2026<br><br>Fit: 4/5. Free member
-  networking room with German-NZ trade and export businesses\; pure network
- ing\, but a broad audience with no strategy theme.<br>Organiser: German-Ne
- w Zealand Chamber of Commerce (GNZCC)<br>Time: 4:00pm to 6:00pm<br>Venue: 
- JW Marriott Hotel Auckland\, 22/26 Albert Street\, Auckland Central<br>Cos
- t: Members free (Callum is a member)\; non-members NZD 60\; own food and d
- rinks<br>Registration: Humanitix via organiser page (events.humanitix.com/
- stammtisch-auckland-november-2026)\; no deadline stated<br>Audience: GNZCC
-  members\, colleagues and VIP clients\; cross-industry German-NZ trade and
-  professional services\; size TBC<br>Networking: Informal networking drink
- s for the full two hours<br>Speakers: None (networking only)<br>Agenda: Mo
- nthly member Stammtisch networking drinks<br>Unverified: Audience size and
-  seniority not stated<br>Source: https://neuseeland.ahk.de/en/events2<br><
- br>Status: UNCONFIRMED prospect. Found 2026-11-02\, last checked 2026-11-0
- 2.</body></html>
+ king drinks\n\nSCOUT NOTES\nUnverified: Audience size and seniority not st
+ ated\nFound via: https://neuseeland.ahk.de/en/events2\nStatus: UNCONFIRMED
+  prospect until registered. First found 2026-11-02\, last checked 2026-11-
+ 02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://neuseeland.ahk.de/en/events/2026/nov-2026/stammtisch-auckland-
+ november-2026">Open event page / register &raquo\;</a></b></p><h3>Key deta
+ ils</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>W
+ hen</b></td><td>Thu 12 Nov 2026\, 4:00pm to 6:00pm</td></tr><tr><td style=
+ "vertical-align:top\;padding-right:12px"><b>Where</b></td><td>JW Marriott 
+ Hotel Auckland\, 22/26 Albert Street\, Auckland Central</td></tr><tr><td s
+ tyle="vertical-align:top\;padding-right:12px"><b>Cost</b></td><td>Members 
+ free (Callum is a member)\; non-members NZD 60\; own food and drinks</td><
+ /tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Registration
+ </b></td><td>Humanitix via organiser page (events.humanitix.com/stammtisch
+ -auckland-november-2026)\; no deadline stated</td></tr></table><h3>Why go 
+ (fit 4/5)</h3><p>Free member networking room with German-NZ trade and expo
+ rt businesses\; pure networking\, but a broad audience with no strategy th
+ eme.</p><h3>About the event</h3><table><tr><td style="vertical-align:top\;
+ padding-right:12px"><b>Organiser</b></td><td>German-New Zealand Chamber of
+  Commerce (GNZCC)</td></tr><tr><td style="vertical-align:top\;padding-righ
+ t:12px"><b>Audience</b></td><td>GNZCC members\, colleagues and VIP clients
+ \; cross-industry German-NZ trade and professional services\; size TBC</td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Networking
+ </b></td><td>Informal networking drinks for the full two hours</td></tr><t
+ r><td style="vertical-align:top\;padding-right:12px"><b>Speakers</b></td><
+ td>None (networking only)</td></tr><tr><td style="vertical-align:top\;padd
+ ing-right:12px"><b>Agenda</b></td><td>Monthly member Stammtisch networking
+  drinks</td></tr></table><h3>Scout notes</h3><table><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Unverified</b></td><td>Audience size a
+ nd seniority not stated</td></tr><tr><td style="vertical-align:top\;paddin
+ g-right:12px"><b>Found via</b></td><td><a href="https://neuseeland.ahk.de/
+ en/events2">https://neuseeland.ahk.de/en/events2</a></td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRM
+ ED prospect until registered. First found 2026-11-02\, last checked 2026-1
+ 1-02.</td></tr></table></body></html>
 URL:https://neuseeland.ahk.de/en/events/2026/nov-2026/stammtisch-auckland-n
  ovember-2026
 CATEGORIES:Stragentum: Prospect Event
@@ -988,35 +1217,52 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:c166765751d272e5@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261116T110000
 DTEND;TZID=Pacific/Auckland:20261116T180000
 SUMMARY:[?] 2026 AmCham Stableford Golf Tournament
 LOCATION:Akarana Golf Club\, 1388 Dominion Road\, Mount Roskill\, Auckland 
  1041
-DESCRIPTION:BOOK / REGISTER: https://www.amcham.co.nz/event-6485893\n\nFit:
-  3/5. Extended face time with US-linked senior executives at a low per-hea
- d cost.\nOrganiser: AmCham NZ\nTime: 11:00am to 6:00pm\nVenue: Akarana Gol
- f Club\, 1388 Dominion Road\, Mount Roskill\, Auckland 1041\nCost: Individ
- ual NZD 225 inc GST\; team of 4 NZD 900 inc GST\nRegistration: Online via 
- AmCham\; entries close 7 Nov\nAudience: AmCham members and guests\, execut
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.amcham.co.nz/event-6
+ 485893\n\nKEY DETAILS\nWhen: Mon 16 Nov 2026\, 11:00am to 6:00pm\nWhere: A
+ karana Golf Club\, 1388 Dominion Road\, Mount Roskill\, Auckland 1041\nCos
+ t: Individual NZD 225 inc GST\; team of 4 NZD 900 inc GST\nRegistration: O
+ nline via AmCham\; entries close 7 Nov\n\nWHY GO (FIT 3/5)\nExtended face 
+ time with US-linked senior executives at a low per-head cost.\n\nABOUT THE
+  EVENT\nOrganiser: AmCham NZ\nAudience: AmCham members and guests\, execut
  ives\; size TBC\nNetworking: Day-long golf format with team play\nSpeakers
- : None listed\nAgenda: Stableford golf tournament\nUnverified: Audience an
- d size inferred.\nSource: https://www.amcham.co.nz/events\n\nStatus: UNCON
- FIRMED prospect. Found 2026-11-01\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.amcham.
- co.nz/event-6485893">Book / register</a></b></p>BOOK / REGISTER: https://w
- ww.amcham.co.nz/event-6485893<br><br>Fit: 3/5. Extended face time with US-
- linked senior executives at a low per-head cost.<br>Organiser: AmCham NZ<b
- r>Time: 11:00am to 6:00pm<br>Venue: Akarana Golf Club\, 1388 Dominion Road
- \, Mount Roskill\, Auckland 1041<br>Cost: Individual NZD 225 inc GST\; tea
- m of 4 NZD 900 inc GST<br>Registration: Online via AmCham\; entries close 
- 7 Nov<br>Audience: AmCham members and guests\, executives\; size TBC<br>Ne
- tworking: Day-long golf format with team play<br>Speakers: None listed<br>
- Agenda: Stableford golf tournament<br>Unverified: Audience and size inferr
- ed.<br>Source: https://www.amcham.co.nz/events<br><br>Status: UNCONFIRMED 
- prospect. Found 2026-11-01\, last checked 2026-11-02.</body></html>
+ : None listed\nAgenda: Stableford golf tournament\n\nSCOUT NOTES\nUnverifi
+ ed: Audience and size inferred.\nFound via: https://www.amcham.co.nz/event
+ s\nStatus: UNCONFIRMED prospect until registered. First found 2026-11-01\,
+  last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.amcham.co.nz/event-6485893">Open event page / register &ra
+ quo\;</a></b></p><h3>Key details</h3><table><tr><td style="vertical-align:
+ top\;padding-right:12px"><b>When</b></td><td>Mon 16 Nov 2026\, 11:00am to 
+ 6:00pm</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>
+ Where</b></td><td>Akarana Golf Club\, 1388 Dominion Road\, Mount Roskill\,
+  Auckland 1041</td></tr><tr><td style="vertical-align:top\;padding-right:1
+ 2px"><b>Cost</b></td><td>Individual NZD 225 inc GST\; team of 4 NZD 900 in
+ c GST</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>R
+ egistration</b></td><td>Online via AmCham\; entries close 7 Nov</td></tr><
+ /table><h3>Why go (fit 3/5)</h3><p>Extended face time with US-linked senio
+ r executives at a low per-head cost.</p><h3>About the event</h3><table><tr
+ ><td style="vertical-align:top\;padding-right:12px"><b>Organiser</b></td><
+ td>AmCham NZ</td></tr><tr><td style="vertical-align:top\;padding-right:12p
+ x"><b>Audience</b></td><td>AmCham members and guests\, executives\; size T
+ BC</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Netw
+ orking</b></td><td>Day-long golf format with team play</td></tr><tr><td st
+ yle="vertical-align:top\;padding-right:12px"><b>Speakers</b></td><td>None 
+ listed</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>
+ Agenda</b></td><td>Stableford golf tournament</td></tr></table><h3>Scout n
+ otes</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>
+ Unverified</b></td><td>Audience and size inferred.</td></tr><tr><td style=
+ "vertical-align:top\;padding-right:12px"><b>Found via</b></td><td><a href=
+ "https://www.amcham.co.nz/events">https://www.amcham.co.nz/events</a></td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b><
+ /td><td>UNCONFIRMED prospect until registered. First found 2026-11-01\, la
+ st checked 2026-11-02.</td></tr></table></body></html>
 URL:https://www.amcham.co.nz/event-6485893
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -1027,44 +1273,61 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:98c5a58856501711@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261117T120000
 DTEND;TZID=Pacific/Auckland:20261117T140000
 SUMMARY:Marketing Association: Think Again 2026 - The Outsider CMO
 LOCATION:The Northern Club\, 19 Princes Street\, Auckland
-DESCRIPTION:BOOK / REGISTER: https://marketing.org.nz/think-again-akl-novem
- ber-2026\n\nFit: 4/5. Senior consumer-brand and retail marketing leaders i
- n a lunchtime panel at a premium venue\, at a modest price.\nOrganiser: Ma
- rketing Association NZ\nTime: 12:00pm-2:00pm\nVenue: The Northern Club\, 1
- 9 Princes Street\, Auckland\nCost: Members NZD 129 + GST\, non-members NZD
-  169 + GST\nRegistration: Online via organiser page\; deadline TBC\nAudien
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://marketing.org.nz/think-a
+ gain-akl-november-2026\n\nKEY DETAILS\nWhen: Tue 17 Nov 2026\, 12:00pm-2:0
+ 0pm\nWhere: The Northern Club\, 19 Princes Street\, Auckland\nCost: Member
+ s NZD 129 + GST\, non-members NZD 169 + GST\nRegistration: Online via orga
+ niser page\; deadline TBC\n\nWHY GO (FIT 4/5)\nSenior consumer-brand and r
+ etail marketing leaders in a lunchtime panel at a premium venue\, at a mod
+ est price.\n\nABOUT THE EVENT\nOrganiser: Marketing Association NZ\nAudien
  ce: CMOs and senior marketers\; size TBC\nNetworking: TBC\nSpeakers: Carol
  ine Rainsford (Google NZ\, moderator)\; Nikki Goodman (CCO\, Sky)\; Franki
  e Coulter (CMO\, The Warehouse Group)\; Heather Gadonniex (CMO\, Auror)\; 
  Rob Bowring (GM Brand and Marketing Ops\, Skyline)\nAgenda: Panel on earni
  ng a mandate as a new CMO: first 90 days\, trust with CEO and board\, agen
- cy relationships\nUnverified: Page showed the date as 17/11/4026 (typo)\; 
- 17 Nov 2026 inferred from the URL. Audience size and networking format.\nS
- ource: https://marketing.org.nz/up-coming-events\n\nStatus: UNCONFIRMED pr
- ospect. Found 2026-10-15\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://marketing.o
- rg.nz/think-again-akl-november-2026">Book / register</a></b></p>BOOK / REG
- ISTER: https://marketing.org.nz/think-again-akl-november-2026<br><br>Fit: 
- 4/5. Senior consumer-brand and retail marketing leaders in a lunchtime pan
- el at a premium venue\, at a modest price.<br>Organiser: Marketing Associa
- tion NZ<br>Time: 12:00pm-2:00pm<br>Venue: The Northern Club\, 19 Princes S
- treet\, Auckland<br>Cost: Members NZD 129 + GST\, non-members NZD 169 + GS
- T<br>Registration: Online via organiser page\; deadline TBC<br>Audience: C
- MOs and senior marketers\; size TBC<br>Networking: TBC<br>Speakers: Caroli
- ne Rainsford (Google NZ\, moderator)\; Nikki Goodman (CCO\, Sky)\; Frankie
-  Coulter (CMO\, The Warehouse Group)\; Heather Gadonniex (CMO\, Auror)\; R
- ob Bowring (GM Brand and Marketing Ops\, Skyline)<br>Agenda: Panel on earn
- ing a mandate as a new CMO: first 90 days\, trust with CEO and board\, age
- ncy relationships<br>Unverified: Page showed the date as 17/11/4026 (typo)
- \; 17 Nov 2026 inferred from the URL. Audience size and networking format.
- <br>Source: https://marketing.org.nz/up-coming-events<br><br>Status: UNCON
- FIRMED prospect. Found 2026-10-15\, last checked 2026-11-02.</body></html>
+ cy relationships\n\nSCOUT NOTES\nUnverified: Page showed the date as 17/11
+ /4026 (typo)\; 17 Nov 2026 inferred from the URL. Audience size and networ
+ king format.\nFound via: https://marketing.org.nz/up-coming-events\nStatus
+ : UNCONFIRMED prospect until registered. First found 2026-10-15\, last che
+ cked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://marketing.org.nz/think-again-akl-november-2026">Open event pag
+ e / register &raquo\;</a></b></p><h3>Key details</h3><table><tr><td style=
+ "vertical-align:top\;padding-right:12px"><b>When</b></td><td>Tue 17 Nov 20
+ 26\, 12:00pm-2:00pm</td></tr><tr><td style="vertical-align:top\;padding-ri
+ ght:12px"><b>Where</b></td><td>The Northern Club\, 19 Princes Street\, Auc
+ kland</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>C
+ ost</b></td><td>Members NZD 129 + GST\, non-members NZD 169 + GST</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Registration</b
+ ></td><td>Online via organiser page\; deadline TBC</td></tr></table><h3>Wh
+ y go (fit 4/5)</h3><p>Senior consumer-brand and retail marketing leaders i
+ n a lunchtime panel at a premium venue\, at a modest price.</p><h3>About t
+ he event</h3><table><tr><td style="vertical-align:top\;padding-right:12px"
+ ><b>Organiser</b></td><td>Marketing Association NZ</td></tr><tr><td style=
+ "vertical-align:top\;padding-right:12px"><b>Audience</b></td><td>CMOs and 
+ senior marketers\; size TBC</td></tr><tr><td style="vertical-align:top\;pa
+ dding-right:12px"><b>Networking</b></td><td>TBC</td></tr><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>Speakers</b></td><td>Caroline Rai
+ nsford (Google NZ\, moderator)\; Nikki Goodman (CCO\, Sky)\; Frankie Coult
+ er (CMO\, The Warehouse Group)\; Heather Gadonniex (CMO\, Auror)\; Rob Bow
+ ring (GM Brand and Marketing Ops\, Skyline)</td></tr><tr><td style="vertic
+ al-align:top\;padding-right:12px"><b>Agenda</b></td><td>Panel on earning a
+  mandate as a new CMO: first 90 days\, trust with CEO and board\, agency r
+ elationships</td></tr></table><h3>Scout notes</h3><table><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>Unverified</b></td><td>Page showe
+ d the date as 17/11/4026 (typo)\; 17 Nov 2026 inferred from the URL. Audie
+ nce size and networking format.</td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Found via</b></td><td><a href="https://marketing.
+ org.nz/up-coming-events">https://marketing.org.nz/up-coming-events</a></td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b>
+ </td><td>UNCONFIRMED prospect until registered. First found 2026-10-15\, l
+ ast checked 2026-11-02.</td></tr></table></body></html>
 URL:https://marketing.org.nz/think-again-akl-november-2026
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -1075,42 +1338,59 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:28469b8ebb02d168@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261117T120000
 DTEND;TZID=Pacific/Auckland:20261117T140000
 SUMMARY:[?] IoD Hindsight 20/20 workshop: Qantas Governance Review
 LOCATION:Marsh Auckland\, Level 11\, PwC Tower\, 15 Customs Street West\, A
  uckland
-DESCRIPTION:BOOK / REGISTER: https://www.iod.org.nz/all-events/auckland-bra
- nch-event/hindsight-2020-workshop-qantas-governance-review\n\nFit: 3/5. Ha
- nds-on governance session with directors at low cost\; clashes with Market
- ing Association Think Again (same day\, 12:00).\nOrganiser: Institute of D
- irectors (Auckland Branch)\nTime: 12:00pm to 2:00pm\nVenue: Marsh Auckland
- \, Level 11\, PwC Tower\, 15 Customs Street West\, Auckland\nCost: Members
-  NZD 55\, non-members NZD 75 (incl GST)\nRegistration: Online via IoD\; li
- mited spaces\, deadline not stated\nAudience: Directors\; size TBC\nNetwor
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.iod.org.nz/all-event
+ s/auckland-branch-event/hindsight-2020-workshop-qantas-governance-review\n
+ \nKEY DETAILS\nWhen: Tue 17 Nov 2026\, 12:00pm to 2:00pm\nWhere: Marsh Auc
+ kland\, Level 11\, PwC Tower\, 15 Customs Street West\, Auckland\nCost: Me
+ mbers NZD 55\, non-members NZD 75 (incl GST)\nRegistration: Online via IoD
+ \; limited spaces\, deadline not stated\n\nWHY GO (FIT 3/5)\nHands-on gove
+ rnance session with directors at low cost\; clashes with Marketing Associa
+ tion Think Again (same day\, 12:00).\n\nABOUT THE EVENT\nOrganiser: Instit
+ ute of Directors (Auckland Branch)\nAudience: Directors\; size TBC\nNetwor
  king: Interactive mock board exercise\nSpeakers: Kirsten Patterson\, Chief
   Executive\, IoD\nAgenda: Qantas governance review case study\, mock board
-  session\, facilitated feedback\nUnverified: Audience and size inferred.\n
- Source: https://www.iod.org.nz/all-events/auckland-branch-event\n\nStatus:
-  UNCONFIRMED prospect. Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.iod.org
- .nz/all-events/auckland-branch-event/hindsight-2020-workshop-qantas-govern
- ance-review">Book / register</a></b></p>BOOK / REGISTER: https://www.iod.o
- rg.nz/all-events/auckland-branch-event/hindsight-2020-workshop-qantas-gove
- rnance-review<br><br>Fit: 3/5. Hands-on governance session with directors 
- at low cost\; clashes with Marketing Association Think Again (same day\, 1
- 2:00).<br>Organiser: Institute of Directors (Auckland Branch)<br>Time: 12:
- 00pm to 2:00pm<br>Venue: Marsh Auckland\, Level 11\, PwC Tower\, 15 Custom
- s Street West\, Auckland<br>Cost: Members NZD 55\, non-members NZD 75 (inc
- l GST)<br>Registration: Online via IoD\; limited spaces\, deadline not sta
- ted<br>Audience: Directors\; size TBC<br>Networking: Interactive mock boar
- d exercise<br>Speakers: Kirsten Patterson\, Chief Executive\, IoD<br>Agend
- a: Qantas governance review case study\, mock board session\, facilitated 
- feedback<br>Unverified: Audience and size inferred.<br>Source: https://www
- .iod.org.nz/all-events/auckland-branch-event<br><br>Status: UNCONFIRMED pr
- ospect. Found 2026-11-02\, last checked 2026-11-02.</body></html>
+  session\, facilitated feedback\n\nSCOUT NOTES\nUnverified: Audience and s
+ ize inferred.\nFound via: https://www.iod.org.nz/all-events/auckland-branc
+ h-event\nStatus: UNCONFIRMED prospect until registered. First found 2026-1
+ 1-02\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.iod.org.nz/all-events/auckland-branch-event/hindsight-2020
+ -workshop-qantas-governance-review">Open event page / register &raquo\;</a
+ ></b></p><h3>Key details</h3><table><tr><td style="vertical-align:top\;pad
+ ding-right:12px"><b>When</b></td><td>Tue 17 Nov 2026\, 12:00pm to 2:00pm</
+ td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b
+ ></td><td>Marsh Auckland\, Level 11\, PwC Tower\, 15 Customs Street West\,
+  Auckland</td></tr><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>Cost</b></td><td>Members NZD 55\, non-members NZD 75 (incl GST)</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Registration</
+ b></td><td>Online via IoD\; limited spaces\, deadline not stated</td></tr>
+ </table><h3>Why go (fit 3/5)</h3><p>Hands-on governance session with direc
+ tors at low cost\; clashes with Marketing Association Think Again (same da
+ y\, 12:00).</p><h3>About the event</h3><table><tr><td style="vertical-alig
+ n:top\;padding-right:12px"><b>Organiser</b></td><td>Institute of Directors
+  (Auckland Branch)</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Audience</b></td><td>Directors\; size TBC</td></tr><tr><td sty
+ le="vertical-align:top\;padding-right:12px"><b>Networking</b></td><td>Inte
+ ractive mock board exercise</td></tr><tr><td style="vertical-align:top\;pa
+ dding-right:12px"><b>Speakers</b></td><td>Kirsten Patterson\, Chief Execut
+ ive\, IoD</td></tr><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>Agenda</b></td><td>Qantas governance review case study\, mock board ses
+ sion\, facilitated feedback</td></tr></table><h3>Scout notes</h3><table><t
+ r><td style="vertical-align:top\;padding-right:12px"><b>Unverified</b></td
+ ><td>Audience and size inferred.</td></tr><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>Found via</b></td><td><a href="https://www.iod.o
+ rg.nz/all-events/auckland-branch-event">https://www.iod.org.nz/all-events/
+ auckland-branch-event</a></td></tr><tr><td style="vertical-align:top\;padd
+ ing-right:12px"><b>Status</b></td><td>UNCONFIRMED prospect until registere
+ d. First found 2026-11-02\, last checked 2026-11-02.</td></tr></table></bo
+ dy></html>
 URL:https://www.iod.org.nz/all-events/auckland-branch-event/hindsight-2020-
  workshop-qantas-governance-review
 CATEGORIES:Stragentum: Prospect Event
@@ -1122,7 +1402,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:86f608ef23b6306d@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261117T160000
 DTEND;TZID=Pacific/Auckland:20261117T180000
@@ -1130,39 +1410,55 @@ SUMMARY:India Unlocked Episode 6: Trade and Investment Opportunities in Tam
  il Nadu
 LOCATION:Level 1\, 90 Symonds Street\, 90 Symonds Street\, Grafton\, Auckla
  nd 1010
-DESCRIPTION:BOOK / REGISTER: https://aucklandchamber.co.nz/event/india-unlo
- cked-episode-5-trade-and-investment-opportunities-in-tamil-nadu/\n\nFit: 4
- /5. Free trade-and-export evening with drinks\, co-hosted by Deloitte\; go
- od for export-minded owners and corporate contacts.\nOrganiser: Auckland B
- usiness Chamber with Deloitte and the Consulate General of India\nTime: 4:
- 00pm-6:00pm\nVenue: Level 1\, 90 Symonds Street\, 90 Symonds Street\, Graf
- ton\, Auckland 1010\nCost: Free (members and non-members)\nRegistration: O
- nline via Chamber page\; unlimited tickets\, no deadline stated\nAudience:
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://aucklandchamber.co.nz/ev
+ ent/india-unlocked-episode-5-trade-and-investment-opportunities-in-tamil-n
+ adu/\n\nKEY DETAILS\nWhen: Tue 17 Nov 2026\, 4:00pm-6:00pm\nWhere: Level 1
+ \, 90 Symonds Street\, 90 Symonds Street\, Grafton\, Auckland 1010\nCost: 
+ Free (members and non-members)\nRegistration: Online via Chamber page\; un
+ limited tickets\, no deadline stated\n\nWHY GO (FIT 4/5)\nFree trade-and-e
+ xport evening with drinks\, co-hosted by Deloitte\; good for export-minded
+  owners and corporate contacts.\n\nABOUT THE EVENT\nOrganiser: Auckland Bu
+ siness Chamber with Deloitte and the Consulate General of India\nAudience:
   NZ exporters and investors interested in India\; size TBC\nNetworking: Dr
  inks\, Tamil Nadu snacks and networking\nSpeakers: TBC\nAgenda: Final epis
  ode of the state-by-state India series: Tamil Nadu manufacturing\, electro
- nics\, textiles and port opportunities\nUnverified: Speakers and audience 
- size not stated. The page URL says episode 5\, but the page title is episo
- de 6.\nSource: https://aucklandchamber.co.nz/events/\n\nStatus: UNCONFIRME
- D prospect. Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://aucklandcha
- mber.co.nz/event/india-unlocked-episode-5-trade-and-investment-opportuniti
- es-in-tamil-nadu/">Book / register</a></b></p>BOOK / REGISTER: https://auc
- klandchamber.co.nz/event/india-unlocked-episode-5-trade-and-investment-opp
- ortunities-in-tamil-nadu/<br><br>Fit: 4/5. Free trade-and-export evening w
- ith drinks\, co-hosted by Deloitte\; good for export-minded owners and cor
- porate contacts.<br>Organiser: Auckland Business Chamber with Deloitte and
-  the Consulate General of India<br>Time: 4:00pm-6:00pm<br>Venue: Level 1\,
-  90 Symonds Street\, 90 Symonds Street\, Grafton\, Auckland 1010<br>Cost: 
- Free (members and non-members)<br>Registration: Online via Chamber page\; 
- unlimited tickets\, no deadline stated<br>Audience: NZ exporters and inves
- tors interested in India\; size TBC<br>Networking: Drinks\, Tamil Nadu sna
- cks and networking<br>Speakers: TBC<br>Agenda: Final episode of the state-
- by-state India series: Tamil Nadu manufacturing\, electronics\, textiles a
- nd port opportunities<br>Unverified: Speakers and audience size not stated
- . The page URL says episode 5\, but the page title is episode 6.<br>Source
- : https://aucklandchamber.co.nz/events/<br><br>Status: UNCONFIRMED prospec
- t. Found 2026-11-02\, last checked 2026-11-02.</body></html>
+ nics\, textiles and port opportunities\n\nSCOUT NOTES\nUnverified: Speaker
+ s and audience size not stated. The page URL says episode 5\, but the page
+  title is episode 6.\nFound via: https://aucklandchamber.co.nz/events/\nSt
+ atus: UNCONFIRMED prospect until registered. First found 2026-11-02\, last
+  checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://aucklandchamber.co.nz/event/india-unlocked-episode-5-trade-and
+ -investment-opportunities-in-tamil-nadu/">Open event page / register &raqu
+ o\;</a></b></p><h3>Key details</h3><table><tr><td style="vertical-align:to
+ p\;padding-right:12px"><b>When</b></td><td>Tue 17 Nov 2026\, 4:00pm-6:00pm
+ </td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Where<
+ /b></td><td>Level 1\, 90 Symonds Street\, 90 Symonds Street\, Grafton\, Au
+ ckland 1010</td></tr><tr><td style="vertical-align:top\;padding-right:12px
+ "><b>Cost</b></td><td>Free (members and non-members)</td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Registration</b></td><td>Onl
+ ine via Chamber page\; unlimited tickets\, no deadline stated</td></tr></t
+ able><h3>Why go (fit 4/5)</h3><p>Free trade-and-export evening with drinks
+ \, co-hosted by Deloitte\; good for export-minded owners and corporate con
+ tacts.</p><h3>About the event</h3><table><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Organiser</b></td><td>Auckland Business Chamber w
+ ith Deloitte and the Consulate General of India</td></tr><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>Audience</b></td><td>NZ exporters
+  and investors interested in India\; size TBC</td></tr><tr><td style="vert
+ ical-align:top\;padding-right:12px"><b>Networking</b></td><td>Drinks\, Tam
+ il Nadu snacks and networking</td></tr><tr><td style="vertical-align:top\;
+ padding-right:12px"><b>Speakers</b></td><td>TBC</td></tr><tr><td style="ve
+ rtical-align:top\;padding-right:12px"><b>Agenda</b></td><td>Final episode 
+ of the state-by-state India series: Tamil Nadu manufacturing\, electronics
+ \, textiles and port opportunities</td></tr></table><h3>Scout notes</h3><t
+ able><tr><td style="vertical-align:top\;padding-right:12px"><b>Unverified<
+ /b></td><td>Speakers and audience size not stated. The page URL says episo
+ de 5\, but the page title is episode 6.</td></tr><tr><td style="vertical-a
+ lign:top\;padding-right:12px"><b>Found via</b></td><td><a href="https://au
+ cklandchamber.co.nz/events/">https://aucklandchamber.co.nz/events/</a></td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b>
+ </td><td>UNCONFIRMED prospect until registered. First found 2026-11-02\, l
+ ast checked 2026-11-02.</td></tr></table></body></html>
 URL:https://aucklandchamber.co.nz/event/india-unlocked-episode-5-trade-and-
  investment-opportunities-in-tamil-nadu/
 CATEGORIES:Stragentum: Prospect Event
@@ -1174,43 +1470,59 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:0ae1a7bd3763da61@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261119T160000
 DTEND;TZID=Pacific/Auckland:20261119T180000
 SUMMARY:[?] NZFGC SME Network Session November 2026
 LOCATION:ANZ Centre\, 23 Albert Street\, Auckland CBD
-DESCRIPTION:BOOK / REGISTER: https://www.fgc.org.nz/events-1/nzfgc-sme-netw
- ork-session-november-2026-same-shelf-new-rules\n\nFit: 3/5. Direct FMCG ow
- ner/operator room with dinner\, but member-focused so guest access needs c
- onfirming.\nOrganiser: NZ Food & Grocery Council\nTime: 4:00pm-6:00pm\, in
- formal end-of-year dinner follows\nVenue: ANZ Centre\, 23 Albert Street\, 
- Auckland CBD\nCost: TBC\nRegistration: Register button on organiser page\;
-  deadline TBC\nAudience: NZFGC member SME food and grocery businesses\nNet
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.fgc.org.nz/events-1/
+ nzfgc-sme-network-session-november-2026-same-shelf-new-rules\n\nKEY DETAIL
+ S\nWhen: Thu 19 Nov 2026\, 4:00pm-6:00pm\, informal end-of-year dinner fol
+ lows\nWhere: ANZ Centre\, 23 Albert Street\, Auckland CBD\nCost: TBC\nRegi
+ stration: Register button on organiser page\; deadline TBC\n\nWHY GO (FIT 
+ 3/5)\nDirect FMCG owner/operator room with dinner\, but member-focused so 
+ guest access needs confirming.\n\nABOUT THE EVENT\nOrganiser: NZ Food & Gr
+ ocery Council\nAudience: NZFGC member SME food and grocery businesses\nNet
  working: Peer connection plus informal end-of-year dinner\nSpeakers: Scott
   and Geoff from Coalface (Grocery Stores programme)\; surnames not given\n
  Agenda: Same Shelf\, New Rules: store-level data on the shifting supplier-
  retailer relationship\, what SMEs need to do\, open discussion\, then info
- rmal end-of-year dinner\nUnverified: Cost\; guest eligibility\; speakers\n
- Source: https://www.fgc.org.nz/events\n\nStatus: UNCONFIRMED prospect. Fou
- nd 2026-10-15\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.fgc.org
- .nz/events-1/nzfgc-sme-network-session-november-2026-same-shelf-new-rules"
- >Book / register</a></b></p>BOOK / REGISTER: https://www.fgc.org.nz/events
- -1/nzfgc-sme-network-session-november-2026-same-shelf-new-rules<br><br>Fit
- : 3/5. Direct FMCG owner/operator room with dinner\, but member-focused so
-  guest access needs confirming.<br>Organiser: NZ Food &amp\; Grocery Counc
- il<br>Time: 4:00pm-6:00pm\, informal end-of-year dinner follows<br>Venue: 
- ANZ Centre\, 23 Albert Street\, Auckland CBD<br>Cost: TBC<br>Registration:
-  Register button on organiser page\; deadline TBC<br>Audience: NZFGC membe
- r SME food and grocery businesses<br>Networking: Peer connection plus info
- rmal end-of-year dinner<br>Speakers: Scott and Geoff from Coalface (Grocer
- y Stores programme)\; surnames not given<br>Agenda: Same Shelf\, New Rules
- : store-level data on the shifting supplier-retailer relationship\, what S
- MEs need to do\, open discussion\, then informal end-of-year dinner<br>Unv
- erified: Cost\; guest eligibility\; speakers<br>Source: https://www.fgc.or
- g.nz/events<br><br>Status: UNCONFIRMED prospect. Found 2026-10-15\, last c
- hecked 2026-11-02.</body></html>
+ rmal end-of-year dinner\n\nSCOUT NOTES\nUnverified: Cost\; guest eligibili
+ ty\; speakers\nFound via: https://www.fgc.org.nz/events\nStatus: UNCONFIRM
+ ED prospect until registered. First found 2026-10-15\, last checked 2026-1
+ 1-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.fgc.org.nz/events-1/nzfgc-sme-network-session-november-202
+ 6-same-shelf-new-rules">Open event page / register &raquo\;</a></b></p><h3
+ >Key details</h3><table><tr><td style="vertical-align:top\;padding-right:1
+ 2px"><b>When</b></td><td>Thu 19 Nov 2026\, 4:00pm-6:00pm\, informal end-of
+ -year dinner follows</td></tr><tr><td style="vertical-align:top\;padding-r
+ ight:12px"><b>Where</b></td><td>ANZ Centre\, 23 Albert Street\, Auckland C
+ BD</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Cost
+ </b></td><td>TBC</td></tr><tr><td style="vertical-align:top\;padding-right
+ :12px"><b>Registration</b></td><td>Register button on organiser page\; dea
+ dline TBC</td></tr></table><h3>Why go (fit 3/5)</h3><p>Direct FMCG owner/o
+ perator room with dinner\, but member-focused so guest access needs confir
+ ming.</p><h3>About the event</h3><table><tr><td style="vertical-align:top\
+ ;padding-right:12px"><b>Organiser</b></td><td>NZ Food &amp\; Grocery Counc
+ il</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Audi
+ ence</b></td><td>NZFGC member SME food and grocery businesses</td></tr><tr
+ ><td style="vertical-align:top\;padding-right:12px"><b>Networking</b></td>
+ <td>Peer connection plus informal end-of-year dinner</td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Speakers</b></td><td>Scott a
+ nd Geoff from Coalface (Grocery Stores programme)\; surnames not given</td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b>
+ </td><td>Same Shelf\, New Rules: store-level data on the shifting supplier
+ -retailer relationship\, what SMEs need to do\, open discussion\, then inf
+ ormal end-of-year dinner</td></tr></table><h3>Scout notes</h3><table><tr><
+ td style="vertical-align:top\;padding-right:12px"><b>Unverified</b></td><t
+ d>Cost\; guest eligibility\; speakers</td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Found via</b></td><td><a href="https://www.
+ fgc.org.nz/events">https://www.fgc.org.nz/events</a></td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRM
+ ED prospect until registered. First found 2026-10-15\, last checked 2026-1
+ 1-02.</td></tr></table></body></html>
 URL:https://www.fgc.org.nz/events-1/nzfgc-sme-network-session-november-2026
  -same-shelf-new-rules
 CATEGORIES:Stragentum: Prospect Event
@@ -1222,43 +1534,59 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:f448e7463b93a225@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261120T180000
 DTEND;TZID=Pacific/Auckland:20261121T000000
 SUMMARY:[?] 2degrees Auckland Business Awards: Best of the Best Gala
 LOCATION:New Zealand International Convention Centre\, 101 Hobson Street\, 
  Auckland 1010
-DESCRIPTION:BOOK / REGISTER: https://aucklandchamber.co.nz/event/2degrees-a
- uckland-business-awards-best-of-the-best/\n\nFit: 3/5. Room full of Auckla
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://aucklandchamber.co.nz/ev
+ ent/2degrees-auckland-business-awards-best-of-the-best/\n\nKEY DETAILS\nWh
+ en: Fri 20 Nov 2026\, 6:00pm-midnight\, black tie\nWhere: New Zealand Inte
+ rnational Convention Centre\, 101 Hobson Street\, Auckland 1010\nCost: Sin
+ gle NZD 345 +GST\; table of 10 NZD 3\,105 +GST\nRegistration: Online via C
+ hamber page\; deadline not stated\n\nWHY GO (FIT 3/5)\nRoom full of Auckla
  nd's award-winning owners and CEOs\, but a seated gala limits who you can 
- meet.\nOrganiser: Auckland Business Chamber\nTime: 6:00pm-midnight\, black
-  tie\nVenue: New Zealand International Convention Centre\, 101 Hobson Stre
- et\, Auckland 1010\nCost: Single NZD 345 +GST\; table of 10 NZD 3\,105 +GS
- T\nRegistration: Online via Chamber page\; deadline not stated\nAudience: 
+ meet.\n\nABOUT THE EVENT\nOrganiser: Auckland Business Chamber\nAudience: 
  Auckland regional award winners\, business owners and sponsors\; size TBC\
  nNetworking: Black-tie gala with three-course dinner and entertainment\nSp
  eakers: Entertainment: Rachel Hamilton\, White Chapel Jak\nAgenda: Best of
-  the Best awards for Auckland's regional business award winners\nUnverifie
- d: Audience size and seniority inferred.\nSource: https://aucklandchamber.
- co.nz/events/\n\nStatus: UNCONFIRMED prospect. Found 2026-11-02\, last che
- cked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://aucklandcha
- mber.co.nz/event/2degrees-auckland-business-awards-best-of-the-best/">Book
-  / register</a></b></p>BOOK / REGISTER: https://aucklandchamber.co.nz/even
- t/2degrees-auckland-business-awards-best-of-the-best/<br><br>Fit: 3/5. Roo
- m full of Auckland's award-winning owners and CEOs\, but a seated gala lim
- its who you can meet.<br>Organiser: Auckland Business Chamber<br>Time: 6:0
- 0pm-midnight\, black tie<br>Venue: New Zealand International Convention Ce
- ntre\, 101 Hobson Street\, Auckland 1010<br>Cost: Single NZD 345 +GST\; ta
- ble of 10 NZD 3\,105 +GST<br>Registration: Online via Chamber page\; deadl
- ine not stated<br>Audience: Auckland regional award winners\, business own
- ers and sponsors\; size TBC<br>Networking: Black-tie gala with three-cours
- e dinner and entertainment<br>Speakers: Entertainment: Rachel Hamilton\, W
- hite Chapel Jak<br>Agenda: Best of the Best awards for Auckland's regional
-  business award winners<br>Unverified: Audience size and seniority inferre
- d.<br>Source: https://aucklandchamber.co.nz/events/<br><br>Status: UNCONFI
- RMED prospect. Found 2026-11-02\, last checked 2026-11-02.</body></html>
+  the Best awards for Auckland's regional business award winners\n\nSCOUT N
+ OTES\nUnverified: Audience size and seniority inferred.\nFound via: https:
+ //aucklandchamber.co.nz/events/\nStatus: UNCONFIRMED prospect until regist
+ ered. First found 2026-11-02\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://aucklandchamber.co.nz/event/2degrees-auckland-business-awards-
+ best-of-the-best/">Open event page / register &raquo\;</a></b></p><h3>Key 
+ details</h3><table><tr><td style="vertical-align:top\;padding-right:12px">
+ <b>When</b></td><td>Fri 20 Nov 2026\, 6:00pm-midnight\, black tie</td></tr
+ ><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b></td><
+ td>New Zealand International Convention Centre\, 101 Hobson Street\, Auckl
+ and 1010</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><
+ b>Cost</b></td><td>Single NZD 345 +GST\; table of 10 NZD 3\,105 +GST</td><
+ /tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Registration
+ </b></td><td>Online via Chamber page\; deadline not stated</td></tr></tabl
+ e><h3>Why go (fit 3/5)</h3><p>Room full of Auckland's award-winning owners
+  and CEOs\, but a seated gala limits who you can meet.</p><h3>About the ev
+ ent</h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>O
+ rganiser</b></td><td>Auckland Business Chamber</td></tr><tr><td style="ver
+ tical-align:top\;padding-right:12px"><b>Audience</b></td><td>Auckland regi
+ onal award winners\, business owners and sponsors\; size TBC</td></tr><tr>
+ <td style="vertical-align:top\;padding-right:12px"><b>Networking</b></td><
+ td>Black-tie gala with three-course dinner and entertainment</td></tr><tr>
+ <td style="vertical-align:top\;padding-right:12px"><b>Speakers</b></td><td
+ >Entertainment: Rachel Hamilton\, White Chapel Jak</td></tr><tr><td style=
+ "vertical-align:top\;padding-right:12px"><b>Agenda</b></td><td>Best of the
+  Best awards for Auckland's regional business award winners</td></tr></tab
+ le><h3>Scout notes</h3><table><tr><td style="vertical-align:top\;padding-r
+ ight:12px"><b>Unverified</b></td><td>Audience size and seniority inferred.
+ </td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Found 
+ via</b></td><td><a href="https://aucklandchamber.co.nz/events/">https://au
+ cklandchamber.co.nz/events/</a></td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED prospect until reg
+ istered. First found 2026-11-02\, last checked 2026-11-02.</td></tr></tabl
+ e></body></html>
 URL:https://aucklandchamber.co.nz/event/2degrees-auckland-business-awards-b
  est-of-the-best/
 CATEGORIES:Stragentum: Prospect Event
@@ -1270,7 +1598,7 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:aace86ed32addfcf@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261124T173000
 DTEND;TZID=Pacific/Auckland:20261124T193000
@@ -1278,42 +1606,58 @@ SUMMARY:IoD: The future of insurance: What should boards be thinking about
  today?
 LOCATION:Marsh Auckland\, Level 11\, PwC Tower\, 15 Customs Street West\, A
  uckland
-DESCRIPTION:BOOK / REGISTER: https://www.iod.org.nz/all-events/auckland-bra
- nch-event/the-future-of-insurance\n\nFit: 4/5. Board-level room of chairs 
- and directors with drinks and networking at a low price\; good for board a
- nd PE-adjacent contacts.\nOrganiser: Institute of Directors (Auckland Bran
- ch)\nTime: 5:30pm drinks and canapés\, 6-7pm panel\, networking until 7:3
- 0pm\nVenue: Marsh Auckland\, Level 11\, PwC Tower\, 15 Customs Street West
- \, Auckland\nCost: Members NZD 75\, non-members NZD 105 (incl GST)\nRegist
- ration: Online via IoD\; deadline not stated\nAudience: Directors and chai
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.iod.org.nz/all-event
+ s/auckland-branch-event/the-future-of-insurance\n\nKEY DETAILS\nWhen: Tue 
+ 24 Nov 2026\, 5:30pm drinks and canapés\, 6-7pm panel\, networking until 
+ 7:30pm\nWhere: Marsh Auckland\, Level 11\, PwC Tower\, 15 Customs Street W
+ est\, Auckland\nCost: Members NZD 75\, non-members NZD 105 (incl GST)\nReg
+ istration: Online via IoD\; deadline not stated\n\nWHY GO (FIT 4/5)\nBoard
+ -level room of chairs and directors with drinks and networking at a low pr
+ ice\; good for board and PE-adjacent contacts.\n\nABOUT THE EVENT\nOrganis
+ er: Institute of Directors (Auckland Branch)\nAudience: Directors and chai
  rs\; size TBC\nNetworking: Drinks and canapés\, 30 min networking after p
  anel\nSpeakers: Naomi Ballantyne (former Founder and MD\, Partners Life)\;
   Scott Pickering (chair/director\, former CEO ACC)\; Rob Ellis (director C
  hubb Life NZ\, CEO Sentro)\; Mary-Jane Daly (chair AIG NZ and Partners Lif
  e)\nAgenda: Panel on what boards should consider about the future of insur
- ance\nUnverified: Audience size and non-member eligibility inferred from n
- on-member pricing.\nSource: https://www.iod.org.nz/all-events/auckland-bra
- nch-event\n\nStatus: UNCONFIRMED prospect. Found 2026-11-02\, last checked
-  2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.iod.org
- .nz/all-events/auckland-branch-event/the-future-of-insurance">Book / regis
- ter</a></b></p>BOOK / REGISTER: https://www.iod.org.nz/all-events/auckland
- -branch-event/the-future-of-insurance<br><br>Fit: 4/5. Board-level room of
-  chairs and directors with drinks and networking at a low price\; good for
-  board and PE-adjacent contacts.<br>Organiser: Institute of Directors (Auc
- kland Branch)<br>Time: 5:30pm drinks and canapés\, 6-7pm panel\, networki
- ng until 7:30pm<br>Venue: Marsh Auckland\, Level 11\, PwC Tower\, 15 Custo
- ms Street West\, Auckland<br>Cost: Members NZD 75\, non-members NZD 105 (i
- ncl GST)<br>Registration: Online via IoD\; deadline not stated<br>Audience
- : Directors and chairs\; size TBC<br>Networking: Drinks and canapés\, 30 
- min networking after panel<br>Speakers: Naomi Ballantyne (former Founder a
- nd MD\, Partners Life)\; Scott Pickering (chair/director\, former CEO ACC)
- \; Rob Ellis (director Chubb Life NZ\, CEO Sentro)\; Mary-Jane Daly (chair
-  AIG NZ and Partners Life)<br>Agenda: Panel on what boards should consider
-  about the future of insurance<br>Unverified: Audience size and non-member
-  eligibility inferred from non-member pricing.<br>Source: https://www.iod.
- org.nz/all-events/auckland-branch-event<br><br>Status: UNCONFIRMED prospec
- t. Found 2026-11-02\, last checked 2026-11-02.</body></html>
+ ance\n\nSCOUT NOTES\nUnverified: Audience size and non-member eligibility 
+ inferred from non-member pricing.\nFound via: https://www.iod.org.nz/all-e
+ vents/auckland-branch-event\nStatus: UNCONFIRMED prospect until registered
+ . First found 2026-11-02\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.iod.org.nz/all-events/auckland-branch-event/the-future-of-
+ insurance">Open event page / register &raquo\;</a></b></p><h3>Key details<
+ /h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>When<
+ /b></td><td>Tue 24 Nov 2026\, 5:30pm drinks and canapés\, 6-7pm panel\, n
+ etworking until 7:30pm</td></tr><tr><td style="vertical-align:top\;padding
+ -right:12px"><b>Where</b></td><td>Marsh Auckland\, Level 11\, PwC Tower\, 
+ 15 Customs Street West\, Auckland</td></tr><tr><td style="vertical-align:t
+ op\;padding-right:12px"><b>Cost</b></td><td>Members NZD 75\, non-members N
+ ZD 105 (incl GST)</td></tr><tr><td style="vertical-align:top\;padding-righ
+ t:12px"><b>Registration</b></td><td>Online via IoD\; deadline not stated</
+ td></tr></table><h3>Why go (fit 4/5)</h3><p>Board-level room of chairs and
+  directors with drinks and networking at a low price\; good for board and 
+ PE-adjacent contacts.</p><h3>About the event</h3><table><tr><td style="ver
+ tical-align:top\;padding-right:12px"><b>Organiser</b></td><td>Institute of
+  Directors (Auckland Branch)</td></tr><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>Audience</b></td><td>Directors and chairs\; size TBC
+ </td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Networ
+ king</b></td><td>Drinks and canapés\, 30 min networking after panel</td><
+ /tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Speakers</b>
+ </td><td>Naomi Ballantyne (former Founder and MD\, Partners Life)\; Scott 
+ Pickering (chair/director\, former CEO ACC)\; Rob Ellis (director Chubb Li
+ fe NZ\, CEO Sentro)\; Mary-Jane Daly (chair AIG NZ and Partners Life)</td>
+ </tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b><
+ /td><td>Panel on what boards should consider about the future of insurance
+ </td></tr></table><h3>Scout notes</h3><table><tr><td style="vertical-align
+ :top\;padding-right:12px"><b>Unverified</b></td><td>Audience size and non-
+ member eligibility inferred from non-member pricing.</td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td><a hre
+ f="https://www.iod.org.nz/all-events/auckland-branch-event">https://www.io
+ d.org.nz/all-events/auckland-branch-event</a></td></tr><tr><td style="vert
+ ical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED pros
+ pect until registered. First found 2026-11-02\, last checked 2026-11-02.</
+ td></tr></table></body></html>
 URL:https://www.iod.org.nz/all-events/auckland-branch-event/the-future-of-i
  nsurance
 CATEGORIES:Stragentum: Prospect Event
@@ -1325,48 +1669,63 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:ff1aa8712bad381a@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261125T070000
 DTEND;TZID=Pacific/Auckland:20261125T090000
 SUMMARY:Trade on Toast: The votes are in\, what next for Auckland?
 LOCATION:Pullman Auckland Hotel & Apartments\, 6 Princes Street\, Auckland 
  1140
-DESCRIPTION:BOOK / REGISTER: https://aucklandchamber.co.nz/event/trade-on-t
- oast-the-votes-are-in-what-next-for-auckland/\n\nFit: 4/5. Post-election b
- reakfast that will draw Auckland's senior business community\, at a low pr
- ice.\nOrganiser: Auckland Business Chamber\nTime: 7:00am registration\, 7:
- 30am seated\, 9:00am close\nVenue: Pullman Auckland Hotel & Apartments\, 6
-  Princes Street\, Auckland 1140\nCost: Single NZD 65 +GST\; table of 10 NZ
- D 520 +GST\nRegistration: Online via Chamber page\; deadline not stated\nA
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://aucklandchamber.co.nz/ev
+ ent/trade-on-toast-the-votes-are-in-what-next-for-auckland/\n\nKEY DETAILS
+ \nWhen: Wed 25 Nov 2026\, 7:00am registration\, 7:30am seated\, 9:00am clo
+ se\nWhere: Pullman Auckland Hotel & Apartments\, 6 Princes Street\, Auckla
+ nd 1140\nCost: Single NZD 65 +GST\; table of 10 NZD 520 +GST\nRegistration
+ : Online via Chamber page\; deadline not stated\n\nWHY GO (FIT 4/5)\nPost-
+ election breakfast that will draw Auckland's senior business community\, a
+ t a low price.\n\nABOUT THE EVENT\nOrganiser: Auckland Business Chamber\nA
  udience: Auckland business leaders\; size TBC\nNetworking: Registration an
  d hot plated breakfast\nSpeakers: Julie Wagener (GM Communications\, Port 
  of Auckland)\; keynote Matthew Hooton (Editor-in-Chief\, The Post and Sund
  ay Star-Times)\; panel Trish Sherson (Sherson Willis)\, Tim Wilson (Maxim 
  Institute)\, Josie Pagani (ChildFund NZ)\nAgenda: Post-election outlook fo
  r Auckland: infrastructure\, investment\, regulation\; keynote\, panel and
-  Q&A\nUnverified: Audience size inferred.\nSource: https://aucklandchamber
- .co.nz/events/\n\nStatus: UNCONFIRMED prospect. Found 2026-11-02\, last ch
- ecked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://aucklandcha
- mber.co.nz/event/trade-on-toast-the-votes-are-in-what-next-for-auckland/">
- Book / register</a></b></p>BOOK / REGISTER: https://aucklandchamber.co.nz/
- event/trade-on-toast-the-votes-are-in-what-next-for-auckland/<br><br>Fit: 
- 4/5. Post-election breakfast that will draw Auckland's senior business com
- munity\, at a low price.<br>Organiser: Auckland Business Chamber<br>Time: 
- 7:00am registration\, 7:30am seated\, 9:00am close<br>Venue: Pullman Auckl
- and Hotel &amp\; Apartments\, 6 Princes Street\, Auckland 1140<br>Cost: Si
- ngle NZD 65 +GST\; table of 10 NZD 520 +GST<br>Registration: Online via Ch
- amber page\; deadline not stated<br>Audience: Auckland business leaders\; 
- size TBC<br>Networking: Registration and hot plated breakfast<br>Speakers:
-  Julie Wagener (GM Communications\, Port of Auckland)\; keynote Matthew Ho
- oton (Editor-in-Chief\, The Post and Sunday Star-Times)\; panel Trish Sher
- son (Sherson Willis)\, Tim Wilson (Maxim Institute)\, Josie Pagani (ChildF
- und NZ)<br>Agenda: Post-election outlook for Auckland: infrastructure\, in
- vestment\, regulation\; keynote\, panel and Q&amp\;A<br>Unverified: Audien
- ce size inferred.<br>Source: https://aucklandchamber.co.nz/events/<br><br>
- Status: UNCONFIRMED prospect. Found 2026-11-02\, last checked 2026-11-02.<
- /body></html>
+  Q&A\n\nSCOUT NOTES\nUnverified: Audience size inferred.\nFound via: https
+ ://aucklandchamber.co.nz/events/\nStatus: UNCONFIRMED prospect until regis
+ tered. First found 2026-11-02\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://aucklandchamber.co.nz/event/trade-on-toast-the-votes-are-in-wh
+ at-next-for-auckland/">Open event page / register &raquo\;</a></b></p><h3>
+ Key details</h3><table><tr><td style="vertical-align:top\;padding-right:12
+ px"><b>When</b></td><td>Wed 25 Nov 2026\, 7:00am registration\, 7:30am sea
+ ted\, 9:00am close</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Where</b></td><td>Pullman Auckland Hotel &amp\; Apartments\, 6
+  Princes Street\, Auckland 1140</td></tr><tr><td style="vertical-align:top
+ \;padding-right:12px"><b>Cost</b></td><td>Single NZD 65 +GST\; table of 10
+  NZD 520 +GST</td></tr><tr><td style="vertical-align:top\;padding-right:12
+ px"><b>Registration</b></td><td>Online via Chamber page\; deadline not sta
+ ted</td></tr></table><h3>Why go (fit 4/5)</h3><p>Post-election breakfast t
+ hat will draw Auckland's senior business community\, at a low price.</p><h
+ 3>About the event</h3><table><tr><td style="vertical-align:top\;padding-ri
+ ght:12px"><b>Organiser</b></td><td>Auckland Business Chamber</td></tr><tr>
+ <td style="vertical-align:top\;padding-right:12px"><b>Audience</b></td><td
+ >Auckland business leaders\; size TBC</td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Networking</b></td><td>Registration and hot
+  plated breakfast</td></tr><tr><td style="vertical-align:top\;padding-righ
+ t:12px"><b>Speakers</b></td><td>Julie Wagener (GM Communications\, Port of
+  Auckland)\; keynote Matthew Hooton (Editor-in-Chief\, The Post and Sunday
+  Star-Times)\; panel Trish Sherson (Sherson Willis)\, Tim Wilson (Maxim In
+ stitute)\, Josie Pagani (ChildFund NZ)</td></tr><tr><td style="vertical-al
+ ign:top\;padding-right:12px"><b>Agenda</b></td><td>Post-election outlook f
+ or Auckland: infrastructure\, investment\, regulation\; keynote\, panel an
+ d Q&amp\;A</td></tr></table><h3>Scout notes</h3><table><tr><td style="vert
+ ical-align:top\;padding-right:12px"><b>Unverified</b></td><td>Audience siz
+ e inferred.</td></tr><tr><td style="vertical-align:top\;padding-right:12px
+ "><b>Found via</b></td><td><a href="https://aucklandchamber.co.nz/events/"
+ >https://aucklandchamber.co.nz/events/</a></td></tr><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED prospec
+ t until registered. First found 2026-11-02\, last checked 2026-11-02.</td>
+ </tr></table></body></html>
 URL:https://aucklandchamber.co.nz/event/trade-on-toast-the-votes-are-in-wha
  t-next-for-auckland/
 CATEGORIES:Stragentum: Prospect Event
@@ -1378,43 +1737,60 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:1dca640eab394902@stragentum-scout
-DTSTAMP:20261101T205648Z
-SEQUENCE:0
+DTSTAMP:20261101T210029Z
+SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261126T180000
 DTEND;TZID=Pacific/Auckland:20261126T220000
 SUMMARY:[?] Sustainable Business Awards 2026
 LOCATION:Shed 10\, Queens Wharf\, Auckland CBD 1010
-DESCRIPTION:BOOK / REGISTER: https://events.humanitix.com/sustainable-busin
- ess-awards-2026\n\nFit: 3/5. Mixed-seniority sustainability crowd with dri
- nks networking\; relevant to FMCG and consumer brands with sustainability 
- agendas.\nOrganiser: Sustainable Business Network\nTime: 6:00pm-10:00pm\nV
- enue: Shed 10\, Queens Wharf\, Auckland CBD 1010\nCost: TBC (only a finali
- st package\, NZD 550 +GST\, is listed)\nRegistration: Humanitix\; refunds 
- up to 7 days before\; deadline not stated\nAudience: Sustainability leader
- s\, business people and innovators\; size TBC\nNetworking: Welcome drinks 
- and networking\, then seated dinner\nSpeakers: MC Te Radar\nAgenda: Next L
- isters trends presentation\, dinner\, awards ceremony\nUnverified: Ticket 
- price not listed\; audience seniority inferred. Humanitix is SBN's own tic
- keting page.\nSource: https://events.humanitix.com/sustainable-business-aw
- ards-2026\n\nStatus: UNCONFIRMED prospect. Found 2026-11-02\, last checked
-  2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://events.huma
- nitix.com/sustainable-business-awards-2026">Book / register</a></b></p>BOO
- K / REGISTER: https://events.humanitix.com/sustainable-business-awards-202
- 6<br><br>Fit: 3/5. Mixed-seniority sustainability crowd with drinks networ
- king\; relevant to FMCG and consumer brands with sustainability agendas.<b
- r>Organiser: Sustainable Business Network<br>Time: 6:00pm-10:00pm<br>Venue
- : Shed 10\, Queens Wharf\, Auckland CBD 1010<br>Cost: TBC (only a finalist
-  package\, NZD 550 +GST\, is listed)<br>Registration: Humanitix\; refunds 
- up to 7 days before\; deadline not stated<br>Audience: Sustainability lead
- ers\, business people and innovators\; size TBC<br>Networking: Welcome dri
- nks and networking\, then seated dinner<br>Speakers: MC Te Radar<br>Agenda
- : Next Listers trends presentation\, dinner\, awards ceremony<br>Unverifie
- d: Ticket price not listed\; audience seniority inferred. Humanitix is SBN
- 's own ticketing page.<br>Source: https://events.humanitix.com/sustainable
- -business-awards-2026<br><br>Status: UNCONFIRMED prospect. Found 2026-11-0
- 2\, last checked 2026-11-02.</body></html>
-URL:https://events.humanitix.com/sustainable-business-awards-2026
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://sustainable.org.nz/learn
+ /events/sustainable-business-awards-2026/\n\nKEY DETAILS\nWhen: Thu 26 Nov
+  2026\, 6:00pm-10:00pm\nWhere: Shed 10\, Queens Wharf\, Auckland CBD 1010\
+ nCost: TBC (only a finalist package\, NZD 550 +GST\, is listed)\nRegistrat
+ ion: Humanitix\; refunds up to 7 days before\; deadline not stated\n\nWHY 
+ GO (FIT 3/5)\nMixed-seniority sustainability crowd with drinks networking\
+ ; relevant to FMCG and consumer brands with sustainability agendas.\n\nABO
+ UT THE EVENT\nOrganiser: Sustainable Business Network\nAudience: Sustainab
+ ility leaders\, business people and innovators\; size TBC\nNetworking: Wel
+ come drinks and networking\, then seated dinner\nSpeakers: MC Te Radar\nAg
+ enda: Next Listers trends presentation\, dinner\, awards ceremony\n\nSCOUT
+  NOTES\nUnverified: Ticket price not listed\; audience seniority inferred.
+  Humanitix is SBN's own ticketing page.\nFound via: https://events.humanit
+ ix.com/sustainable-business-awards-2026\nStatus: UNCONFIRMED prospect unti
+ l registered. First found 2026-11-02\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://sustainable.org.nz/learn/events/sustainable-business-awards-20
+ 26/">Open event page / register &raquo\;</a></b></p><h3>Key details</h3><t
+ able><tr><td style="vertical-align:top\;padding-right:12px"><b>When</b></t
+ d><td>Thu 26 Nov 2026\, 6:00pm-10:00pm</td></tr><tr><td style="vertical-al
+ ign:top\;padding-right:12px"><b>Where</b></td><td>Shed 10\, Queens Wharf\,
+  Auckland CBD 1010</td></tr><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Cost</b></td><td>TBC (only a finalist package\, NZD 550 +GST\,
+  is listed)</td></tr><tr><td style="vertical-align:top\;padding-right:12px
+ "><b>Registration</b></td><td>Humanitix\; refunds up to 7 days before\; de
+ adline not stated</td></tr></table><h3>Why go (fit 3/5)</h3><p>Mixed-senio
+ rity sustainability crowd with drinks networking\; relevant to FMCG and co
+ nsumer brands with sustainability agendas.</p><h3>About the event</h3><tab
+ le><tr><td style="vertical-align:top\;padding-right:12px"><b>Organiser</b>
+ </td><td>Sustainable Business Network</td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Audience</b></td><td>Sustainability leaders
+ \, business people and innovators\; size TBC</td></tr><tr><td style="verti
+ cal-align:top\;padding-right:12px"><b>Networking</b></td><td>Welcome drink
+ s and networking\, then seated dinner</td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Speakers</b></td><td>MC Te Radar</td></tr><
+ tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b></td><t
+ d>Next Listers trends presentation\, dinner\, awards ceremony</td></tr></t
+ able><h3>Scout notes</h3><table><tr><td style="vertical-align:top\;padding
+ -right:12px"><b>Unverified</b></td><td>Ticket price not listed\; audience 
+ seniority inferred. Humanitix is SBN's own ticketing page.</td></tr><tr><t
+ d style="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td>
+ <a href="https://events.humanitix.com/sustainable-business-awards-2026">ht
+ tps://events.humanitix.com/sustainable-business-awards-2026</a></td></tr><
+ tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b></td><t
+ d>UNCONFIRMED prospect until registered. First found 2026-11-02\, last che
+ cked 2026-11-02.</td></tr></table></body></html>
+URL:https://sustainable.org.nz/learn/events/sustainable-business-awards-202
+ 6/
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1424,42 +1800,58 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:767ec0c6fc28f766@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261201T173000
 DTEND;TZID=Pacific/Auckland:20261201T193000
 SUMMARY:IoD Auckland Christmas Member Connect
 LOCATION:KPMG Auckland\, 18 Viaduct Harbour Avenue\, Auckland 1010
-DESCRIPTION:BOOK / REGISTER: https://www.iod.org.nz/all-events/auckland-bra
- nch-event/christmas-member-connect\n\nFit: 4/5. Free\, networking-only eve
- ning with Auckland directors\, a dense board-level room for a strategy con
- sultant.\nOrganiser: Institute of Directors (Auckland Branch)\nTime: 5:30p
- m to 7:30pm\nVenue: KPMG Auckland\, 18 Viaduct Harbour Avenue\, Auckland 1
- 010\nCost: Members free (incl GST)\; member-only\nRegistration: Log in to 
- the IoD website to register\; no deadline stated\; no refunds for cancella
- tions within 2 working days\nAudience: IoD Auckland members (directors and
-  board members)\; size TBC\nNetworking: Informal networking drinks and can
- apés for the full evening\nSpeakers: None listed\nAgenda: End-of-year mem
- ber networking\; Auckland Branch year in review and look ahead\nUnverified
- : Audience size not stated\nSource: https://www.iod.org.nz/all-events/auck
- land-branch-event\n\nStatus: UNCONFIRMED prospect. Found 2026-11-02\, last
-  checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://www.iod.org
- .nz/all-events/auckland-branch-event/christmas-member-connect">Book / regi
- ster</a></b></p>BOOK / REGISTER: https://www.iod.org.nz/all-events/aucklan
- d-branch-event/christmas-member-connect<br><br>Fit: 4/5. Free\, networking
- -only evening with Auckland directors\, a dense board-level room for a str
- ategy consultant.<br>Organiser: Institute of Directors (Auckland Branch)<b
- r>Time: 5:30pm to 7:30pm<br>Venue: KPMG Auckland\, 18 Viaduct Harbour Aven
- ue\, Auckland 1010<br>Cost: Members free (incl GST)\; member-only<br>Regis
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://www.iod.org.nz/all-event
+ s/auckland-branch-event/christmas-member-connect\n\nKEY DETAILS\nWhen: Tue
+  1 Dec 2026\, 5:30pm to 7:30pm\nWhere: KPMG Auckland\, 18 Viaduct Harbour 
+ Avenue\, Auckland 1010\nCost: Members free (incl GST)\; member-only\nRegis
  tration: Log in to the IoD website to register\; no deadline stated\; no r
- efunds for cancellations within 2 working days<br>Audience: IoD Auckland m
- embers (directors and board members)\; size TBC<br>Networking: Informal ne
- tworking drinks and canapés for the full evening<br>Speakers: None listed
- <br>Agenda: End-of-year member networking\; Auckland Branch year in review
-  and look ahead<br>Unverified: Audience size not stated<br>Source: https:/
- /www.iod.org.nz/all-events/auckland-branch-event<br><br>Status: UNCONFIRME
- D prospect. Found 2026-11-02\, last checked 2026-11-02.</body></html>
+ efunds for cancellations within 2 working days\n\nWHY GO (FIT 4/5)\nFree\,
+  networking-only evening with Auckland directors\, a dense board-level roo
+ m for a strategy consultant.\n\nABOUT THE EVENT\nOrganiser: Institute of D
+ irectors (Auckland Branch)\nAudience: IoD Auckland members (directors and 
+ board members)\; size TBC\nNetworking: Informal networking drinks and cana
+ pés for the full evening\nSpeakers: None listed\nAgenda: End-of-year memb
+ er networking\; Auckland Branch year in review and look ahead\n\nSCOUT NOT
+ ES\nUnverified: Audience size not stated\nFound via: https://www.iod.org.n
+ z/all-events/auckland-branch-event\nStatus: UNCONFIRMED prospect until reg
+ istered. First found 2026-11-02\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://www.iod.org.nz/all-events/auckland-branch-event/christmas-memb
+ er-connect">Open event page / register &raquo\;</a></b></p><h3>Key details
+ </h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>When
+ </b></td><td>Tue 1 Dec 2026\, 5:30pm to 7:30pm</td></tr><tr><td style="ver
+ tical-align:top\;padding-right:12px"><b>Where</b></td><td>KPMG Auckland\, 
+ 18 Viaduct Harbour Avenue\, Auckland 1010</td></tr><tr><td style="vertical
+ -align:top\;padding-right:12px"><b>Cost</b></td><td>Members free (incl GST
+ )\; member-only</td></tr><tr><td style="vertical-align:top\;padding-right:
+ 12px"><b>Registration</b></td><td>Log in to the IoD website to register\; 
+ no deadline stated\; no refunds for cancellations within 2 working days</t
+ d></tr></table><h3>Why go (fit 4/5)</h3><p>Free\, networking-only evening 
+ with Auckland directors\, a dense board-level room for a strategy consulta
+ nt.</p><h3>About the event</h3><table><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>Organiser</b></td><td>Institute of Directors (Auckla
+ nd Branch)</td></tr><tr><td style="vertical-align:top\;padding-right:12px"
+ ><b>Audience</b></td><td>IoD Auckland members (directors and board members
+ )\; size TBC</td></tr><tr><td style="vertical-align:top\;padding-right:12p
+ x"><b>Networking</b></td><td>Informal networking drinks and canapés for t
+ he full evening</td></tr><tr><td style="vertical-align:top\;padding-right:
+ 12px"><b>Speakers</b></td><td>None listed</td></tr><tr><td style="vertical
+ -align:top\;padding-right:12px"><b>Agenda</b></td><td>End-of-year member n
+ etworking\; Auckland Branch year in review and look ahead</td></tr></table
+ ><h3>Scout notes</h3><table><tr><td style="vertical-align:top\;padding-rig
+ ht:12px"><b>Unverified</b></td><td>Audience size not stated</td></tr><tr><
+ td style="vertical-align:top\;padding-right:12px"><b>Found via</b></td><td
+ ><a href="https://www.iod.org.nz/all-events/auckland-branch-event">https:/
+ /www.iod.org.nz/all-events/auckland-branch-event</a></td></tr><tr><td styl
+ e="vertical-align:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRM
+ ED prospect until registered. First found 2026-11-02\, last checked 2026-1
+ 1-02.</td></tr></table></body></html>
 URL:https://www.iod.org.nz/all-events/auckland-branch-event/christmas-membe
  r-connect
 CATEGORIES:Stragentum: Prospect Event
@@ -1471,47 +1863,63 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:9a1c5c00a1e9de08@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:1
 DTSTART;TZID=Pacific/Auckland:20261204T063000
 DTEND;TZID=Pacific/Auckland:20261204T163000
 SUMMARY:The 2026 United States Business Summit
 LOCATION:The Great Room\, Cordis Auckland\, 83 Symonds Street\, Grafton\, A
  uckland 1010
-DESCRIPTION:BOOK / REGISTER: https://aucklandchamber.co.nz/event/united-sta
- tes-business-summit-2026/\n\nFit: 4/5. Full-day senior trade and export ro
- om with chamber networking at a moderate per-head price.\nOrganiser: Auckl
- and Business Chamber (AmCham NZ partner)\nTime: 6:30am registration\, 7:15
- am-4:30pm programme\nVenue: The Great Room\, Cordis Auckland\, 83 Symonds 
- Street\, Grafton\, Auckland 1010\nCost: Single NZD 520 +GST\; table of 8 N
- ZD 3\,960 +GST (early bird ended)\; AmCham members use booking code AMCHAM
- \nRegistration: Online via Auckland Business Chamber page\; deadline not s
- tated\nAudience: Business leaders\, exporters\, trade policy\; size TBC\nN
- etworking: TBC (full-day summit)\nSpeakers: TBC\nAgenda: The American Mome
- nt: how NZ wins in the new US economy\; global affairs\, US politics and m
- idterms\, AI\nUnverified: Chamber page body says 6:30am registration and 7
- :15am-4:30pm programme\, but its details box says 7:30am-5:30pm. Speakers\
- , networking format and audience size not read.\nSource: https://aucklandc
- hamber.co.nz/events/\n\nStatus: UNCONFIRMED prospect. Found 2026-11-01\, l
- ast checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://aucklandcha
- mber.co.nz/event/united-states-business-summit-2026/">Book / register</a><
- /b></p>BOOK / REGISTER: https://aucklandchamber.co.nz/event/united-states-
- business-summit-2026/<br><br>Fit: 4/5. Full-day senior trade and export ro
- om with chamber networking at a moderate per-head price.<br>Organiser: Auc
- kland Business Chamber (AmCham NZ partner)<br>Time: 6:30am registration\, 
- 7:15am-4:30pm programme<br>Venue: The Great Room\, Cordis Auckland\, 83 Sy
- monds Street\, Grafton\, Auckland 1010<br>Cost: Single NZD 520 +GST\; tabl
- e of 8 NZD 3\,960 +GST (early bird ended)\; AmCham members use booking cod
- e AMCHAM<br>Registration: Online via Auckland Business Chamber page\; dead
- line not stated<br>Audience: Business leaders\, exporters\, trade policy\;
-  size TBC<br>Networking: TBC (full-day summit)<br>Speakers: TBC<br>Agenda:
-  The American Moment: how NZ wins in the new US economy\; global affairs\,
-  US politics and midterms\, AI<br>Unverified: Chamber page body says 6:30a
- m registration and 7:15am-4:30pm programme\, but its details box says 7:30
- am-5:30pm. Speakers\, networking format and audience size not read.<br>Sou
- rce: https://aucklandchamber.co.nz/events/<br><br>Status: UNCONFIRMED pros
- pect. Found 2026-11-01\, last checked 2026-11-02.</body></html>
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://aucklandchamber.co.nz/ev
+ ent/united-states-business-summit-2026/\n\nKEY DETAILS\nWhen: Fri 4 Dec 20
+ 26\, 6:30am registration\, 7:15am-4:30pm programme\nWhere: The Great Room\
+ , Cordis Auckland\, 83 Symonds Street\, Grafton\, Auckland 1010\nCost: Sin
+ gle NZD 520 +GST\; table of 8 NZD 3\,960 +GST (early bird ended)\; AmCham 
+ members use booking code AMCHAM\nRegistration: Online via Auckland Busines
+ s Chamber page\; deadline not stated\n\nWHY GO (FIT 4/5)\nFull-day senior 
+ trade and export room with chamber networking at a moderate per-head price
+ .\n\nABOUT THE EVENT\nOrganiser: Auckland Business Chamber (AmCham NZ part
+ ner)\nAudience: Business leaders\, exporters\, trade policy\; size TBC\nNe
+ tworking: TBC (full-day summit)\nSpeakers: TBC\nAgenda: The American Momen
+ t: how NZ wins in the new US economy\; global affairs\, US politics and mi
+ dterms\, AI\n\nSCOUT NOTES\nUnverified: Chamber page body says 6:30am regi
+ stration and 7:15am-4:30pm programme\, but its details box says 7:30am-5:3
+ 0pm. Speakers\, networking format and audience size not read.\nFound via: 
+ https://aucklandchamber.co.nz/events/\nStatus: UNCONFIRMED prospect until 
+ registered. First found 2026-11-01\, last checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://aucklandchamber.co.nz/event/united-states-business-summit-2026
+ /">Open event page / register &raquo\;</a></b></p><h3>Key details</h3><tab
+ le><tr><td style="vertical-align:top\;padding-right:12px"><b>When</b></td>
+ <td>Fri 4 Dec 2026\, 6:30am registration\, 7:15am-4:30pm programme</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Where</b></td>
+ <td>The Great Room\, Cordis Auckland\, 83 Symonds Street\, Grafton\, Auckl
+ and 1010</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><
+ b>Cost</b></td><td>Single NZD 520 +GST\; table of 8 NZD 3\,960 +GST (early
+  bird ended)\; AmCham members use booking code AMCHAM</td></tr><tr><td sty
+ le="vertical-align:top\;padding-right:12px"><b>Registration</b></td><td>On
+ line via Auckland Business Chamber page\; deadline not stated</td></tr></t
+ able><h3>Why go (fit 4/5)</h3><p>Full-day senior trade and export room wit
+ h chamber networking at a moderate per-head price.</p><h3>About the event<
+ /h3><table><tr><td style="vertical-align:top\;padding-right:12px"><b>Organ
+ iser</b></td><td>Auckland Business Chamber (AmCham NZ partner)</td></tr><t
+ r><td style="vertical-align:top\;padding-right:12px"><b>Audience</b></td><
+ td>Business leaders\, exporters\, trade policy\; size TBC</td></tr><tr><td
+  style="vertical-align:top\;padding-right:12px"><b>Networking</b></td><td>
+ TBC (full-day summit)</td></tr><tr><td style="vertical-align:top\;padding-
+ right:12px"><b>Speakers</b></td><td>TBC</td></tr><tr><td style="vertical-a
+ lign:top\;padding-right:12px"><b>Agenda</b></td><td>The American Moment: h
+ ow NZ wins in the new US economy\; global affairs\, US politics and midter
+ ms\, AI</td></tr></table><h3>Scout notes</h3><table><tr><td style="vertica
+ l-align:top\;padding-right:12px"><b>Unverified</b></td><td>Chamber page bo
+ dy says 6:30am registration and 7:15am-4:30pm programme\, but its details 
+ box says 7:30am-5:30pm. Speakers\, networking format and audience size not
+  read.</td></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>
+ Found via</b></td><td><a href="https://aucklandchamber.co.nz/events/">http
+ s://aucklandchamber.co.nz/events/</a></td></tr><tr><td style="vertical-ali
+ gn:top\;padding-right:12px"><b>Status</b></td><td>UNCONFIRMED prospect unt
+ il registered. First found 2026-11-01\, last checked 2026-11-02.</td></tr>
+ </table></body></html>
 URL:https://aucklandchamber.co.nz/event/united-states-business-summit-2026/
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE
@@ -1522,37 +1930,53 @@ CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:b85ff9c581a67fd1@stragentum-scout
-DTSTAMP:20261101T205648Z
+DTSTAMP:20261101T210029Z
 SEQUENCE:0
 DTSTART;TZID=Pacific/Auckland:20261210T170000
 DTEND;TZID=Pacific/Auckland:20261210T200000
 SUMMARY:[?] Chamber & Cordis Christmas Party 2026
 LOCATION:Cordis Auckland\, 83 Symonds Street\, Grafton\, Auckland 1010
-DESCRIPTION:BOOK / REGISTER: https://aucklandchamber.co.nz/event/cordis-chr
- istmas-party-2026/\n\nFit: 3/5. Cheap\, relaxed end-of-year mixer with the
-  Chamber community\; social rather than strategic.\nOrganiser: Auckland Bu
- siness Chamber\nTime: 5:00pm-8:00pm\nVenue: Cordis Auckland\, 83 Symonds S
- treet\, Grafton\, Auckland 1010\nCost: Early bird single NZD 85 +GST\; gro
- up of 10 NZD 700 +GST\nRegistration: Online via Chamber page\; deadline no
- t stated\nAudience: Chamber members and their teams\; size TBC\nNetworking
+DESCRIPTION:EVENT PAGE (book / register):\nhttps://aucklandchamber.co.nz/ev
+ ent/cordis-christmas-party-2026/\n\nKEY DETAILS\nWhen: Thu 10 Dec 2026\, 5
+ :00pm-8:00pm\nWhere: Cordis Auckland\, 83 Symonds Street\, Grafton\, Auckl
+ and 1010\nCost: Early bird single NZD 85 +GST\; group of 10 NZD 700 +GST\n
+ Registration: Online via Chamber page\; deadline not stated\n\nWHY GO (FIT
+  3/5)\nCheap\, relaxed end-of-year mixer with the Chamber community\; soci
+ al rather than strategic.\n\nABOUT THE EVENT\nOrganiser: Auckland Business
+  Chamber\nAudience: Chamber members and their teams\; size TBC\nNetworking
  : Studio 54-themed party with food\, drinks and prize draws\nSpeakers: Non
- e\nAgenda: End-of-year party\nUnverified: Audience seniority and size infe
- rred.\nSource: https://aucklandchamber.co.nz/events/\n\nStatus: UNCONFIRME
- D prospect. Found 2026-11-02\, last checked 2026-11-02.
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p><b><a href="https://aucklandcha
- mber.co.nz/event/cordis-christmas-party-2026/">Book / register</a></b></p>
- BOOK / REGISTER: https://aucklandchamber.co.nz/event/cordis-christmas-part
- y-2026/<br><br>Fit: 3/5. Cheap\, relaxed end-of-year mixer with the Chambe
- r community\; social rather than strategic.<br>Organiser: Auckland Busines
- s Chamber<br>Time: 5:00pm-8:00pm<br>Venue: Cordis Auckland\, 83 Symonds St
- reet\, Grafton\, Auckland 1010<br>Cost: Early bird single NZD 85 +GST\; gr
- oup of 10 NZD 700 +GST<br>Registration: Online via Chamber page\; deadline
-  not stated<br>Audience: Chamber members and their teams\; size TBC<br>Net
- working: Studio 54-themed party with food\, drinks and prize draws<br>Spea
- kers: None<br>Agenda: End-of-year party<br>Unverified: Audience seniority 
- and size inferred.<br>Source: https://aucklandchamber.co.nz/events/<br><br
- >Status: UNCONFIRMED prospect. Found 2026-11-02\, last checked 2026-11-02.
- </body></html>
+ e\nAgenda: End-of-year party\n\nSCOUT NOTES\nUnverified: Audience seniorit
+ y and size inferred.\nFound via: https://aucklandchamber.co.nz/events/\nSt
+ atus: UNCONFIRMED prospect until registered. First found 2026-11-02\, last
+  checked 2026-11-02.
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p style="font-size:14pt"><b><a hr
+ ef="https://aucklandchamber.co.nz/event/cordis-christmas-party-2026/">Open
+  event page / register &raquo\;</a></b></p><h3>Key details</h3><table><tr>
+ <td style="vertical-align:top\;padding-right:12px"><b>When</b></td><td>Thu
+  10 Dec 2026\, 5:00pm-8:00pm</td></tr><tr><td style="vertical-align:top\;p
+ adding-right:12px"><b>Where</b></td><td>Cordis Auckland\, 83 Symonds Stree
+ t\, Grafton\, Auckland 1010</td></tr><tr><td style="vertical-align:top\;pa
+ dding-right:12px"><b>Cost</b></td><td>Early bird single NZD 85 +GST\; grou
+ p of 10 NZD 700 +GST</td></tr><tr><td style="vertical-align:top\;padding-r
+ ight:12px"><b>Registration</b></td><td>Online via Chamber page\; deadline 
+ not stated</td></tr></table><h3>Why go (fit 3/5)</h3><p>Cheap\, relaxed en
+ d-of-year mixer with the Chamber community\; social rather than strategic.
+ </p><h3>About the event</h3><table><tr><td style="vertical-align:top\;padd
+ ing-right:12px"><b>Organiser</b></td><td>Auckland Business Chamber</td></t
+ r><tr><td style="vertical-align:top\;padding-right:12px"><b>Audience</b></
+ td><td>Chamber members and their teams\; size TBC</td></tr><tr><td style="
+ vertical-align:top\;padding-right:12px"><b>Networking</b></td><td>Studio 5
+ 4-themed party with food\, drinks and prize draws</td></tr><tr><td style="
+ vertical-align:top\;padding-right:12px"><b>Speakers</b></td><td>None</td><
+ /tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Agenda</b></
+ td><td>End-of-year party</td></tr></table><h3>Scout notes</h3><table><tr><
+ td style="vertical-align:top\;padding-right:12px"><b>Unverified</b></td><t
+ d>Audience seniority and size inferred.</td></tr><tr><td style="vertical-a
+ lign:top\;padding-right:12px"><b>Found via</b></td><td><a href="https://au
+ cklandchamber.co.nz/events/">https://aucklandchamber.co.nz/events/</a></td
+ ></tr><tr><td style="vertical-align:top\;padding-right:12px"><b>Status</b>
+ </td><td>UNCONFIRMED prospect until registered. First found 2026-11-02\, l
+ ast checked 2026-11-02.</td></tr></table></body></html>
 URL:https://aucklandchamber.co.nz/event/cordis-christmas-party-2026/
 CATEGORIES:Stragentum: Prospect Event
 STATUS:TENTATIVE

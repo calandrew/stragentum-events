@@ -168,30 +168,6 @@
   "sequence": 0
  },
  {
-  "title": "BNZBA: From Purpose Statements to Real Decisions - Building a Wellbeing Economy",
-  "start": "2026-10-27T11:45",
-  "end": "2026-10-27T14:00",
-  "time_text": "11:45am-2:00pm",
-  "venue": "AUT Te Iringa Wave Room WG308, Sir Paul Reeves Building",
-  "address": "Governor Fitzroy Place, Auckland 1010",
-  "organiser": "British New Zealand Business Association (BNZBA)",
-  "url": "https://www.bnzba.co.nz/event/from-purpose-statements-to-real-decisions-building-a-wellbeing-economy",
-  "source_url": "https://www.bnzba.co.nz/bnzba-events",
-  "cost": "TBC",
-  "registration": "Humanitix via organiser page; waitlist form shown; deadline TBC",
-  "audience": "TBC",
-  "networking": "TBC (midday slot suggests lunch)",
-  "speakers": "Dr Victoria Hurth (keynote); panel: Neil Gaught (Founder, Neil Gaught & Associates), Andrew Baker (Founder, Tika Learning); moderator Dr Victoria Hatton (Founder, Be.Deliberate; BNZBA Vice President)",
-  "agenda": "Keynote then panel on turning corporate purpose into real strategic decisions",
-  "fit_score": 3,
-  "fit_rationale": "UK-NZ business network with a strategy-and-purpose theme close to Stragentum's board work, though audience seniority is unknown.",
-  "unverified": "Cost, audience, networking format; a waitlist form suggests it may be sold out",
-  "uid": "69ee409d497d9c40@stragentum-scout",
-  "last_seen": "2026-10-15",
-  "first_seen": "2026-10-15",
-  "sequence": 0
- },
- {
   "title": "IoD & Chapter Zero NZ Climate Forum",
   "start": "2026-10-28",
   "time_text": "TBC",
@@ -318,8 +294,8 @@
   "venue": "JW Marriott Auckland",
   "address": "26 Albert Street, Auckland",
   "organiser": "CFA Society New Zealand",
-  "url": "https://www.cfasociety.org/newzealand/society-events/upcoming-events",
-  "source_url": "https://www.eventbrite.co.nz/e/cfa-society-new-zealand-investment-summit-2026-tickets-1994915639379",
+  "url": "https://www.cfasociety.org/newzealand/society-events/society-events-investment-summit-2026",
+  "source_url": "https://www.cfasociety.org/newzealand/society-events/upcoming-events",
   "cost": "Early bird (to 25 Sep 2026): NZD 175 members / NZD 225 general admission; corporate tables NZD 2,025 (incl GST + fees). Price rises after early-bird deadline.",
   "registration": "Book via Eventbrite link from CFA Society NZ's events page. Early-bird PRICE deadline Fri 25 Sep 2026 (2 days from this run); no refunds. Previously tracked static event page (nz-investment-conference) is now a dead link showing the 2025 event.",
   "audience": "Investment professionals, institutional investors and business leaders",
@@ -332,7 +308,7 @@
   "uid": "4640784bb135fc21@stragentum-scout",
   "last_seen": "2026-11-02",
   "first_seen": "2026-09-23",
-  "sequence": 1
+  "sequence": 2
  },
  {
   "title": "Marketing Association: Mark Ritson Live (Auckland)",
@@ -654,7 +630,7 @@
   "venue": "Shed 10",
   "address": "Queens Wharf, Auckland CBD 1010",
   "organiser": "Sustainable Business Network",
-  "url": "https://events.humanitix.com/sustainable-business-awards-2026",
+  "url": "https://sustainable.org.nz/learn/events/sustainable-business-awards-2026/",
   "source_url": "https://events.humanitix.com/sustainable-business-awards-2026",
   "cost": "TBC (only a finalist package, NZD 550 +GST, is listed)",
   "registration": "Humanitix; refunds up to 7 days before; deadline not stated",
@@ -668,7 +644,7 @@
   "uid": "1dca640eab394902@stragentum-scout",
   "last_seen": "2026-11-02",
   "first_seen": "2026-11-02",
-  "sequence": 0
+  "sequence": 1
  },
  {
   "title": "IoD Auckland Christmas Member Connect",

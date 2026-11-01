@@ -79,34 +79,59 @@ def html(s):
 
 
 # ---------- rendering ----------
-def description(ev):
-    lines = [f"BOOK / REGISTER: {ev['url']}", ""]
-    fields = [
-        ("Fit", f"{ev.get('fit_score', '?')}/5. {ev.get('fit_rationale', '')}".strip()),
-        ("Organiser", ev.get("organiser")),
-        ("Time", ev.get("time_text")),
-        ("Venue", ", ".join(x for x in [ev.get("venue"), ev.get("address")] if x)),
-        ("Cost", ev.get("cost")),
-        ("Registration", ev.get("registration")),
-        ("Audience", ev.get("audience")),
-        ("Networking", ev.get("networking")),
-        ("Speakers", ev.get("speakers")),
-        ("Agenda", ev.get("agenda")),
-        ("Unverified", ev.get("unverified")),
-        ("Source", ev.get("source_url")),
+def sections(ev):
+    """Description content as (heading, [(label, value)]) groups; empty values dropped."""
+    day = date.fromisoformat(ev["start"][:10]).strftime("%a %d %b %Y").replace(" 0", " ")
+    when = f"{day}, {ev.get('time_text') or ('time TBC' if 'T' not in ev['start'] else ev['start'][11:16])}"
+    groups = [
+        ("Key details", [
+            ("When", when),
+            ("Where", ", ".join(x for x in [ev.get("venue"), ev.get("address")] if x) or "Venue TBC"),
+            ("Cost", ev.get("cost")),
+            ("Registration", ev.get("registration")),
+        ]),
+        (f"Why go (fit {ev.get('fit_score', '?')}/5)", [("", ev.get("fit_rationale"))]),
+        ("About the event", [
+            ("Organiser", ev.get("organiser")),
+            ("Audience", ev.get("audience")),
+            ("Networking", ev.get("networking")),
+            ("Speakers", ev.get("speakers")),
+            ("Agenda", ev.get("agenda")),
+        ]),
+        ("Scout notes", [
+            ("Unverified", ev.get("unverified")),
+            ("Found via", ev.get("source_url") if ev.get("source_url") != ev["url"] else None),
+            ("Status", f"UNCONFIRMED prospect until registered. First found {ev.get('first_seen', '')}, "
+                       f"last checked {ev.get('last_seen', '')}."),
+        ]),
     ]
-    for k, v in fields:
-        if v:
-            lines.append(f"{k}: {v}")
-    lines += ["", f"Status: UNCONFIRMED prospect. Found {ev.get('first_seen', '')}, "
-              f"last checked {ev.get('last_seen', '')}."]
+    return [(h, [(k, v) for k, v in rows if v]) for h, rows in groups if any(v for _, v in rows)]
+
+
+def description(ev):
+    # Plain text: Outlook web/mobile show this and auto-link bare URLs, so the event page goes on its own line.
+    lines = ["EVENT PAGE (book / register):", ev["url"]]
+    for heading, rows in sections(ev):
+        lines += ["", heading.upper()]
+        lines += [f"{k}: {v}" if k else v for k, v in rows]
     return "\n".join(lines)
 
 
 def alt_desc(ev):
-    body = html(description(ev)).replace("\n", "<br>")
-    link = f'<p><b><a href="{html(ev["url"])}">Book / register</a></b></p>'
-    return f"<html><body>{link}{body}</body></html>"
+    def cell(v):
+        v = html(v)
+        return f'<a href="{v}">{v}</a>' if v.startswith("http") else v
+    parts = [f'<p style="font-size:14pt"><b><a href="{html(ev["url"])}">Open event page / register &raquo;</a></b></p>']
+    for heading, rows in sections(ev):
+        parts.append(f"<h3>{html(heading)}</h3>")
+        if all(not k for k, _ in rows):
+            parts += [f"<p>{cell(v)}</p>" for _, v in rows]
+            continue
+        parts.append("<table>")
+        parts += [f'<tr><td style="vertical-align:top;padding-right:12px"><b>{html(k)}</b></td><td>{cell(v)}</td></tr>'
+                  for k, v in rows]
+        parts.append("</table>")
+    return "<html><body>" + "".join(parts) + "</body></html>"
 
 
 def vevent(ev, stamp):
